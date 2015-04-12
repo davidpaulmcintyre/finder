@@ -10,23 +10,19 @@ var Form = React.createClass({
             zip: ''
         };
     },*/
-    //getDefaultProps: function(){
-    //    return {
-    //        day: 'All'
-    //    }
-    //},
     filter: function(e) {
+        console.log('lang = ' + this.props.filters.language);
         e.preventDefault();
         var changes = {
             city: this.refs.city.getDOMNode().value,
             day: this.refs.day.getDOMNode().value,
-            language: this.state.language,
+            language: this.props.filters.language,
             zip: this.refs.zip.getDOMNode().value
-    }
+        };
         this.props.submit(changes);
     },
     onLanguageChange: function(event){
-        this.setState({language: event.target.value});
+        this.setProps({language: event.target.value});
     },
     render: function() {
         return (

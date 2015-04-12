@@ -3,3 +3,10 @@
     width: 90px;
     text-align: left;
 }
+
+#map-canvas {
+    width: 600px;
+    height: 400px;
+    margin: 0;
+    padding: 0;
+}
