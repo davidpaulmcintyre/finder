@@ -65,7 +65,7 @@ var MeetingsStore = assign({}, EventEmitter.prototype, {
     getAll: function() {
         return _meetings;
     },
-    filter: function(){
+    getMeetings: function(filters){
         return _meetings;
     }
 });

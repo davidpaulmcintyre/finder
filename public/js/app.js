@@ -1,10 +1,11 @@
 /** @jsx React.DOM */
 var React = require('react');
-//
-var MeetingsApp = require('./components/MeetingsApp.jsx');
+
+//var MeetingsApp = require('./components/MeetingsApp.jsx');
+var Shell = require('./components/Shell.jsx');
 
 React.render(
-    <MeetingsApp/>,
-    document.getElementById('meetingsapp')
+    <Shell/>,
+    document.getElementById('app-container')
 
 );

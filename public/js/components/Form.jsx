@@ -2,34 +2,35 @@
 var React = require('react');
 
 var Form = React.createClass({
-    /*getInitialState: function() {
+    getInitialState: function() {
         return {
-            day: 'Tuesday',
-            language: 'Spanish',
-            city: '',
-            zip: ''
+            language: this.props.filters.language,
+            day: this.props.filters.day
         };
-    },*/
+    },
     filter: function(e) {
         console.log('lang = ' + this.props.filters.language);
         e.preventDefault();
         var changes = {
             city: this.refs.city.getDOMNode().value,
-            day: this.refs.day.getDOMNode().value,
-            language: this.props.filters.language,
+            day: this.state.day,
+            language: this.state.language,
             zip: this.refs.zip.getDOMNode().value
         };
         this.props.submit(changes);
     },
     onLanguageChange: function(event){
-        this.setProps({language: event.target.value});
+        this.setState({language: event.target.value});
+    },
+    onDayChange: function(event){
+        this.setState({day: event.target.value});
     },
     render: function() {
         return (
             <div className='form-filter'>
                 <div>
                     <span>Day</span>
-                    <select ref='day' value={this.props.filters.day} >
+                    <select ref='day' value={this.props.filters.day} onChange={this.onDayChange} >
                         <option value=''>All</option>
                         <option value='Sunday'>Sunday</option>
                         <option value='Monday'>Monday</option>

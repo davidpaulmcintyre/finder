@@ -15,18 +15,13 @@ var MeetingsApp = React.createClass({
             filterValues: {
                 language: 'English'
             }
-            //map: {
-            //    latitude: 39.5,
-            //    longitude: -98.35,
-            //    zoomLevel: 4
-            //}
         };
     },
-    getInitialState: function(){
-        return {
-            filteredMeetings: this.filterMeetings()
-        };
-    },
+    //getInitialState: function(){
+    //    return {
+    //        filteredMeetings: this.filterMeetings()
+    //    };
+    //},
     filterMeetings: function(){
         var filtered = this.props.meetings;
         var filters = this.props.filterValues;
@@ -46,12 +41,16 @@ var MeetingsApp = React.createClass({
         var filtered = this.filterMeetings();
         this.setState({'filteredMeetings': filtered});
     },
-    loadMap: function(options){
+    loadMap: function(){
+        var options = this.state.map;
         var mapOptions = {
             center: { lat: options.latitude, lng: options.longitude },
             zoom: options.zoomLevel
         };
         var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+    },
+    componentWillUnmount: function(){
+        console.log('mounting');
     },
     getGeoLocation: function(){
         console.log('get geo');
@@ -68,19 +67,23 @@ var MeetingsApp = React.createClass({
                     longitude: parseFloat(position.coords.longitude),
                     zoomLevel: 11
                 };
-                //that.setProps({map: mapConfig});
+                that.setState({map: mapConfig});
                 that.loadMap(mapConfig);
             }, function(error) {
                 console.log('geoloc error');
-                that.loadMap(mapDefault);
+                that.setState({map: mapConfig});
+                that.loadMap();
             },{timeout:10000});
         }else{
-            console.log('not supported');
-            that.loadMap(mapDefault);
+            that.setState({map: mapConfig});
+            that.loadMap();
         }
     },
-    render: function() {
+    componentWillMount: function(){
         this.getGeoLocation();
+    },
+
+    render: function() {
         return (
             <div>
                 <Form filters={this.props.filterValues} submit={this.submitFilterValues}/>
