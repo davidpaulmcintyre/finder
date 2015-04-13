@@ -2,54 +2,18 @@
 <head>
     <title>Meeting Finder</title>
     <link rel="stylesheet" type="text/css" href="dist/css/styles.css">
+
+    <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/react/0.13.1/react.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/react/0.13.1/JSXTransformer.js"></script>
-    <!--<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3"></script><script type="text/jsx" src="dist/js/build.js"></script>-->
-    <!---->
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script><script type="text/jsx" src="dist/js/build.js"></script>
 
-
-
-    <!--<script type="text/javascript">-->
-        <!--function initialize() {-->
-            <!--console.log('map init');-->
-            <!--var mapOptions = {-->
-                <!--center: { lat: 42.37, lng: -71.1},-->
-                <!--zoom: 11-->
-            <!--};-->
-            <!--var map = new google.maps.Map(document.getElementById('map-canvas'),-->
-                    <!--mapOptions);-->
-        <!--}-->
-        <!--google.maps.event.addDomListener(window, 'load', initialize);-->
-    <!--</script>-->
 </head>
 <body>
 <h2>Meeting Finder</h2>
 <div id="app-container"></div>
-<!--<div id="map-canvas"></div>-->
-<div style="height:100%; width:100%;">
+<div >
     <div id="map-canvas"></div>
 </div>
-<!--
-<button onclick="getLocation()">Try It</button>
-
-<div>coordinates</div>
-<p id="demo"></p>
-
-<script>
-    var x = document.getElementById("demo");
-
-    if (navigator.geolocation) {
-        navigator.geolocation.getCurrentPosition(function(position) {
-            alert('it works');
-        }, function(error) {
-            alert('Error occurred. Error code: ' + error.code);
-        },{timeout:5000});
-    }else{
-        alert('no geolocation support');
-    }
-</script>
--->
-
 </body>
 </html>

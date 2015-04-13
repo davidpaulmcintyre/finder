@@ -1,15 +1,14 @@
 /** @jsx React.DOM */
 var React = require('react');
-
+var Griddle = require('griddle-react');
 var List = React.createClass({
     render: function() {
-        var meetings = this.props.items.map(function(meeting){
-            return <div>{meeting.name}{' '}{meeting.day}{' '}{meeting.language}{' '}{meeting.city}</div>
-        })
-
-        return <div>{meetings}</div>;
+        console.log('ITEMS = ' + this.props.items.length);
+        var meetings = this.props.items;
+        return (
+            <Griddle results={meetings} columns={["name", "day", "city", "state", "language"]}/>
+        )
     }
-
 
 });
 
