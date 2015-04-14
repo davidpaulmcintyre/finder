@@ -15,7 +15,8 @@ var Form = React.createClass({
             city: this.refs.city.getDOMNode().value,
             day: this.state.day,
             language: this.state.language,
-            zip: this.refs.zip.getDOMNode().value
+            zip: this.refs.zip.getDOMNode().value,
+            distance: this.state.distance
         };
         this.props.submit(changes);
     },
@@ -24,6 +25,9 @@ var Form = React.createClass({
     },
     onDayChange: function(event){
         this.setState({day: event.target.value});
+    },
+    onDistanceChange: function(event){
+        this.setState({ distance: event.target.value });
     },
     render: function() {
         return (
@@ -49,6 +53,16 @@ var Form = React.createClass({
                     <span>Zipcode</span>
                     <input ref='zip' type='text' placeholder='zip' />
                 </div>
+                <span>Max distance (in miles) from you</span>
+                <select ref='distance' value={this.props.filters.distance} onChange={this.onDistanceChange} >
+                    <option value=''>No max</option>
+                    <option value='800'>.5</option>
+                    <option value='1600'>1</option>
+                    <option value='3200'>2</option>
+                    <option value='8000'>5</option>
+                    <option value='1600'>10</option>
+                    <option value='3200'>20</option>
+                </select>
 
                 <div>
                     <span>Language</span>

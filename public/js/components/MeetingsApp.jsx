@@ -3,16 +3,16 @@ var React = require('react');
 var Form = require('./Form.jsx');
 var List = require('./List.jsx');
 //var Map = require('./Map.jsx');
-var MeetingsStore = require('../stores/MeetingsStore');
+//var MeetingsStore = require('../stores/MeetingsStore');
 //var MeetingsActions = require('../actions/MeetingsActions');
 
-function getMeetingsState() {
-    return MeetingsStore.getAll();
-}
+//function getMeetingsState() {
+//    return MeetingsStore.getAll();
+//}
 var MeetingsApp = React.createClass({
     getDefaultProps: function() {
         return {
-            meetings: getMeetingsState(),
+            //meetings: getMeetingsState(),
             filterValues: {
                 language: 'English'
             },

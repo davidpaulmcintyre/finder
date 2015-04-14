@@ -3,12 +3,6 @@ var MongoClient = require('mongodb').MongoClient;
 var request = require('request');
 
 var urlRoot = 'http://maps.googleapis.com/maps/api/geocode/json?address=';
-//request('1600+Amphitheatre+Parkway+Mountain+View,+CA', function (error, response, body) {
-//    if (!error && response.statusCode == 200) {
-//        console.log(body) // Print the body of response.
-//    }
-//})
-
 
 function executeRequest(db, url, doc) {
     request(url, function (error, response, body) {

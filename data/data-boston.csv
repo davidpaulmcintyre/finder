@@ -1,0 +1,2246 @@
+codes,day,city,name,address,startTime,isAccessible
+OSD,Sun,Abington,Early Bird Dawn Patrol,"United Ch., Rte. 18, 10 Bedford St.",7-8 am, 
+Cl2,Sun,Acton,Acton,"St. Matthew's Ch., 435 Central St",7:30 p.m., 
+OBB12,Sun,Allston,Serenity,"Hill Baptist, 279 N. Harvard",7:30 p.m., 
+OSD,Sun,Amesbury,Progress,"Progress House, 39 High St.",10-11:15 a.m., 
+CD,Sun,Arlington,Just for Today,"St. Camilus, 1175 Concord Tpk",6 a.m. and 7 a.m.,Handicap Yes
+C12,Sun,Arlington,How it Works 12&12,"Church of the Savior, 21 Marathon St",5-6 p.m., 
+O,Sun,Ashburnham,Naukeag,"Community Church, Rt. 12",6:15 p.m., 
+O,Sun,Ashland,Sunday AM,"Community Center , 162 Union St., next to State Park",11 a.m.-12:15, 
+O,Sun,Attleboro,Sun AM,"Cameron Bldg., 68 Falmouth St.",10 -11 a.m.,Handicap Yes
+OSD,Sun,Attleboro,Principles Before Personalities,"Murray Unit. Ch., Unity Rm., 505 N. Main St.",6-7 p.m., 
+OD,Sun,Attleboro,Gift Of Life,"YMCA, 537 Pleasant St.",7:00 p.m., 
+CBB,Sun,Bedford,First Things First,"1st. Church of Christ, 25 Great Rd.",6:00 - 6:45 a.m., 
+CD,Sun,Bedford, ,"VA Hosp., Main Bldg., 78E, 3rd Fl.",9:30 a.m., 
+O,Sun,Belmont,Eye Opener,McLean Hosp. Café.,10:30 a.m.,Handicap Yes
+CSD,Sun,Beverly,Early Bird,"White Whale, 9 Hale St.",8-9 a.m., 
+O,Sun,Beverly,Second Chance,"White Whale, 9 Hale St.",2 p.m., 
+CSD,Sun,Beverly,Second Chance,"White Whale, 9 Hale St.",5:30-6:30 p.m., 
+O,Sun,Beverly,North,"Second Cong., Ch., 35 Conant St.",8:00-9:00 p.m.,Handicap Yes
+OD,Sun,Billerica,Jekyll + Hyde,"1st Cong. Ch., 18 Andover Rd.",6-7 p.m., 
+C12M,Sun,Billerica,Men's Step,"Sober House, 317 Boston Rd.",7:00 p.m., 
+OD,Sun,Billerica,Let's Talk,"Comm. Cong'l., 803 Boston Rd.",8 p.m., 
+O12,Sun,Boston,Prado Sunday,"Harbor Ch., 9 Salutation St.",9 - 10 am, 
+OD#,Sun,Boston,Sun. Morn.,"Lady of Victories, 27 Isabella St.",9:30 - 10:30 a.m., 
+ODG,Sun,Boston,Sober Sunday,74 Kilmarnock St.,10:00-11:00 a.m., 
+O12#,Sun,Boston,Steps in the City,"Lindemann Center, Boston Rm., 25 Staniford St.",2 p.m.,Handicap Yes
+O,Sun,Boston,Park Square,"Morville Hse. Conf. Rm., 100 Norway St.",4:30-5:30 p.m.,Handicap Yes
+ODG,Sun,Boston,How Are You Today?,74 Kilmarnock St.,6 p.m., 
+O12,Sun,Boston,New Comm.,"M.G.H., Thier 101 Conf. Room",6:00 p.m., 
+O,Sun,Boston,Not Forgotten,"Vets shelter, 17 Court St.",6:45-7:45 p.m., 
+OD,Sun,Boston,Old Dogs New Tricks,"Sacred Heart Ch., 9 Sun Court",7 p.m., 
+O12,Sun,Boston,Out Of The Basement,"Emm. Ch., 15 Newbury St., 2nd Fl. Via ramp",7:30 - 8:45 p.m., 
+O,Sun,Braintree,Eye Opener,Thayer Academy H.S. Cafeteria,10 a.m.,yes
+OYP,Sun,Braintree,Young People,"St. Clare's, 1244 Liberty St.",7-8 p.m.,Handicap Yes
+OD,Sun,Brewster,Grateful Living,"United Methodist, 701 Airline Rd.",7:15-8:15 a.m., 
+OD,Sun,Brewster,5 Alive,"Club Dry Dock, 1439 Main St., Rte. 6A",5 p.m., 
+O,Sun,Bridgewater,Central Sq.,Congregational Church,8 - 9 p.m., 
+CM,Sun,Brighton,Allston Men's,"Y.M.C.A., 615 Washington St.",9:00 a.m., 
+SDYP,Sun,Brighton,Room 6,"St. Elizabeth Hospital.,St. Marg.Ctr., 5th fl.",5:30-6:30 p.m.,Handicap Yes
+O*,Sun,Brighton,Sunday,"Brighton/Allston Cong. Ch., 404 Washington St.","7p.m., Beg. 5:30-6:30 p.m.", 
+O*,Sun,Brockton,Sun. A.M.,"High School, Belmont St.","10:00 a.m., Beg. 8:45 a.m.",Handicap Yes
+OSD,Sun,Brockton,Open Door,"1st Evangelical church, 900 Main St.",7:00 p.m., 
+OD,Sun,Brookline,Substance,"Police Station, 350 Wash. St.,",8:45 - 10:00 a.m., 
+OBB,Sun,Brookline,Into Action,"Christ Our Saviour Ch., Carlton & Monmouth Sts.",6:30 p.m., 
+OD,Sun,Burlington, ,"St. Malachy's, 99 Bedford St.",8-9 p.m., 
+O,Sun,Cambridge,Brattle,"YWCA, 7 Temple St., Central Sq.",10-11:30 a.m., 
+O,Sun,Cambridge,Esperanza-Portuguese,"St. Anthony's, 400 Cardinal Mederios Dr",3:00 p.m., 
+OSD,Sun,Cambridge,Rule 62,"Christ Church, Zero Garden St.",5:00 - 6:00 p.m., 
+C12,Sun,Cambridge,Came to Believe,"Mt. Auburn Hospital, Café. 2",7:30-8:30 p.m., 
+O,Sun,Canton,Trailside,"Trinity Ch., 1 Blue Hill River Rd.",7:30 p.m., 
+OD,Sun,Cedarville,Little Red Schoolhouse,Herring & Long Pond,3:30 p.m., 
+SDM,Sun,Charlestown,Men's,586 Rutherford Ave.,10-11:15 a.m.,Yes
+OD,Sun,Charlestown,Reflections,586 Rutherford Ave.,12-1 p.m., 
+O,Sun,Charlestown,Sunday Night,"Police Station, 20 Vine St., 2nd Fl.",7-8:15 PM, 
+O,Sun,Chelmsford,Nashoba,"Central Baptist, Westford & Academy Sts.",7-8 p.m., 
+OSD,Sun,Chelmsford,Topic,"First Parish Unitarian, Central Sq.",7 p.m., 
+OD,Sun,Clinton, ,"A.I.R., 256 High St.",9:30-10:30 a.m., 
+O12,Sun,Clinton,One Step At A Time,"A.I.R. Center, 256 High St.",6-7:15 p.m., 
+O,Sun,Cohasset,Community,"Deerhill Sch., 206 Sohier St.",11-Noon, 
+CBB,Sun,Cohasset, ,"St. Steven's, 16 Highland Ave.",7:00 p.m., 
+O*,Sun,Concord,Sun. A.M.,"Emerson Hosp.Main Bldg. Cheney Conf. Rm.,Rte. 2.","9 a.m., Beg. 8:15 a.m.", 
+O,Sun,Concord,Where Rubber Meets Rd.,"Emerson Hosp.,North 5, Rte 2",10:15 a.m., 
+CBB,Sun,Danvers,Threefold,"All Saints Epis. Ch., Holten & Cherry St.",7:00-8:00 p.m., 
+O,Sun,Dartmouth,Pathfinders,"U Mass. Dartmouth, Parking lot 4, Room 206",10:30 a.m., 
+CD,Sun,Dartmouth,New Life,"St. Peter's Ch., 351 Elm St.",7-8:15 p.m., 
+O*,Sun,Dedham,Village,"Unitarian, 670 High St.,",7:00 p.m. Beg. 6-7 p.m., 
+CD,Sun,Dennis,Here & Now,"Scargo Bldg., 218 Main St.",3:30 p.m., 
+OBB12,Sun,Dorchester,The Way Out,"IBEW Hall, 256 Freeport St.",9-10 a.m.,Handicap Yes
+OD,Sun,Dorchester,Brotherhood,"I.B.E.W. Hall, 256 Freeport",10:30 a.m., 
+O12,Sun,Dorchester,One Step At A Time,"U Mass Boston, Science Bldg.",7:30 p.m., 
+O,Sun,Dorchester,James,"Lutheran, 500 Talbot Ave.",8:00 p.m., 
+O,Sun,E. Boston,Orient Heights,Sal. Boys/Girls Club Café. 150 Byron St.,7:30-9:00 p.m., 
+OBB,Sun,E. Bridgewater,Daily Living,"Union Cong. Ch., 105 Pleasant St.",6-7 p.m., 
+C12,Sun,Fairhaven,Fresh Start,"Trinity Luth. Ch., 16 Temple Place",5:30 p.m.,Handicap Yes
+O,Sun,Fairhaven,Independence,"Trinity Lutheran, 16 Temple Place",7:00 p.m., 
+O,Sun,Fall River,Carry the Message,"St. Ann's Fraternity Hall, 144 Guild St.",9:30-10:30 a.m., 
+OD,Sun,Falmouth,Each Day a New Beginning,"Falmouth Hospital, Faxon Conf. Rm.",7:30 a.m.,Yes
+O,Sun,Falmouth,Breakfast,"Falmouth High School, Gifford St.",10:00 a.m., 
+OD,Sun,Falmouth,Each Day A New Beginning,"Falmouth Hosp., Faxon Conf. Rm.",7:30 a.m., 
+O,Sun,Falmouth,Village Green,"1st Cong., 68 Main",8:00 p.m., 
+O12,Sun,Fitchburg,"Steps 1,2,3","Burbank Hosp., Urgent Care Conf.Room",9-10:15 a.m., 
+O,Sun,Fitchburg,Sun. A.M.,"Notre Dame Hi, 151 South St.",10:15-11:30 a.m., 
+C12,Sun,Foxboro,No Name,"St. Mark's, 116 South St.",7:30 p.m., 
+CDM,Sun,Framingham,No Excuses,"Dunkin Donuts, 266 Concord St.",5:00 a.m.,Handicap Yes
+OSD,Sun,Gardner,Templeton Today,"Office Park, 5 So. Lincoln St",10:30 - 11:30 a.m., 
+OD,Sun,Gloucester,Cape Ann Early Bird,"Baptist Church, Gloucester Ave.",7-8 a.m., 
+CBB,Sun,Gloucester,Village Big Book,"Annisquam Village Hall, 34 Leonard St.",7-8 p.m., 
+O,Sun,Gloucester,Sunday and Sober,"St. John's Church, 48 Middle St. ( prk on Wash. St.)",7:30 p.m.,Handicap Yes
+OSD,Sun,Hamilton,Hamilton,"Christ Church, 149 Asbury St.",3:30-4:30 p.m.,Handicap Yes
+OD,Sun,Hanover,Light The Way,"Baptist Ch., Rte. 123 &Main St.",7-8 p.m., 
+O*,Sun,Hanson,Unity,"Cong'l Church, 639 High St.","7:30 - 8:30 p.m., Beg. 6:30 p.m.", 
+O,Sun,Haverhill,Wide Awake,"Amvets Post, 576 Primrose St.",9:30 - 11a.m.,Handicap Yes
+OD,Sun,Haverhill,Brown Bagging It,"M.V. Hosp. Aud., 140 Lincoln Ave.",6:30-7:30p.m.,Handicap Yes
+CD,Sun,Haverhill,Reflectlons,"Univ. Unit., 15 Kenoza Ave.",7-8 p.m., 
+CDM,Sun,Hingham,Men's,"Resurrection Ch., 1057 Main St.",6:30 p.m., 
+O,Sun,Holbrook, ,"St. Jos. School, 153 So. Franklin St., Rt. 37",7:30 p.m., 
+CD,Sun,Holden,Chappins,"Cong. Ch., 155 Shrewsbury St.",6:45 p.m., 
+O,Sun,Holliston,Sunday Night,"St. Mary's Base., Washington St.",8-9 p.m.,Handicap Yes
+O,Sun,Hopedale,Ray Of Hope,"Community House, 43 Hope St.",10:30-11:30 a.m., 
+OD,Sun,Hull,Atlantic Hill,"Sr. Ctr., 6 Atlantic House Court",7-8 p.m., 
+O,Sun,Hyannis,Sunshine,"Barnstable High Cafe., W. Main St., Sept-June ONLY",10-11 a.m., 
+O,Sun,Hyde Park,First Day,"K of C, 12 Wolcott Court",10 a.m., 
+O,Sun,Jamaica Plain,New Hope,"Shattuck Hosp., Turville Conf. Rm.",7:30-8:30 p.m., 
+OD,Sun,Kingston,Early Bird Gratitude,"VCF Ch., 8 Hilltop Rd.",7-8 a.m., 
+O*,Sun,Lakeville,Serenity Lakes,"St. Martha Mary, Rte. 18","7:30 p.m., Beg. 6:30 p.m.", 
+O,Sun,Lawrence,Back Door,"Psychological Ctr., 11 Union St., Rear",11:30-12:30 p.m., 
+O,Sun,Leominster,Am I Listening,"Unitarian ch.,15 West St.",7:45 - 9 pm,Handicap Yes
+O,Sun,Lowell,Sunrise Serenity,"Lowell House, 102 Appleton St.,",9 a.m., 
+O12,Sun,Lowell,"Beginners Steps 1,2,3","Saints Hosp., 1 Hospital Dr. 1st. Fl. Conf. Rm.",1 - 2 p.m., 
+CM,Sun,Lynn,Sun. A.M. Men's,"Nat'l Guard Bldg., 38 So. Common St.",10 a.m.,Handicap Yes
+CB12,Sun,Lynnfield,BB Step Study,"Lutheran Ch., Chestnut & Lowell Sts.",7 p.m.,Handicap Yes
+O,Sun,Malden, ,"Club 24, 787 Salem St.",10:00 a.m.,Handicap Yes
+O,Sun,Malden,Suburban,"DAV Hall, 85 Willow St.",10- 11 a.m., 
+OD,Sun,Malden,Daytime,"Club 24, 787 Salem St.",3:30 p.m., 
+O,Sun,Malden,Early Morning,"First Lutheran, 98 Waite St.",7:30-8:30 a.m., 
+OBB,Sun,Manchester,Sing.Beach Sob.,"Comm. Ctr., Train Sta.",9:30-10:30 a.m., 
+CBB,Sun.,Mansfield,Kitchen Table,"Faith Fellowship Methodist, 9 N. Main",7:00 p.m., 
+CD,Sun,Marblehead,Jump Start - Sunday,8 Anderson St.,7 -8:30 a.m., 
+CD,Sun,Marblehead,Fort Clifton,"Comm. Ctr., 66 Clifton Ave.,",9-10 a.m. 8-8:45 a.m., 
+CD,Sun,Marblehead, ,8 Anderson St,Noon-1:30 p.m., 
+O12,Sun,Marblehead,Sunday Steps,8 Anderson St.,4-5 p.m., 
+C12W,Sun,Marblehead,Candle Light,"Comm. Ctr., 66 Clifton Ave.",7:00 p.m., 
+O,Sun,Marblehead,Original,8 Anderson St.,8-9 p.m., 
+OD,Sun,Marlboro,Early Risers,"Congregational Ch., 30 High St.,@ Bolton St.",6:45 - 8 a.m., 
+CSD,Sun,Marlboro,Simply Sober,33 Main St.,5:00 - 6:00 p.m.,Handicap Yes
+OBB12,Sun,Marlboro,BBSS,"A.R.C., 31 Main St.",7:00 p.m., 
+OD,Sun,Marshfield,As Bill Sees It,"Sanctuary Ch., 185 Plain St.",2-3 p.m.,Handicap Yes
+O,Sun,Marshfield,Serenity,"No. Comm. Par. Hall, 72 Old Main St.",7-8 p.m.,Handicap Yes
+OD,Sun,Martha's Vnyd.,Open Discussion,"Baptist Par. Hse., 66 William St., Vineyard Haven",6:45 a.m.,Yes
+OSD,Sun,Martha's Vnyd.,Open Speaker Discussion,"Council on Aging, 21 Wamsutta Ave., Oak Bluffs",11:00 a.m.,Yes
+O,Sun,Martha's Vnyd.,Grapevine,"Good Sherherd Par.Ctr., 55 School St.,Oak Bluffs",8:30 p.m., 
+OSD,Sun,Maynard,Now,"Meth. Ch., 2 Summer",5:00 p.m., 
+C12,Sun,Medfield,Step Sunday,"1st Baptist Ch., Rte 109 & South St.","7:30 p.m., Trad. 1st Sun.", 
+CMD*,Sun,Medford, ,"Fire House, Medford & Main Sts.",10 a.m. Beg. 8:45-9:30 a.m., 
+O,Sun,Medford, ,"St. Francis, 439 Fellsway West",7:30 p.m., 
+O,Sun,Melrose, ,"Melrose/Wakefield Hosp.,Perkins Lecture Hall",10 - 11 a.m.,Handicap Yes
+O,Sun,Melrose,Sunday,"Unit. Univ. Ch., 70 W. Emerson",7:00 p.m., 
+OD,Sun,Merrimac,Ask A Question,"Pilgrim Cong., Church St.",7 p.m., 
+OBB,Sun,Methuen, ,"St. Lucy, Rte. 110",7 p.m., 
+O,Sun,Methuen,Today,"Ch. of Spiritual Life, 126 Merrimac St., Unit 5",7-8:15 p.m., 
+CSD,Sun,Millis,Attitude Adjustment,"American Legion Hall,Post 208, 136 Curve St.",10-11 a.m., 
+C12W,Sun,Milton, ,"Milton Hospital, 92 Highland St.",6:30 p.m., 
+OD,Sun,Nantucket,Drop In Center,Vesper Lane,8:00 a.m., 
+OD,Sun,Nantucket,Drop In Center,Vesper Lane,9:30 a.m., 
+W,Sun,Nantucket,Women's Meeting,"Drop In Center, Vesper Lane",5:30 p.m., 
+OD,Sun,Nantucket,Drop In Center,Vesper Lane,8:00 p.m., 
+OD,Sun,Natick,New Friends,"Metro West Med., 67 Union St., Helm Aud.",10:30 a.m., 
+O,Sun,Natick,Road to Happy Destiny,"Metro West Med., 67 Union St., Helm Aud.",7:30-8:30 p.m,Handicap Yes
+OD,Sun,Needham,On Time,"Christ Episcopal Church, 1132 Highland Ave.",7:00 p.m.,Handicap Yes
+OSD,Sun,New Bedford,Daily Reflections,"Faith Ministries, 177 Cove St.",Noon, 
+OGSD,Sun,New Bedford,Sober & Out,"Pilgrim Meth. Ch., 634 Purchase St.",5:30-6:30 p.m., 
+OD,Sun,New Bedford,Freedom of Speech,"St. Martin's Ch., county & River Sts.",7:00 p.m., 
+OSD,Sun,Newburyport,Sundown,"St. Paul's, High St.",5:30-6:30 p.m., 
+O,Sun,Newburyport,Original,"Unitarian Church, 26 Pleasant St.",8:00-9:00 p.m., 
+OD,Sun,Newton,Jump Start,"Ch. of Messiah, 1900 Comm. Ave.",6:30-7:30 a.m., 
+O,Sun,Newton,440,"Am. Legion, 295 California St.",9:30-10:30 a.m., 
+CBB,Sun,Newton,S.U.A.A.M.,"New. Well. Hosp., Bowles Conf. Ctr., 2nd Fl.",10:30 a.m.,Handicap Yes
+O12,Sun,Newton,Norumbega,"DCR, 107 Charles St.",Noon, 
+C12M,Sun,Newton,Men's Time for Action,"DCR,107 Charles St.",5:00 p.m., 
+OSD,Sun,Newton,New Beginning,"Elliot Ch., 474 Centre St.",7:30 p.m., 
+O,Sun,Newton,Sunday P.M.,"New. Well. Hosp., Allen Riddle Hall",7:30-8:30 p.m.,Handicap Yes
+O,Sun,No. Attleboro,Friendly,"Central Cong., 115 Commonwealth Ave.",7-8 p.m., 
+C12W,Sun,No. Reading,Hag,"Aldersgate Ch., Park St.",7:00 p.m., 
+ODM,Sun,North Reading,Dealing Woth Difficulties,"United Methodist Ch., 235 Park St.",5-6 pm, 
+OSD,Sun,Norwood,First Day,"Norwood Hospital, Cafeteria Wash. St.",10:30 a.m., 
+OD,Sun,Orleans, ,"Drop In Center, 26 Giddiah Hill Rd.,",7 a.m.& 5 p.m.,Handicap Yes
+O,Sun,Orleans,Discussion,"Odd Fellows Hall 132, 1 Namskaket Rd.",10:30 a.m., 
+O,Sun,Orleans,Lower Cape,"Ch. Holy Spirit, Monument Rd. &Rte. 28",7:30 p.m., 
+O,Sun,Osterville,Safe Harbor,"Assumption Church, 76 Wianno Ave.",7:00 p.m., 
+O,Sun,Peabody,Kings Grant A.M.,"Knights of Columbus, 96 Main St.",9:00 a.m., 
+OSD,Sun,Pembroke,South Shore Friends,"Pembroke Hosp., 199 Oak St.",9:30-10:30 a.m., 
+O*,Sun,Pembroke,Center,"Community Ctr., 128 Center St.",10:00 a.m. beg. 9:00 a.m., 
+CD12,Sun,Pepperell,Sun. A.M. Steps,"VFW, Lower Mtg. Rm.,55 Leighton St.",9 a.m., 
+O*,Sun,Plymouth,Eel River,"St. Peter's, 10 Memorial Dr.",9-10 a.m. beg. 8-8:45 a.m., 
+OBBl2,Sun,Plymouth,Big Book Step Study,"Christ Ch. Episcopal, 149 Court St.",6:30 p.m., 
+CSD,Sun,Plymouth,Anchor,"Anchor House, 601/2 Cherry St.",7:30-8:30 p.m., 
+OD,Sun,Pocasset,Hit The Deck,"Firehouse, 311 Barlows Lndg. Rd.",9-10 a.m., 
+ODBB,Sun,Pocasset,Roots & Causes,"Baptist Ch., 292 Barlows Landing Rd.",5:30 - 6:30 p.m., 
+O,Sun,Pocasset, ,"Cataumet Meth. Ch., County Rd.",7:30 p.m., 
+OD,Sun,Provincetown, ,"U.U. Mtg. Hse., 236 Commercial St.",8:45 a.m.,Handicap Yes
+OD,Sun,Provincetown,Beginners,"PASG Office, 96 Bradford St.",6:30 p.m.,Handicap Yes
+O,Sun,Quincy,Everybody's,"K of C, Hancock St.@ Hollis Avenue",9:30 a.m., 
+OD,Sun,Quincy,Sunday Too,"Cong. Ch., 48 Winthrop Ave.",2:00 p.m., 
+O,Sun,Quincy,Serenity,"Good Shepard Ch., 308 W. Squantum St.",7-8 p.m., 
+C12,Sun,Quincy,S. Shore Step,"United Meth. Ch., 40 Beale St.",7:30 p.m., 
+O,Sun,Quincy,Snug Harbor,227 Sea St. formerly Our Lady of Good Counsel,8-9 p.m., 
+O,Sun,Reading, ,"Congregational, 25 Woburn Street",7-8 p.m.,Handicap Yes
+C12,Sun,Revere,Sincerity,"St. Anthony's, 250 Revere St., Rear",7-8 p.m., 
+ODW,Sun,Rockport,New Women Meditation,"1st Cong. Ch., 12 School St.",2-3 p.m.,Handicap Yes
+ODW,Sun,Rockport,New Women Meditation,"1st Cong. Church, 12 School St.",2 - 3 p.m.,Handicap Yes
+ODW,Sun,Rockport,Peace thru Step 11,"Congregational Ch., 12 School St.",2 p.m., 
+O,Sun,Salem,Witch City,"State College, So. Campus Cafe., Harrison Rd.",10-11 a.m., 
+OBB12,Sun,Salem,Smart Start,"Life Bridge, 56 Margin St.",4 - 5 p.m., 
+OD,Sun,Salem,Smart Start,"Mission, 56 Margin St",4-5 pm, 
+CMSD,Sun,Salisbury,Men's,"Senior Center, 37 Lafayette Rd.",9:00 a.m., 
+O,Sun,Sandwich,Mashpee,"DeWitt Clinton Hall, 175 Main St.",9:30 a.m.,Handicap Yes
+OD4,Sun,Saugus,Serenity,"V.F.W., 190 Main St.",9-10 a.m., 
+CD,Sun,Scituate,Serenity Now,"Harbor United Meth. Ch., 1st Parish Rd.",5:30 -6:30 p.m., 
+O,Sun,Scituate,New Freedom,"St. Mary's Hall, E. Foster Rd.",8 p.m., 
+O12,Sun,Shirley,Step,"United Ch., Lancaster + Harvard Rds.",7:30 p.m., 
+O,Sun,Shrewsbury, ,"MA Veteran's Inc., 59 South St.",10 - 11 a.m.,Handicap Yes
+CBB,Sun,So. Boston,Pilot House,"Task Force, 345 Old Colony Ave.",7:15 a.m., 
+O,Sun,So. Boston,Hope's Here,"Medicine Wheel Gallery, 110 K St., @ E. 1st.",7-8 p.m., 
+ODYP,Sun,So. Boston,Young People,"4th Presbyterian Ch., 340 Dor. St.",7:30-8:30 p.m.,Handicap Yes
+CDM,Sun,Somerset,Men's,"Old Town Hall, 1464 County St., Rte. 138",10 a.m., 
+O,Sun,Somerville,Tnt,"Lions Club, 9 New washington St.",10:30-NOON, 
+CBBW,Sun,South Boston,Sobah Sista's,"Jos. Tierney Learning Ctr., 125 Mercer St.",9:30 - 10:30 AM, 
+O*,Sun,Southbridge, ,"Holy Trinity, 446 Hamilton St.","7-8 p.m., Beg. 5:45-6:45 p.m.", 
+O*,Sun,Stoughton,Sun. A.M.,"K. of C., 14 Seaver St.","9:00 a.m., Beg. 8 a.m.", 
+O,Sun,Stow, ,"Old Town Hall, 375 Great Rd.",11:00 a.m., 
+O,Sun,Sudbury, ,"First Parish Ch., Concord Rd.",7:30-8:30 p.m.,Handicap Yes
+CS,Sun,Swampscott,This Is A.A.,"St. John's Ch., 174 Humphrey St.",6:30 p.m., 
+O12,Sun,Swansea,Way Out,"First Christian Cong., Rte. 6",7:00 p.m., 
+O,Sun,Taunton,Silver City,"Bristol Plym. Reg. High, 940 County St., Rt. 140",7:30-8:30 p.m., 
+O,Sun,Tewksbury,New Life,"Tewk. Hospital Chapel, 365 East St.",10:00 a.m.,Handicap Yes
+CBB,Sun,Tewksbury,Just Don't Drink,"United Meth. Ch., Main & South",6 p.m., 
+O,Sun,Topsfield,Early,"Episcopal, Ch., 124 River Rd.",6-7 p.m., 
+O,Sun,W. Barnstable, ,"Community Ctr., Rte. 149",7:30 p.m., 
+OD,Sun,W. Bridgewater,Just For Today,"24 S. Clubhouse, 320 W. Center St.",7 - 8 a.m., 
+OD,Sun,W. Dennis,Beginners,"Comm. Bldg., School St.",6:45 p.m., 
+CBB12,Sun,W. Newbury,Step Study,"St. Ann's, 300 Main St.",7 p.m.,Handicap Yes
+O,Sun,W. Roxbury, ,"Holy Name, 1689 Centre St.",7:45-9:15 p.m., 
+OBB,Sun,Wakefield,12 Steps to Recovery,"Kelly House, 202 Main St",8:00 PM, 
+O*,Sun,Wakefield,Peace Of Mind,"Masonic Temple, 370 Salem St.","10-11 a.m., Beg. 8:30 a.m.",Handicap Yes
+OSD,Sun,Walpole,Morning,"Blackburn Hall, 30 Stone St",8-9 am,Handicap Yes
+CDW,Sun,Waltham,Women Liv. Sob.,"Retreat Ctr., 554 Lexington St.",7-8 p.m., 
+O,Sun,Wareham,Sun. Nite,"Ch. of Good Shepherd, 74 High St., Rear",7:30-8:30 p.m., 
+OBB,Sun,Watertown,Strawberry Hill,"Tufts Health Plan, 705 Mt. Auburn St.",7:30 p.m., 
+O,Sun,Webster,Tri-Ton,"Greek Orthodox Dh., 37 Lake Park Way",7 p.m.,Yes
+CD,Sun,Wellesley, ,"Cong. Ch., Board Rm., 207 Wash. St.",7:30 p.m., 
+C12,Sun,Westboro,Get Well Slowly,"Lutheran Ch., 183 W. Main St.",7:30 p.m., 
+OD,Sun,Westford,Forge Fellowship,"Cameron Sr. Ctr., 20 Pleasant St.",9:00 a.m., 
+OD,Sun,Westport, ,"Quaker Meeting House, 930 Main Rd.",7:30 p.m., 
+O*,Sun,Westwood, ,"Comm. Ctr., East St., Rt. 1A","7:30-8:30 p.m., Beg. 6:30 p.m.", 
+O,Sun,Weymouth,Get It Together,"K. of C., 25 Chauncy Street",10 a.m.,Handicap Yes
+OD,Sun,Weymouth,Renewal,"Elks Hall, 1197 Washington St., Rte. 53",10-11 a.m., 
+OBB,Sun,Weymouth,OBB,"Imm. Conception Sch., Base., 1199 Commercial St.",7:00 p.m., 
+CD,Sun,Weymouth,As Bill Sees It,"Univ. Unit. Ch., Rte. 3A & Sea St.",7-8 p.m., 
+ODG,Sun,Winchester,Galis,"Unitarian Ch., 476 Main St.",7-8 p.m., 
+O,Sun,Winthrop,Sun. Morn.,"St. John's Convent, 217 Lincoln St., SIDE DOOR",8:45-9:45 a.m., 
+CD,Sun,Winthrop,Never Alone,"St. John’s, 217 Lincoln St., SIDE DOOR",7:30-8:30 p.m., 
+O,Sun,Worcester,Early Risers,"695 Main St., 4th Fl.",10-11 a.m.,Handicap Yes
+O,Sun,Worcester,Way Of Sobriety,"Catholic High, 144 Granite St.",10-11 a.m., 
+O,Sun,Worcester,There is Hope,"Community Health Ctr. Aud., 12 Queen St.",10-11 a.m.,Handicap Yes
+C12,Sun,Worcester,Anonymity,"U. Ma. Med. Sch., Faculty Conf., 55 Lake Ave. No.",6:45 p.m.,Handicap Yes
+CD,Sun,Worcester,A.B.C.,"695 Main St., 4th Fl.",7:00 p.m.,Handicap Yes
+OBB,Sun,Worcester,Main Sobriety,"Straight Ahead Ministries, 791 Main St",7 p.m., 
+O,Sun,Worcester,Gratitude,"Lakeview Cong. Ch., 115 Coburn Ave.",7 p.m., 
+O,Sun,Worcester,Gratitude Too,"First Cong. Church, 1070 Pleasant St",7-8:15 p.m.,Handicap Yes
+CD,Sun,Worcester,Fellowship,"Immaculate Conc., 353 Grove St.",8:30 p.m., 
+O*,Sun,Wrentham,Sun AM,"Senior Ctr., 400 Taunton St.","10:30 - 11:30 a.m., Beg. 9:15a.m.", 
+OSD,Mon,Abington,Early Bird Dawn Patrol,"United Church, Rte 18, 10 Bedford St.",7-8 a.m., 
+OD,Mon,Abington,Take The Bus,"United Ch., Rtes. 18 + 123",8:00 p.m.,Handicap Yes
+OSD,Mon,Acton,New Beginnings,"Baptist Ch., 592 Mass. Ave.",7:30 p.m., 
+CD,Mon,Acton,Vets,"Baptist Ch., 592 Mass. Ave. Annex",7:30 p.m., 
+CW,Mon,Acushnet,S.O.U.L. Sisters 11th step,"United Meth. Ch., 67 Main St.",6:30-7:30 p.m., 
+OD,Mon,Allston,Overdue,"Hill Memorial Ch., 279 N. Harvard",Noon-1 p.m., 
+OD,Mon,Amesbury,What's Good About Today,"Unity on River, 58 Macy, Rte. 110",7-8 a.m., 
+OSD,Mon,Amesbury,Pow Wow,"Union Cong. Ch., 350 Main St.",7:30-8:30 p.m., 
+CBBM,Mon,Andover,Men's Football BB,"Free Christian Ch., 31 Elm St.",7:30-8:30 p.m., 
+CD,Mon,Arlington,Just For Today,"St. Camillus, 1175 Concord Turnpike, Arlington","7-8 a.m., 6 a.m.",Handicap Yes
+OD,Mon,Attleboro,Get a New Life,"Cameron Bldg, 68 Falmouth St",10 a.m., 
+OD,Mon,Attleboro,Keep Trying,"Advent Christian Ch., 560 Pleasant St.",Noon - 1p.m., 
+OD,Mon,Attleboro,Desire to Stop,"Cameron Bldg., 68 Falmouth St.",Noon-1:00 p.m.,Handicap Yes
+ODM,Mon,Attleboro,Men's Fellowship,"Cameron Bldg., 68 Falmouth St",7:00 p.m.,Handicap Yes
+O*,Mon,Attleboro,Jewelry City,"Advent Christian Ch., 560 Pleasant St.",7:30 p.m., 
+CBB,Mon,Bedford,First Things First,"1st Ch. Christ, 25 Great Rd.",6:00-6:45 a.m., 
+OBB,Mon,Bellingham,Crossroads,"Baptist Church, 1172 S. Main St.",7-8 p.m., 
+CM,Mon,Bellingham,Drop the Rock,"How It Works Club, 176 Mechanic St",7-8 pm, 
+O,Mon,Belmont,Reality,"St. Joseph Ch., 130 Common St.",7:30 p.m.,Handicap Yes
+OSD,Mon,Beverly,Second Chance,"White Whale, 9 Hale St.",5:30 -6:30 p.m., 
+OBB12W,Mon,Beverly, ,"Beverly Hosp.Lecture Hall, 85 Herrick St.",7:00 p.m., 
+CBBM,Mon,Beverly,Monday Men's Meeting,"St. Peters Ch., 4 Ocean St.",7:00 p.m., 
+CBB,Mon,Billerica,Big Book,"1st Cong. Ch., 18 Andover Rd.",7:30 p.m., 
+O12,Mon,Blackstone,12 Golden Steps,"St. Theresa, 630 Rathbun St.",12-1 p.m., 
+OSD,Mon,Boston,Rise & Shine,"St. Francis Hse. Shelter, 39 Boylston St.",7-8 a.m., 
+O12,Mon,Boston,Back Bay Steps,Arlington St. Shurch,"7:30 a.m., Trad. 1st Mon.", 
+O12,Mon,Boston,Ashburton-Noon,Alley next to 20 Ashburton Pl.,Noon-1 p.m., 
+ODG,Mon,Boston,Sober Living,74 Kilmarnock St.,Noon,Handicap Yes
+C12W,Mon,Boston,Women's 12 Step,"Paulist Catholic Center, Park St., 3rd Fl","Noon, not holidays",Handicap Yes
+OSD,Mon,Boston,Just For Today,"Emmanuel Ch., 15 Newbury St. 2nd Fl.",Noon - 1p.m., 
+C12,Mon,Boston,Lunchtime,"B.U. Marsh Chapel Rm., 735 Comm. Ave.",1:00-2:00 p.m., 
+OD,Mon,Boston,Homeless AA,138 Tremont St.,2-3 p.m.,Handicap Yes
+C12&T,Mon,Boston,Arch A,"St. Anthony's, 100 Arch St.",5:45-6:45 p.m., 
+CBB,Mon,Boston,Chock Full of Nuts,"Community Rm., 768 Hunington Ave.",6:00 p.m.,Handicap Yes
+OSD,Mon,Boston,Bottom of the Hill,"St. Paul's, 138 Tremont St.",6-7 p.m.,Handicap Yes
+O12W,Mon,Boston,Women's Serenity,"Emmanuel Church, 15 Newbury St.",6:30 p.m., 
+OSDG,Mon,Boston,How to Stop Drinking,"Ruggles Baptist Ch., 874 Beacon St.",7 - 8 pm, 
+CBB,Mon,Boston,Montgomery Place,"Haley House, 23 Dartmouth St.",7-8 p.m.,Handicap Yes
+CBB,Mon,Boston,Bunch of Drunks,"Mariners House, 11 North Square",7-8 p.m., 
+OSD,Mon,Boston,Sahara Sunrise,"Harvard Vanguard, 147 Milk St., Conf. Rm. 1B",7:30-8:30 a.m., 
+OBB,Mon,Boston,Mission Park,"Flynn Kitchen, 805 Huntington Ave.",8-9 p.m., 
+O,Mon,Boston,Resevoir Dogs,"Emmanuel Ch., 15 Newbury St.",8:00-9:00 p.m.,Handicap Yes
+C12,Mon,Bourne,Bourne Again,"Methodist C., 37 Sandwich Rd.",8:00 p.m., 
+OD,Mon,Boylston,Common,"First Cong., 10 Church St.",7:30-8:30 p.m., 
+OD,Mon,Braintree,Anchorage,"St. Thomas Moore, 8 Hawthorne Rd.",11:45 a.m.-12:45 p.m., 
+OB12W,Mon,Braintree,Women's BBSS,"Union Cong. Ch. basement, 74A Commercial",7:00 p.m., 
+OB12M,Mon,Braintree,Men's BBSS,"Emanuel Episcopal, 519 Washington St.",7:00 p.m., 
+O,Mon,Braintree,Recovery,"First Baptist Ch., 594 Washington St.",7:30-8:30 pm, 
+O*,Mon,Braintree,Bay,"All Souls Ch., 196 Elm Street","8-9 p.m., Beg 7:00 p.m.", 
+OD,Mon,Brewster,5 Alive,"Club Dry Dock, 1439 Main St., Rte. 6A",5 p.m., 
+OD,Mon,Brewster,Grateful Living,"United Meth. Ch., 701 Airline Rd.",7:15-8:15 a.m.,Handicap Yes
+O,Mon,Brewster, ,"Baptist Church, 1832 Main St., Rt. 6A",7:30 p.m.,Handicap Yes
+CBB,Mon,Bridgewater,Big Book Mon,"United Meth. Ch., 35 School St.",NOON - 1p.m., 
+C12W,Mon,Bridgewater,Time To Change,"Soccar Hall, Summer & Flag St.",7:00 p.m., 
+OD,Mon,Brighton,Allston/Brighton Beginners,"Jackson Mann Sch., Café., Union Square",8 p.m., 
+CBB,Mon,Brockton,Easy Does It,"St. Patrick's, Fr. Kenny Hall, 335 Main St.",10 a.m., 
+CDYP,Mon,Brockton,Regain Your Freedom,"Independence Academy, 460 Belmont St.",3:30-5:p.m., 
+C12W,Mon,Brockton,Stepping Out,"1st Evangelica Ch., 900 Main St.",6:45-7:45 p.m.,Handicap Yes
+O,Mon,Brockton,Rebound,"1st Evangelical Lutheran Ch., 900 Main St.",8:00 - 9:00 p.m., 
+OBB12W,Mon,Brookline,Miracles On Monday,"All Saints, 1773 Beacon St.",7 p.m., 
+CSD,Mon,Brookline,Monmouth,"Ch. of Our Savior, Carlton & Monmouth",7:30 - 8:30 p.m., 
+CBB,Mon,Brookline,Beacon By the Book,"Grad. Sch. of Psychoanalysis, 1581 Beacon St.",8 p.m.,Yes
+CBB,Mon,Brookline,They Stopped In Time,"St. Paul's Ch., 15 St. Paul's St.",8:00 p.m., 
+CSDW,Mon,Burlington,High Sobriety,"St. Margaret's C.C.D., 111 Winn St.",10:00 a.m., 
+O,Mon,Burlington,Monday Nite,"United Ch. of Christ, 6 Lexington St.",8 p.m., 
+OBB12W,Mon,Buzzards Bay,Women's BBSS,"K of C Hall, 5 Armory Rd",6- 7:30 pm, 
+O,Mon,Buzzards Bay,Joy of Living,"St. Margaret's Parish Hall, 141 Main St.",7:30 - 8:30 p.m.,H
+CBBW,Mon,Cambridge,Morning Glories,"1st Cong. Ch., 11 Garden St.",7-8 a.m., 
+CDM,Mon,Cambridge,Hair of the Dog,"Christ Church, does'nt meet on Holidays 0 Garden St.",7:30-8:15 a.m., 
+C12,Mon,Cambridge,Gratitude,"Methodist Ch., 1555 Mass. Ave",Noon -1 p.m.,Handicap Yes
+CD,Mon,Cambridge,Kendall As Bill Sees It,"MIT Bldg., E-51, Room 057, 70 Memorial Dr.",12:10 - 1p.m. No holidays.,Handicap Yes
+SD,Mon,Cambridge,Fresh Air,"New Jerusalem, Kirkland & Quincy Sts.",6 p.m., 
+CSD,Mon,Cambridge,No Name,"HDS, Andover Hall, Rm. 103, 45 Francis Ave",7:00 p.m., 
+ODG,Mon,Cambridge,Open To All,"Unitarian, 3 Church St., Harvard Sq.",7-8:15 p.m., 
+OSD,Mon,Cambridge,Welcome All,"St. Paul's, Bow &Arrow Sts., H. Sq.",7:00 p.m., 
+OD,Mon,Canton,Noontime,"Trinity Church, Rte. 128 & 138 North",NOON - 1p.m., 
+CDM,Mon,Canton,Men's,"United Ch., 1541 Washington St.",8:00 p.m., 
+ODM,Mon,Carver,Unity Mens-BYOC,"Christian Unity Hall, Church St.",6:30 - 7:30 p.m., 
+C12,Mon,Carver,Rule # 62,"United Parish of Carver, Rte 58",7:30:p.m., 
+OD,Mon,Centerville,Hour Of Power,"Lady /Victory, 230 S. Main",7:30-8:30 a.m., 
+OD,Mon,Charlestown,DAAT,586 Rutherford Ave.,NOON-1 p.m.,Handicap Yes
+CDW,Mon,Charlestown,Here & Now,"YMCA, Navy Yard",7:00 -8:00 p.m., 
+C12,Mon,Chatham, ,"Our Lady Grace, Rt. 28",8:00 p.m., 
+OSD,Mon,Chelmsford, ,Central Baptist on Common,12:15 -1:15 p.m., 
+OSDYP,Mon,Chelmsford,Young Peoples,"Ch. Of Christ, 205 North Rd.",7-8:30 p.m., 
+O12,Mon,Chelmsford,12&12 Step of the Month,"Methodist Ch., 242 Main St.",7:30 - 8:30 p.m., 
+OD,Mon,Chelsea,Intercity,"St. Rose Rctry., 601 Broadway",11:30 a.m.-12:30 pm, 
+O,Mon,Chelsea,Tower,"Soldiers Home, Cafeteria, 91 Crest Ave.",8:00-9:00 p.m.,Handicap Yes
+OD,Mon,Clinton,Keep The Faith,"A.I.R. Center, 256 High St.",NOON, 
+O12W,Mon,Clinton,Central Park Women's Step,"Ch. of Good Shepard, 209 Union St.",7:45-9 pm, 
+O*,Mon,Cohasset,Unity,"Parish House, 23 North Main St.","8- 9 p.m., Beg. 6:30 p.m.", 
+OBB,Mon,Concord,Sobah Camel,"Monument Hall, 62 Monument Sq.",1-Dec,Handicap Yes
+C12,Mon,Concord, ,"Union Church, 1317 Main Street",8 p.m., 
+OBB,Mon,Cotuit, ,"Federated Church, High St.",8:00 p.m.,Handicap Yes
+OD,Mon,Cotuit,2nd Tradition,"Federated Ch., High St.",8:00 p.m.,Handicap Yes
+OSD,Mon,Danvers,Eye Opener,"All Saints Epis., Holten St., Front Door",7-8 a.m., 
+CD,Mon,Danvers,Road To Recovery,"All Saints Epis., Holten St.",NOON-1 p.m., 
+OD,Mon,Danvers,Keep Coming,"1st Ch. Of Danvers, 41 Center St. @ Hobart",7:15-8:15 p.m., 
+CD,Mon,Dartmouth,South,St. Peter's Ch. 351 Elm St.,7 p.m., 
+O*,Mon,Dedham,Good Shepherd,"Church, 62 Cedar St., Oakdale Sq.","8-9 p.m., Beg. 7:00 p.m.", 
+O,Mon,Dorchester,Popes Hill,"Parish of All Saints, 209 Ashmont St.",7-8 p.m., 
+OD,Mon,Dorchester,Remember When,"Dorchester House, Garden Rm., 1353 Dot. Ave.",7-8 pm, 
+OSD,Mon,Dorchester,Columbia Station,"St. Margaret's, 800 Columbia Rd.",7:30 p.m., 
+O,Mon,Dorchester,Simply Sober,"Electricians Hall, 256 Freeport St.",7:30 - 8:30 p.m., 
+SD,Mon,Dracut,Sobriety 101,"Ste. Marguerite d'Youville, 1340 Lakeview Ave.",Noon, 
+CBB12,Mon,Dracut,Out Of The Woods,"St. Marguerite-d'youville, 1340 Lakeview Ave.",7-8:30 p.m., 
+O12,Mon,Duxbury,Stepping Up,"St. John's Ch., 410 Washington St.",7-8:30 p.m., 
+O,Mon,E. Bridgewater,KIS,"Community Covenant Ch., 400 Pleasant St.",7:30 p.m.,Handicap Yes
+CBBM,Mon,Easton,Kitchen A.A.,"Knights of Columbus, 375 Foundry St., Rte 106",7-8 p.m., 
+O*,Mon,Easton, ,"Lutheran Ch., 143 Lincoln St.",7:45 - 9p.m.,Handicap Yes
+OSDYP,Mon,Fairhaven,Young Peoples,"Trinity Lutheran, 16 Temple St.",7-8:15 p.m., 
+O,Mon,Fairhaven, ,"Cong. Ch., 34 Center St., 2nd Fl.",7:30,Handicap Yes
+OD,Mon,Fall River,S.O.S.,"First Baptist Ch., 228 N. Main St.",11:45 - 12:45, 
+OBB,Mon,Fall River,Turn It Over,"1st Baptist, 228 N. Main St.",5:30-6:45 p.m., 
+OD,Mon,Falmouth,Each Day a New Beginning,"Wesley Methodist, 270 Gifford St.",7-8 a.m., 
+CD,Mon,Falmouth,Discussion,"St. Barnabas, 91 Main St.",NOON, 
+CD,Mon,Fitchburg,Keep It Simple,"Faith United Ch., 820 Main St.",NOON-1 p.m., 
+O,Mon,Fitchburg,Friendship,"7th Day Advent Ch., 205 Summer St.",8-9 p.m., 
+O12,Mon,Foxboro,Daily Winners,"Community Ctr., 382 South St.,",NOON-1 p.m., 
+O*,Mon,Foxboro,Keep It Simple,"K of C, 14 Church St.",7:30 p.m. Beg. 6:15, 
+OD,Mon,Framingham,Reflections,"Dennison Bldg., 300 Howard St.",7-8 a.m., 
+OD,Mon,Framingham,Daily,"Drop In Center, Kendall St.",NOON - 1 p.m., 
+OD,Mon,Framingham,11th Step Meditation,"First Baptist, 1013 Worcester Rd..",6-7:15 p.m., 
+C12M,Mon,Framingham,No Excuses,"SMOC Bldg., 300 Howard St., 3rd Fl.",7-9 p.m., 
+C12M,Mon,Framingham,No Excuses,"SMOC Bldg., 300 Howard St., 3rd Fl.",7-9 p.m., 
+C12,Mon,Framingham,Came Believe Beg. Step,"Lutheran, 720 Edgell",7:30 p.m., 
+OBB,Monday,Framingham,Big Book Workshop,"Wesley Methodist, 80 Beacon St",7:30 - 8:30 pm, 
+SDM,Mon,Framingham,TSDD,"Eagles Club, 55 Park St.",8 - 9:15 p.m.,Handicap Yes
+OSD,Mon,Gardner,Mid Day,205 School St,12:30 - 1:30 pm,Handicap Yes
+OD,Mon,Gloucester,Cape Ann-Early Bird,"Baptist Ch., 38 Gloucester Ave.",7-8 a.m., 
+C12,Mon,Gloucester,12 Steps To Freedom,"Vets Center, Emerson Ave.",7-8 p.m.,Handicap Yes
+C12,Mon,Groton,Steps of Recovery,"Senior Ctr.,163 W. Main St.",7:30 p.m.,Handicap Yes
+O12,Mon,Halifax,Steps,"Our Lady of the Lake,580 Monponsett St.",6:30 - 7:30 p.m., 
+CSD,Mon,Hamilton,Keep It Simple,"St. Paul's, 50 Union St.",11:00 a.m.,Handicap Yes
+O,Mon,Hamilton, ,"Christ Church, 149 Asbury St.",8:30-9:30 p.m.,Handicap Yes
+C12,Mon,Hanover,Brothers & Sisters In Recovery,"Baptist Ch., Rt. 123 & Main",6:30-7:45 p.m., 
+OD,Mon,Haverhill,C. to B./Living Sober,"St. John Baptist,110 Lincoln Ave.",NOON-1 p.m.,Handicap Yes
+OBB,Mon,Haverhill,New Jericho Noontime,"Safe Haven, 127 How St",NOON-1 p.m.,Handicap Yes
+CBB,Mon,Haverhill,There Is A Solution,"Whittier Pavilion, 76 Summer St.",6:45-7:45 p.m.,Handicap Yes
+O,Mon,Haverhill,Original,"First Church of Christ, 10 Church St.",8:00 p.m., 
+CD,Mon,Hingham,New Day,"Lutheran Ch., 916 Main St., Rte 228",7:30-8:30 a.m.,Handicap Yes
+C12W,Mon,Hingham,Easy Dozen,"2nd Parish, 685 Main St., Rte. 228",7:30 p.m., 
+O,Mon,Hingham,What's In A Name,"Old Ship Ch., Par. Hse., 107 Main",8-9 p.m., 
+O,Mon,Holbrook,In The Wind,"St. John's, 316 So. Franklin St.",8 p.m. Beg 6:45, 
+O12,Mon,Holliston,On the Beam,"1st. Baptist Ch., 40 High St.",6:30 p.m., 
+OBB,Mon,Holliston,Easier Softer Way,"Christ the King Lutheran Ch., 600 Central St.",7:30 p.m., 
+ODM,Mon,Hopkinton,Enough is Enough,"First Cong. Church, 146 E. Main St.",8-9 p.m., 
+O,Mon,Hudson,Second Chance,"First Feder. Ch., 200 Central St.",8:00- 9:15 p.m.,Handicap Yes
+OD,Mon,Hull,Summer Only,"Burke Bathhouse, 116 Hull Shore Dr..",8:30-9:30 a.m., 
+C12,Mon,Hyannis, ,"St. Francis Xavier, 347 South St.",NOON-1 p.m., 
+O,Mon,Hyannis,Seeing is Believing,"Federated Ch., 320 Main St.",7:30-8:30 p.m., 
+OD,Mon,Hyde Park,Constant Vigilance,"Readville K of C Hall., 12 Wolcott Ct.",11:00 a.m., 
+C12,Mon,Ipswich,Simply Steps,"Baptist Ch., Central St.",8-9 p.m., 
+O,Mon,Jamaica Plain,Hang Together,"U.U. First Ch. of JP, 6 Eliot St",7:30 -8:30 pm, 
+C12W,Mon,Jamaica Plain,Show & Tell,"Shattuck, 170 Morton St., Turnville Conf.",7:30-8:30 p.m.,Handicap Yes
+C12W,Mon,Jamaica Plain,Stick To Step,"St John's, Revere & Roanoke Sts.,Enter Rear",8-9 p.m., 
+OD,Mon,Kingston,Early Bird Gratitude,"VCF Ch., 8 Hilltop Rd.",7-8 a.m., 
+O12,Mon,Kingston,Courage to Change,"Beal House, 222 Main St.",7:15 - 8:30 p.m., 
+OSD,Mon,Lawrence,New Beginnings,"Riverside Ch., 290 Water St.",10:30-11:30 a.m.,Handicap Yes
+OD,Mon,Lawrence,Just for Today,"599 Canal St., 5th Fl, Ste West 2",Noon - 1 pm,handicap Yes
+O,Mon,Lawrence,Back Door,"Psychological Ctr., 11 Union St., Rear",1:30-2:30 p.m., 
+O,Mon,Lawrence,Freedom,"St. Patrick's Parish Center, 11 E. Kingston St.",7-8 p.m.,Handicap Yes
+OD,Mon,Lawrence,Tower Hill,"St. Augustine's, Ames St.",7:30 p.m., 
+OD,Mon,Leominster,Eye Opener,"St. Mark's Youth Ctr., Cotton St.",8-9 a.m., 
+OD,Mon,Leominster,High Noon,"Unitarian Universalist Ch., 15 West St.",NOON, 
+CBB,Mon,Leominster,The First 100,St. Mark's Ch. 60 West St.,7 - 8 p.m.,Handicap Yes
+O,Mon,Leominster,Original,"St. Leo's Sch. Cafe, 120 Main St.",7:45-9:00 p.m., 
+OD,Mon,Lexington,Sober by Grace,"2 Militia Dr., Rm G-5, enter rear",6:30-7:30 a.m.,Handicap Yes
+C12W,Mon,Lexington,May Day Women,"Baptist Ch., 1580 Mass. Ave.",NOON-1 p.m.,Handicap Yes
+C12,Mon,Lexington,Gratitude,"Church of Redeemer, 6 Meriam St.",8 p.m., 
+CDW,Mon,Lincoln,Wholeness,"First Parish Church, 14 Bedford Rd.",7:30 p.m., 
+C12,Mon,Littleton,Catacombs West,"First Ch.Unitarian, Foster St.",7:30 p.m., 
+CSD,Mon,Lowell,Spark of Hope Alcohol Only,"St. Rita's Shrine Basement, Mammouth Rd.",NOON,Handicap Yes
+O12,Mon,Lowell,New Last Gaspers,"St. Anthony's Sch., 908 Central, downstairs",Noon-1p.m., 
+ODNS,Mon,Lowell,Screwy Twoey,"Shelter, 189 Middlesex St",2-3 p.m., 
+OD,Mon,Lowell,Box of Joe,"Crescent House, Comm. Rm., 15 Veteran's Way",7-8 p.m., 
+OBB12,Mon,Lowell,The 3 B's,"St. Joseph Shrine, 37 Lee St.",7 p.m. No holidays., 
+CD,Mon,Lunenburg,Originals,"United Parish Ch., 39 Main St.",6-7 p.m.,Handicap Yes
+OD,Mon,Lynn,Recovery,"Lynn Art, 25 Exchange St., Rear",7-8 a.m., 
+OSD,Mon,Lynn,Center,"Life Point Ch., 10 Baltimore St.",11-noon, 
+CD,Mon,Lynn,Do It Sober,"Life Point Ch., 10 Baltimore St.",4-5 p.m., 
+OD,Mon,Lynn,City Hall,"Cardinal Cushing Ctr, St. Mary's, enter Pleasant St.",7:00 - 8 p.m., 
+O,Mon,Lynn,Moment Of Silence,"First Ch. of Christ, 678 Lynnfield St.",7-8 p.m., 
+O,Mon,Lynn,Pass It On,"1st. Lutheran Ch., 280 Broadway",7:30-8:30 p.m., 
+O,Mon,Lynn,Last Chance,"St. Stephen's, 74 So. Common St.",8-9 p.m., 
+CD,Mon,Malden,B.Y.O.C.,"Club 24, 787 Salem St.",7-8 a.m., 
+CD,Mon,Malden,Old Time Sobriety,"Club 24, 787 Salem St.",NOON-1 p.m., 
+OD,Mon,Malden,Happy Hour,"Club 24, 787 Salem St.",4-5 p.m., 
+OSDM,Mon,Malden,Maplewood Men's,"Club 24, 787 Salem St.",6:00 p.m., 
+O12,Mon,Malden,Step Easy,"Lutheran Ch., 98 Waite St.",7:00 p.m., 
+CBB,Mon,Marblehead,Jumpstart,8 Anderson St.,7 a.m., 
+ODW,Mon,Marblehead,God's Gift,"St. Andrew's, 135 Lafayette St.",10:00 a.m., 
+CD,Mon,Marblehead, ,8 Anderson St.,10:30 - 11:30 am, 
+OD,Mon,Marblehead,Light one Candle,"28 Mugford St., Side Entrance, 2nd Fl.",10:30 a.m., 
+CD,Mon,Marblehead,Quitin' Time,8 Anderson St.,4-5 p.m., 
+CW,Mon,Marblehead,Ladies Night Out,"Old North Ch., 35 Wash. St.",7:30-8:30 p.m., 
+OD,Mon,Marblehead,All Welcome,8 Anderson St.,8:30 p.m., 
+OD,Mon,Marion,Eye Openers,"St. Gabriel's, 124 Front St.",7:30-8:30 a.m., 
+C12,Mon,Marion, ,"St. Gabriel's, 124 Front St.",7:15 p.m., 
+OD,Mon,Marlboro,Early Risers,33 Main St.,6:45-7:45 a.m.,Handicap Yes
+OD,Mon,Marlboro, ,33 Main St.,NOON, 
+CD,Mon,Marlboro,Simply Sober,33 Main St.,5:30-6:30 p.m.,Handicap Yes
+C12,Mon,Marlboro,12 Roads Step-ARC,33 Main St.,7-8:20 p.m., 
+OD,Mon,Marshfield,Living Sober,"N. Community Ch., 72 Old Main St.",10 a.m.,Handicap Yes
+CBB,Mon,Marshfield, ,"Methodist Ch., 185 Plain St., Rte. 139",7:00 p.m., 
+OSD,Mon,Martha's Vnyd.,Open Speaker Discussion,"Grace Ch. Par. Hse., 36 Woodlawn Ave., Vineyard Haven",Noon,Yes
+OD,Mon,Martha's Vnyd.,As Bill Sees It,"Good Shepherd Par. Ctr., 55 School St., Oak Bluffs",6:00 p.m.,Yes
+OBB,Mon,Martha's Vnyd.,Open Big Book,"Dukes County House of Correction, 149 Main St., Edgartown",7:00 p.m., 
+CSW,Mon,Martha's Vnyd.,Women's Speaker Disc.,"Baptist Par. Hse., 66 William St., Vineyard Haven",7:30 p.m.,Handicap Yes
+OD,Mon,Martha's Vnyd.,Open Speaker Discussion,"Methodist Ch., 9 Menemsha Crossroads, Chilmark",8:00 p.m.,Handicap Yes
+CM12,Mon,Mattapoisett,Men's Step,"American Legion, 3 Depot St.",8:00 p.m., 
+OSD,Mon,Maynard,Now,"Methodist Church, 2 Summer St.",NOON, 
+CD,Mon,Medfield,Literature/Discussion,"1st Baptist, Main St.",7:30-8:30 p.m., 
+O*,Mon,Medford,Grace,"Grace Church, 160 High Street",7:30-8:30 p.m.Beg. 6:30 PM,Handicap Yes
+CBB,Mon,Medford, ,"Methodist Ch., 55 Otis St.",8:00 p.m., 
+CD,Mon,Melrose,Midmorn. Drop In,"1st Baptist, Main & Upham Sts.",10:00-11:00 a.m., 
+C12W,Mon,Melrose,Stepsisters,"St. Mary's Convent, Herbert St.",7:30 p.m., 
+O12,Mon,Melrose,Wrought Iron,"Trinity Church, 131 W. Emerson St.",8-9 p.m., 
+ODBB,Mon,Merrimac,Chapter 2,"Pilgrim Ch., Church St.",7:30 - 8:30 p.m., 
+CD,Mon,Methuen,Primary Purpose,"Spiritual Life Ch., 126 Merrimac St., Rte. 110",10 a.m., 
+OBB,Mon,Middleboro,Breakfast Club,"Cong. Ch., 38 Plymouth St.",9:30 - 10:30 a.m., 
+O,Mon,Middleboro,Center,"Meth. Ch., 14 School St.",7:30-8:30 p.m., 
+CD,Mon,Middleton,Preamble,"Congregational Ch., 68 Maple St., Rte. 62",5-6 p.m.,Handicap Yes
+OD,Mon,Milford,Eye Opener,"Unit. Univ. Ch., 23 Pine St.",8:30 a.m., 
+C12W,Mon,Milford,Timeout,"Trinity Epis., Congress & Exchange Sts.",6:30 p.m., 
+O,Mon,Milford,Tritown,"Methodist Church, 39 Exchange Street",8-9 p.m.,Handicap Yes
+C12,Mon,Millbury,Center,"St. Brigid's, 59 Main St.",7 - 8:15 pm, 
+OD,Mon,Milton,Farm,"Methodist Parkway Ch., 158 BlueHills Pkwy.",NOON, 
+CBB,Mon,Milton,Out of the Blue-East,"1st Parish Unitarian, 535 Canton Ave,",7:30-8:45 p.m., 
+O,Mon,Milton,Town Of Milton,"St. Eliz. Rectory, Rear, Randolph Ave.",7:30-8:30 p.m., 
+O*,Mon,Milton,Parkway,"Meth., 158 Blue Hill Pkwy.",8:00 p.m. Beg. 7:00 p.m., 
+CD,Mon,Nahant,Forty Steppers,"Nahant Village Ch., 27 Cliff St.",7 p.m., 
+OD,Mon,Nantucket, ,"Drop-IN CENTER, Vesper Ln.",7:00 a.m., 
+OD,Mon,Nantucket,Noon,"1st Cong Ch.,62 Center St.",Noon, 
+OD,Mon,Nantucket,Happy Hour,"Govin Village, Vesper Ln.",5:30 p.m., 
+OD,Mon,Nantucket, ,"St. Paul's, 14 Fair St.,",8:00 p.m., 
+OBB12,Mon,Nantucket, ,"Drop-In Center, Vesper Ln.",8:00 p.m., 
+CBB12W,Mon,Natick,By The Book,"Christ Evangelical Lutheran Ch., 113 Union St.",7-8:15 p.m., 
+BB12,Mon,Natick,Big Book Step Study,"St. Joseph's Ctr., Wilson St.",7:00 p.m., 
+C12,Mon,Needham,Keep It Simple,"1st Bapt., 858 Great Plain Ave.",NOON, 
+C12,Mon,Needham, ,"St. Sebastian's, Rt. 128, Great Plain Ave.",8:30 p.m., 
+OD,Mon,New Bedford,AM Recovery,360 Coggeshall St.,8:00-9:00 a.m., 
+OD,Mon,New Bedford,New Beginnings,366 Coggeshall St.,Noon - 1 pm, 
+OD,Mon,New Bedford,Seaside Serenity,"1st Cong., Ch., 2195 Acushnet Ave.",Noon - 1 p.m., 
+OSD,Mon,New Bedford,Daily Reflections,"Faith Ministries, 177 Cove St.",Noon, 
+OD,Mon,New Bedford,Luz Da Noite,157 Davis St.,7:00 p.m., 
+OD,Mon,New Bedford,Last Chance,"Pilgrim Methodist Ch., 635 Purchase St.",7- 8:30 p.m., 
+CD,Mon,New Bedford,Living Sober,"Serenity Hall, 177 Cove St",7 p.m.,Yes
+OD,Mon,Newburyport,Mon. Morn.,"Immaculate Conc., Parish Hall, 42 Green St.;",10:30 -11:30 a.m., 
+O,Mon,Newburyport,Noontime,"Presbyterian ch., 29 Federal St.",NOON,Handicap yes
+ODM,Mon,Newburyport,Missing Link,37 Washington St.,6:00 -7:00 p.m., 
+CBB,Mon,Newburyport,Big Book,"Immaculate Conc. Par. Hall, 42 Green St.",7:15 p.m., 
+OD,Mon,Newton,Jump Start,"Ch. of Messiah, 1900 Comm. Ave.",6:45 -7:45 a.m., 
+OD,Mon,Newton,Reflections,"United Ch. Auburndale, 64 Hancock St.",7:00 a.m., 
+O12,Mon,Newton,Norumbega,"M.D.C., 107 Charles St.",NOON, 
+ODM,Mon,Newton,M.O.M.,"United Church of Auburndale, 64 Hancock St.",5:30 p.m., 
+OD,Mon,Newton,New Beginners,"Second Ch., 60 Highland St., Upstrs.",6:30-7:30 p.m., 
+C12,Mon,Newton,One At A Time,"MDC, 107 Charles St.",7:30-8:30 p.m., 
+O*,Mon,Newton,Acceptance,"St. Mary's, 258 Concord St.",8:00-9:00 p.m., 
+SDYP,Mon,No. Andover, ,"St. Michael's, 193 Main St.",7 - 8 p.m., 
+ODW,Mon,No. Andover,Love/Life,"St. Paul Episcopal, 396 Main St.",7:30-8:45 p.m., 
+C12W,Mon,No. Attleboro,Women's Step,"Sch. Hse., Cong. Ch., 676 Old Post Rd.",7:30 p.m., 
+CBB,Mon,No. Grafton,"Happy, Joyous, Free","St. Andrew's, Rtes. 140 & 30",7:30 p.m., 
+OD,Mon,Norfolk,Daily Steps,"St. Jude's, 86 Main St.",NOON-1 p.m., 
+O12,Mon,Northboro, ,"Trinity Ch., 23 Main St.",10:00 a.m., 
+O12,Mon,Norton,Pathways,"St. Mary's Parish, 1 Power St.",8:00 p.m., 
+O,Mon,Norwell, ,"Unitarian Ch., 24 River St.",8:30 p.m.,Handicap Yes
+OD,Mon,Norwood,Sunny-side Up,"St Timothy's, 650 Nichols St.",7 -8 am, 
+OD,Mon,Norwood, ,"1st Baptist Ch. Hall, 71 Bond St.",NOON -1 p.m.,Handicap Yes
+C12,Mon,Norwood,Candle Light,"Congregational, 100 Winter St.",7:30 p.m., 
+OD,Mon,Oak Bluffs,Good Shepard Par. Ctr.,55 School,5:30 p.m., 
+OD,Mon,Orleans, ,"Drop-In Center, 26 Giddiah Hill Rd.,","7 a.m., NOON, 5 p.m.",Handicap Yes
+OBB12M,Mon,Orleans,Men's BBSS,"Federated Ch., 162 Main St.",7:30 p.m., 
+OD,Mon,Osterville,Sobriety First,"St. Peter's Epis., Wianno Ave.",8:30-9:30 a.m., 
+CBB,Mon,Pepperell,Spiritual Awakening,"Church of the Holy Spirit, 1 Tucker St.",7:30 p.m., 
+OD,Mon,Plymouth,Fore And Aft,"Christ Ch. Par. Hall, 149 Court St.",10:30 a.m.,Handicap Yes
+CBB,Mon,Plymouth,Road to Recovery,"Little Red school House, Cedarville",6-7 p.m., 
+OD,Mon,Plymouth,Mayflower,"St. Bonaventure, 803 State Rd.",7:00 p.m.,Handicap Yes
+O,Mon,Plymouth,Jordan,"Christ Church Parish Hall, 149 Court St.",7-8:30 p.m., 
+OD,Mon,Plympton,Honesty,"Congregational Parish Hse., Rt. 58",NOON, 
+OD,Mon,Pocasset,Hit The Deck,"Firehouse, 311 Barlows Landing Rd.",7:30-8:30 a.m., 
+ODBB,Mon,Pocasset,Roots & Causes,"Baptist Ch., 292 Barlows Landing Rd.",5:30 - 6:30 p.m., 
+SD,Mon,Pocasset,Young Peoples,"Firehouse Basement, Barlow's Landing Rd.",7-8 p.m., 
+O,Mon,Pocasset,Joy Of Living,"Community Bldg., 298 Barlows Landing Rd.",7:30-8:30 p.m.,Handicap Yes
+OD,Mon,Provincetown,How It Works,"United Methodist Ch., 10 Shank Painter Rd.",7:00 - 8:00 a.m. and Noon-1 p.m.,Handicap Yes
+OD,Mon,Provincetown, ,"St. Mary's, 519 Comm. St.",7:00-8:00 p.m.,Handicap Yes
+OD,Mon,Quincy,Fort Sq. 11th Step,"Presbyterian Ch., 16 Pleasant",7-8 a.m.,Handicap Yes
+OD,Mon,Quincy,Reality,"United Methodist Ch., 40 Beale St.",10 a.m., 
+C12,Mon,Quincy,Steps To Serenity,"United Meth., 40 Beale St.",7 - 8 p.m., 
+O,Mon,Quincy,Fresh Start,"Evan Ch. Of Atlantic, 65 Newbury Ave,",7:30 - 8:30 p.m.,Handicap Yes
+O*,Mon,Quincy,Monday Night,"Presbyterian Ch., 16 Pleasant St.",8 p.m. Beg. 7 p.m.,Handicap Yes
+CD,Mon,Raynham, ,"Stone Church, Rte. 104",9:30 a.m., 
+O,Mon,Raynham,Don't Quit,"Gilmore Hall, Rte. 138",8:00 p.m., 
+C12,Mon,Reading,Breath Of Life,"St. Agnes, 184 Woburn St.",12:30-1:30 p.m., 
+O12,Mon,Rehoboth,Progress Not Perfection,139 Bay State Rd.,7-8 p.m.,Handicap Yes
+C12,Mon,Rockland,Step,"1st Cong. Ch., Union & Church Sts.",8-9 p.m., 
+OSD,Mon,Rockport, ,"Baptist Church, Broadway/Mt. Pleasant",NOON-1 p.m., 
+OD,Mon,Rockport, ,"St. Mary's, 24 Broadway",7:30 p.m., 
+OD,Mon,Roslindale,Beginners,"Bethany Church, 100 Cummings Highway",6:45 p.m., 
+O,Mon,Roslindale, ,"Bethany Church, 100 Cummings Highway",8 - 9 p.m., 
+OD,Mon,Roxbury,Dudley Square,"STEPRox, 9 Palmer St.",8:00 a.m., 
+OD,Mon,Roxbury,Monday-StepRox,9 Palmer St.,10-11:30 a.m.,Handicap Yes
+OD,Mon,Roxbury,Red Rd.-Natives in Rec.,"Tecumseh Hse., 107 Fisher Ave., ALL WEL.",6 p.m., 
+C12M,Mon,Roxbury,Bottom Of Barrel,"MissionCh., Music Rm., 1545Tremont",8 p.m., 
+C12,Mon,Salem,Another Chance,"St. James Chapel, 156 Federal St.",10-11:15 a.m.,Handicap Yes
+C12,Mon,Salem,Back to Basics,"Beverly Coop Bk., 73 Lafayette St., Comm. Rm.",12:15 - 1:15, 
+CD,Mon,Salem,Castle Hill Gratitude,"St. Ann's, 9 Cleveland St.",8:00 p.m., 
+ODYP,Mon,Sandwich,Guardian Angel YP,"Ch. of Christ, 136 Main St., Side entrance",6:00 p.m., 
+OBB,Mon,Sandwich,Village,"First Church, 136 Main St.",7:30 p.m., 
+CMD,Mon,Saugus,Pirates Cove,"Step Program, 163 Hamilton St.",7-8 p.m.,Handicap Yes
+CD,Mon,Scituate,Scituate Seaside,"St. Mary's Parish Hall, 1 EdwardFoster Rd.",8:30 - 9:30 am, 
+OD,Mon,Sharon, ,"Lady Sorrows, 59 Cottage Street",10:30 a.m., 
+OD,Mon,Sherborn,"Recovery, Unity & Service","Unitarian Ch., 11 Washington St.",7:30, 
+C12,Mon,Shrewsbury,Eternal Vigilance,"Trinity Episcopal, 440 Main St.",7-8 a.m., 
+CBB,Mon,So. Boston,Pilot House,"Task Force, 345 Old Colony Ave.",7:15 a.m., 
+OD,Mon,So. Boston,Early Bird,"St. Monica's Hall, 331 Old Colony Ave.",7:30- 9 AM, 
+OD,Mon,So. Boston,Keep The Spirit,"St. Monica's Ch. Hall, Side Dr, Old Col. Ave & Preble",11:30 a.m., 
+O*,Mon,So. Boston,Mon. Nite,"Medicine Wheel Gallery, 110 K St., @ E. 1st.","7-8:00 p.m.,Beg 6 p.m.", 
+O*,Mon,So. Boston,Off The Sauce,"St. Monica's, 331 Old colony Ave.",7:30-8:30 p.m.Beg.6:30 p.m., 
+CD,Mon,So. Dennis, ,"Masonic Hall, Old Bass River Rd.",5:00-6:00 p.m.,Handicap Yes
+O,Mon,Somerset,Retread,"Church of Savior, 2112 County St.",7:30 p.m., 
+OSD,Mon,Somerville,Unity,"1st United Ch. of Christ, 89 College Ave.",7:30 p.m., 
+O*,Mon,Somerville,Praying Hands,"Lions Club, 9 New Washington Street","7:30-8:30 pm, Beg. 6 - 7 p.m.", 
+O,Mon,Spencer,Fellowship,"Congregational, Route 9",7:30 p.m., 
+CD,Mon,Stoneham,2 for 1,"1st Baptist Ch., 457 Main St., Enter Hancock",1-2 pm, 
+CBB,Mon,Stoneham,Friends Of Bill +Bob,"1st Cong. Ch., 1 Church St.",8-9 p.m., 
+O*,Mon,Stoughton,Help Is Here,"United Meth., 103 Pleasant St.","8 p.m., 6:30 pm Beg.", 
+C12,Mon,Stow,Back Door,"St. IsidoreCh., 429 Great Rd., Rte 117",7:30 p.m., 
+OBB12M,Mon,Swampscott,N. Shore BBSS,"1st Cong. Ch., 40 Monument Ave., Rear",7:30 p.m., 
+OBB,Mon,Tewksbury,Lighten Up,"Old Chapel, Tewksbury State Hosp.",Noon, 
+OD,Mon,Tewksbury,Living Sober,"Hosp. Chapel, 365 East St.",7:30 - 8:30 p.m.,Handicap Yes
+OD,Mon,W. Barnstable,Fellowship Works,"1717 Mtg. Hse. Ch., 2049 Mtg. Hse. Way",5:00 p.m., 
+OD,Mon,W. Bridgewater,Just For Today,"24 S. Clubhouse, 320 W. Center St.",7 - 8 a.m., 
+OSD,Mon,W. Bridgewater,Out to Lunch,"24 So. Clubhouse, 320 W. Center St.",Noon, 
+OSD,Mon,W. Bridgewater,Daily Reflections,"Today Club House, 465 N. Main",5.30-6.30 p.m., 
+O*,Mon,W. Bridgewater,Collegetown,"Cochesett Meth.,Rtes.106/24","7:30-8:30 pm,beg. 6:30-7:15P, O12", 
+ODG,Mon,W. Bridgewater,Rainbow GLBT,"24 So. Clubhouse, 320 W. Center St.",8-9 p.m.,Handicap Yes
+OD,Mon,W. Bridgewater,Joy In The Journey,"Today Club House, 465 N. Main",9-10 a.m., 
+O,Mon,W. Falmouth, ,"Christ Lutheran, 485 Brick Kiln Rd.",8:00 p.m., 
+C12,Mon,W. Groton,Steps Of Recovery,"Senior Ctr., 173 Main St.",7:30 p.m., 
+C12,Mon,W. Roxbury, ,"St. Theresa's, School Cafe., St. Theresa Ave.",7:15-8:15 p.m., 
+OD,Mon,Wakefield,Hiker Monument,"Congregational Church, 1 Church St.",7:30 p.m., 
+O*,Mon,Walpole,United,"VFW, 108 Robbins Rd.","8 - 9 p.m., Beg. 6:30 - 7:30 p.m.", 
+OD,Mon,Waltham,Day At A Time,"Presbyterian Ch., 34 Alder St.",NOON - 1:15 p.m., 
+OD,Mon,Wareham,Here and Now,"Wesley United Meth. Ch., 462 Main St.",NOON - 1p.m.,Handicap Yes
+O12,Mon,Wareham,It's Free Step Beginners,"1st. Cong. Ch., 5 Gibbs Ave.",6-7 p.m., 
+O,Mon,Wareham,It's Free,"1st Cong. Ch., 5 Gibbs Ave., upstairs",7:30 - 8:30 p.m., 
+OD,Mon,Wareham,There is Hope,"Wesley United Meth. Ch., 462 Main St.",7:30-8:30 a.m., 
+C12M,Mon,Watertown,Catacombs,"Grace Vision Ch., 80 Mt. Auburn St.",7 p.m.,Handicap Yes
+OD,Mon,Wellfleet,Out Of The Fog,"Methodist Ch., Main St.",8:00 p.m., 
+C12W,Mon,Wenham,At Last,"First Ch., 1 Arbor St.",7:30 - 8:45 p.m., 
+CBB,Mon,Westboro, ,"Kirkside House, 8 Church St.",7:30 p.m., 
+OSD,Mon,Westford,Monday Night Live,"1st Parish Ch.United, 48 Main St.",7:30-8:30 PM, 
+O,Mon,Weston, ,"St. Peter's Church, Rt. 20",8-9:00 p.m.,Handicap Yes
+CD,Mon,Weymouth,Cancellation,"Old So. Union, Columbian Sq.",10:00 a.m.,Handicap Yes
+O12,Mon,Weymouth,New Life Step,"U.U. Ch., Rte. 3A @ Sea St.",7:30 p.m., 
+OBB,Mon,Weymouth,BB Workshop,"Nazarene Ch., 385 Ralph Talbot St.",7:30 - 8:45 p.m., 
+O*,Mon,Weymouth,Old So. Union,"Church, Columbian Sq.","8 - 9 p.m., Beg. 7 p.m.",Handicap Yes
+C12,Mon,Whitinsville,Step,"Trinity Ch., 31 Linwood Ave.",7:30 p.m., 
+O,Mon,Winchendon, ,"Unitarian Church, 126 Central St.",8:00 p.m., 
+O*,Mon,Winchester,Morningside,"Epis. Ch., 70 Church St..","7.30-8:30 p.m., Beg., 6-7 p.m.,", 
+C12,Mon,Winthrop,Remember When,"St. John's, 222 Bowdoin",7:30 - 8:45 p.m., 
+C,Mon,Woburn,Pick Of The Parish,"First Baptist, Winn, Main & Park Sts.",NOON, 
+OD,Mon,Woburn,As Bill Sees It,"STEP Prog., 171 Old Cambridge Rd.",7 p.m.,Handicap Yes
+CM,Mon,Woburn,Mens,"First Baptist, Winn, Main & Park Sts.",8:30 p.m., 
+OD,Mon,Worcester,7A Group,107 Lincoln St.,7:00-8:00 a.m.,Handicap Yes
+CD,Mon,Worcester, ,"695 Main St, 4th fl.",9:30 a.m.,Handicap Yes
+OBB,Mon,Worcester,Big Book Workshop,"695 Main St., 4th Fl.",9:30 a.m., 
+O12G,Mon,Worcester,Steps To Recovery,"St. Matthew's, 695 Southbridge St.",7:30 p.m., 
+O,Mon,Worcester,Crozier,"St. Stephens, 357 Grafton St.",8 p.m., 
+OSD,Tue,Abington,Early Bird Dawn Patrol,"United Church, Rte 18, 10 Bedford St.",7-8 a.m., 
+C12,Tue,Acushnet,Road To Joy & Freedom,"Long Plain United Methodist Ch., 1215 Main St.",7 p.m., 
+OD,Tue,Allston,Overdue,"Hill Memorial Ch., 279 N. Harvard",Noon-1 p.m., 
+OD,Tue,Amesbury,What's Good About Today,"Unity on River, 58 Macy, Rte. 110",7-8 a.m., 
+C12T,Tue,Amesbury,12 & 12,"Union Congregational Ch., 350 Main St.",7-8:15 p m.,Handicap Yes
+O12,Tue,Andover,Freedom,"St. Augustine's, 43 Essex St.",7 - 8 :15 p.m., 
+CD,Tue,Arlington,Just For Today,"St. Camillus, 1175 Concord Turnpike, Arlington",7-8 a.m.6 a.m.,Handicap Yes
+O,Tue,Arlington, ,"St. Paul's Luth., 929 Concord Tumpike",7:30-8:30 p.m.,Handicap Yes
+OBB12,Tue,Arlington,Big Book Step Study,Right Turn Group Conf. Rm. 299 Broadway,7:00 p.m., 
+O,Tue,Athol,Orange,"Lady Immaculate, 244 School St.",8 p.m., 
+OD,Tue,Attleboro,Keep Trying,"Advent Christian Ch., 560 Pleasant St.",Noon - 1p.m., 
+OD,Tue,Attleboro,Desire to Stop,"Cameron Bldg., 68 Falmouth St.",Noon-1:00 p.m.,Handicap Yes
+OSD,Tue,Attleboro,Spartans of Sobriety,"Cameron Bldg., 68 Falmouth St.",7-8:30 p.m., 
+C12,Tue,Bedford,First Things First,"1st Ch. Christ, 25 Great Rd.",6:00-6:45 a.m., 
+C12M,Tue,Bedford,Steppin On Up,"First Ch. Of Christ, 25 Great Rd.",6:45-7:45 p.m., 
+OD,Tue,Bellingham,Beginners,"How It Works Club, 176 Mechanic St.",7-8 p.m., 
+OSD,Tue,Belmont,Newcomers,"McLean Hosp., Demarneffe Bldg., Cafe.",8 p.m., 
+C12,Tue,Beverly,Second Chance,"White Whale, 9 Hale St.",5:30-6:30 p.m., 
+O,Tue,Beverly,Ray of Hope,"Methodist Ch., 2 Dane St.",7-8 p.m., 
+CDW,Tue,Beverly Farms,Reflections,"St. John's Episcopal Ch., 705 Hale St.",NOON-1 p.m.,Handicap Yes
+O,Tue,Billerica,Mid Day-Sober House,317 Boston Rd.,Noon - 1:00 p.m., 
+CD,Tue,Billerica,KIS,"Cong. Ch., 18 Andover Rd.",8:00 p.m.,Handicap Yes
+O12,Tue,Blackstone,12 Golden Steps,"St. Theresa, 630 Rathbun St.",12-1 p.m., 
+O12,Tue,Boston,Rise & Shine,"St. Francis Hse. Shelter, 39 Boylston St.",7-8 a.m., 
+OSD,Tue,Boston,Sahara Sunrise,"Harvard Vanguard, 147 Milk St., Conf. Rm. 1B",7:30-8:30 a.m., 
+O12,Tue,Boston,Back Bay Steps,Arlington St. church,7:30 a.m., 
+OD,Tue,Boston,No Name,"Arch St. Chapel, 100 Arch St.",NOON-1 p.m., 
+OBB,Tue,Boston,Ashburton.Noon,Alley Next To 20 Ashburton Pl.,NOON-1 p.m., 
+OD,Tue,Boston,Copley Noontime,"Trinity Ch., Claredon St., Ferris Library",Noon,Handicap Yes
+OBB12,Tue,Boston,Original Recipe,"Harvard Vanguard, 147 Milk St. Rm. 1A",12:10-1 p.m., 
+CD,Tue,Boston,Lunchtime,"BUMarsh Chapel, 735 Comm. Av., Marsh Rm.",1-2 p.m., 
+CD,Tue,Boston,Lit. Disc.,"Central Service, 12 Channel St., Ste. 604 Marine Ind.Pk.",5:15-6:15 p.m., 
+C12,Tue,Boston,Living Room 12 + 12,"Emmanuel Ch., 15 Newbury St.",5:30-6:30 p.m., 
+C12W,Tue,Boston,Freedom From Bondage,"Paulist Center, Park St.",5:30-6:30 p.m., 
+OSDG,Tue,Boston,Finally Tuesday,74 Kilmarnock St.,6:00 PM,Yes
+ODYP,Tue,Boston,West End YP,"MGH, Yawkey Bldg., 2nd Fl., Rm. 230",6-7 p.m.,Handicap Yes
+OBB,Tue,Boston,Keep It Simple,"Trinity Ch., 206 Clarendon St.",6:30-7:30 p.m., 
+CBBM,Tue,Boston,86 It Big Book,"Our Ladies of Victories, 27 Isabella St.",6:30-7:30 p.m., 
+O,Tue,Boston,The Not Forgotten,"Vets Shelter, 17 Court St., 1st Fl.",6:45-7:45 p.m., 
+CBB,Tue,Boston,Freedom,"Sacred Heart, 9 Suncourt at North St.",7:00 p.m., 
+OD,Tue,Boston,Double Winners,"Haley House, 23 Dartmouth St.",7-8 p.m., 
+OBB,Tue,Boston,Keep It Simple,"Trinity Ch., 206 Claredon St.",6:30 - 7:30 p.m., 
+O,Tue,Boston,Fellowship,"Old South Ch., 645 Boylston St.",7:30-8:30 p.m., 
+O12G,Tue,Boston,Jay Walkers,"Our Ladies of Victories, 27 Isabella St",8-9 pm, 
+O*,Tue,Boston,Crossroads,"Ch/Covenant, 67 Newbury, downstairs",8:30 - 9:30 p.m., 
+O,Tue,Bourne,Head of the Bay,"United Methodist Ch., 37 Sandwich Rd",8 p.m., 
+OBB,Tue,Braintree,Big Book,"St. Thomas More, 8 Hawthorne Rd.",10:00 a.m., 
+O,Tue,Braintree,30-60-90,"Emerald Hall, Bay State Park, Bay State Rd.",7:30 p.m.,Handicap Yes
+O,Tue,Braintree,Union,"Congregational, 74 Commercial St., Wey. Land.",7:30 - 8:30 p.m., 
+O,Tue,Braintree, ,"All Soul's, 196 Elm Street",8 p.m.,Handicap Yes
+OD,Tue,Brewster,Grateful Living,"United Meth. Ch., 701 Airline Rd.",7:15 a.m.,Handicap Yes
+OD,Tue,Brewster,5 Alive,"Club Dry Dock, 1439 Main St., Rte. 6A",5 p.m., 
+CD,Tue,Bridgewater,Living Sober,"United Methodist Ch., 35 School St.",Noon - 1p.m., 
+OSD,Tue,Bridgewater,Collegetown Disc,"United Methodist, 35 School St.",7-8 p.m., 
+O,Tue,Brighton,Allston/Brighton Tue. Night,"Charlesview Apts., 123 Antwerp St., Comm. Rm.",8 p.m., 
+OD,Tue,Brockton,New Hope,"Prince of Peace Ch., 906 N. Main St.",10:00 a.m., 
+CW12,Tue,Brockton,Women's Sharing,"E. Martin Hse., 678 No. Main St.",6-7 p.m.,Handicap Yes
+O,Tue,Brockton,New Blood,"1st Evangelical Lutheran, 900 Main St.",7:00 p.m., 
+OD,Tue,Brookline,Discussion,"United Parish, 210 Harvard St.",NOON, 
+C12,Tue,Brookline,Steps By The Book,"Ch. of Savior, 25 Monmouth St.",7-8 p.m., 
+O*,Tue,Brookline, ,"Presbyterian, 32 Harvard St.","8-9 p.m., Beg. 6:45 p.m.", 
+OSD,Tue,Byfield,WACO,"Methodist, 6 Central Street, Downstairs",7:30-9:00 p.m., 
+C12W,Tue,Cambridge,Morning Glories,"First Cong'l, 11 Garden St.",7:00-8:00 a.m., 
+CDM,Tue,Cambridge,Hair Of The Dog,"Christ Ch., 0 Garden St.",7:30-8:15 a.m., 
+OSD,Tue,Cambridge,Kendall Sq.,"MIT Medical Bldg, E-23 Rm 364, 25 Carleton St.",12:10-1 p.m.,Handicap Yes
+OD,Tue,Cambridge,Courage to Change,"Quaker House, 5 Longfellow Place",7-8 p.m.,Handicap Yes
+OSD,Tue,Cambridge,As We Understood,"Christ Ch., 0 Garden St., Quilt Rm.",7-8 p.m., 
+C12M,Tue,Canton,Clean House 12 & 12,"Trinity Epis., 1 Blue Hill River Rd.",8 p.m., 
+C12,Tue,Carver,12+12,"Vine Ch., 5 Wareham St.",8 p.m., 
+ODG,Tue,Cataumet,U.C.L.&G.,"Methodist Ch., Old Country Rd.",7 p.m., 
+OD,Tue,Centerville,Hour Of Power,"Our Lady, 230 S. Main St.",7:30-8:30 a.m., 
+OD,Tue,Charlestown,DAAT,586 Rutherford Ave.,NOON-1 p.m.,Handicap Yes
+C12M,Tue,Charlestown,The Searchers,586 Rutherford Ave.,7-8 pm, 
+CBB,Tue,Charlestown,"Big Book, Alcohol Only","Mary Colbert Apts., 20 Devon St.",8:15-9:30 p.m., 
+C12,Tue,Chelmsford,Early Risers,St. John's CCD Bldg.,6:45 a.m.-7:45 a.m.,Handicap Yes
+O12,Tue,Chelmsford,Step of the Month,Central Baptist on Common,12:15-1:15 p.m., 
+O12G,Tue,Chelmsford,Simply Steps,"Unitarian Univ., Central Square",7:00 p.m., 
+O,Tue,Chelmsford,North,"Congregational, Vinal Sq., Rt. 3A",7:30 p.m., 
+OD,Tue,Clinton,Keep The Faith,"A.I.R,256 High St.",NOON, 
+O,Tue,Clinton,Shamrock,"Presbyterian Ch., 169 Chestnut St.",8:30-9:30 p.m., 
+CD,Tue,Cohasset, ,"St. Stephen's, 16 Highland Ave.",8:00 p.m., 
+O12,Tue,Concord,Sobah Camel,"Monument Hall, 62 Monument Sq.",1-Dec,Handicap Yes
+OSD,Tue,Danvers,Eye Opener,"All Saints Epis., Holten St., Front Door",7-8 a.m., 
+O12*,Tue,Danvers,Road To Recovery,"All Saints Epis., Holten St.","NOON-1 p.m., 11-11:45 am", 
+CSD,Tue,Danvers,Happy Hour,"1st Ch. Of Danvers, 41 Centre St.",4:30 - 5:30 p.m., 
+OSDWYP,Tue,Dedham,The Real Thing,"St. Mary Assumption Ch., 420 High St.",7:30-8:30 p.m., 
+C12,Tue,Dedham,Green Lodge,"Good Shepherd Ch., 60 Cedar St.",7:30 p.m., 
+CD,Tue,Dedham,Gateway,"Unitarian Ch., 670 High St",10:00 a.m., 
+OD,Tue,Dennis,Honesty Beginners,"Carleton Hall, 1006 Old Bass River Rd.",6:45-7:45 p.m., 
+OBBSS,Tue,Dennisport,Tue,"New Life church, 486 Main St., Rte 28",7:00 PM, 
+CDW,Tue,Dighton,Women's Step to Recovery,"Council Hall, 1111 Somerset Ave.",6:30 -7:30 p.m.,Handicap Yes
+CWD,Tue,Dorchester,But for the Grace of God,Carney Hospital,7 p.m., 
+OBBM,Tue,Dorchester,Living Room Tue,"Christ Community Ch., 51 Walnut St.",7-8:15 p.m., 
+O,Tue,Dorchester,Meetinghouse Hill,"First Parish Church, 10 Parish St.",7:00 p.m., 
+CM12,Tue,Dorchester,No Name,"Carney Hosp., 2100 Dorchester Ave.",7:30 p.m.,Handicap Yes
+SD,Tue,Dracut,Sobriety 101,"Ste. Marguerite d'Youville, 1340 Lakeview Ave.",Noon, 
+C12,Tue,Eastham,Nauset,"Methodist, Route #6A",8 p.m.,Handicap Yes
+OD,Tue,Essex, ,"St. John Baptist, 52 Main St.",8-9:30 p.m., 
+O*,Tue,Everett, ,"Immaculate Conception Parish Hall, Summer",7:30 p.m. (beg. 6 pm), 
+OD,Tue,Fairhaven,First Aid,"St. Mary's Ch. Rec. Base., 440 Main St.",7 p.m., 
+OBB12,Tue,Fairhaven,There Is A Solution,"Trinity Luth., 16 Temple Pl.",7-8:30 p.m., 
+OD,Tue,Fall River,S.O.S.,"1st Baptist Ch., 228 N. Main St.",11:45-12:45 p.m., 
+OD,Tue,Fall River,Turn It Over,"1st Baptist, 228 N. Main",5:30-6:45 p.m., 
+C12,Tue,Fall River, ,"Union Meth., 600 Highland Ave.",6:30-7:30 p.m.,Handicap Yes
+OD,Tue,Falmouth,Each Day a New Beginning,"Wesley Methodist, 270 Gifford St.",7-8 a.m., 
+OD,Tue,Falmouth,Discussion,"St. Patricks, 511 Main St.",Noon - 1 p.m., 
+O,Tue,Falmouth,Power of Example,"Church of Nazarene, 292 Brick Kiln Rd.",7-8 p.m., 
+OD,Tue,Fitchburg,Keep It Simple,"Faith United ch., 820 Main St.",NOON-1 p.m., 
+C12,Tue,Fitchburg, ,"Ch. Of Good Shepard, 10 Wachusett St.",7-8:15 p.m., 
+OSD,Tue,Fitchburg,Newman Group,"Emanuel Lutheran Ch., 1200 Fitch Hwy",7-8 PM, 
+O12,Tue,Foxboro,Daily Winners,"Community Ctr., 382 South St.,",NOON-1 p.m., 
+C12W,Tue,Foxboro,Step Sisters,"Luth. Ch. of Redeem., 212 Main St., Rte 140",7-8 p.m., 
+OD,Tue,Framingham,Reflections,"Dennison Bldg., 300 Howard St.",7-8 a.m., 
+OD,Tue,Framingham,Daily,"Drop-In Center, Kendall St.",NOON - 1 p.m., 
+OD,Tue,Framingham,Sunshine,"Ply. Congregational, 87 Edgell",12:15 p.m., 
+CW12,Tue,Framingham,Step Sisters,"Plymouth Ch., Kellogg Rm., 87 Edgell Rd.",6:30-7:30 p.m., 
+C12,Tue,Framingham,Pass It On,"Drop In Center, 62A Kendall St.",7:30 - 8:30 p.m., 
+OSD,Tue,Gardner,Mid Day,205 School St,12:30 - 1:30 pm,Handicap Yes
+OD,Tue,Gardner,As Bill Sees It,"Heywood Hosp., 250 Green St",7:30 - 8:30 p.m., 
+OD,Tue,Gloucester,Cape Ann Early Bird,"Baptist Ch., 38 Gloucester Ave.",7-8 a.m., 
+OSDYP,Tue,Gloucester, ,"Trinity Church, 70 Middle St.",7:00-8:00 p.m., 
+OD,Tue,Grafton,Easy Duz It,"Unitarian, Route 140",Beginners: 6:30 p.m., 
+O,Tue,Groton,Easy Does It,"First Parish Ch., Main St.",7:30 p.m. - 8:30 p.m.,Handicap Yes
+C12W,Tue,Hanson,Step By Step,"Bryantville Methodist Ch., 546 Mattakeeset St.",7:30 p.m.,Handicap Yes
+O12,Tue,Haverhill,New Jericho Noontime,"Safe Haven, 127 How St",NOON-1 p.m.,Handicap Yes
+OD,Tue,Haverhill,New Hope Beg.,"Whittier Pavillion, 76 Summer St.",6:45 - 7:45 p.m.,H
+O12T,Tue,Haverhill,Sane And Sober,"Unit. Univ., 16 Ashland St., Lower Level",7-8 p.m., 
+CWBB,Tue,Haverhill,There Is A Solution,"W. Cong. Ch., 767 Broadway",7-8 p.m.,Handicap Yes
+OBB,Tue,Haverhill,Willing to Change,"All Saints Ch., 120 Bellevue Ave.",8:30 - 9:30 p.m.,Handicap Yes
+CB,Tue,Hingham,New Day,"Lutheran Ch., 916 Main St., Rte 228",7:30 a.m.,Handicap Yes
+ODM,Tue,Holliston,Reality,"Christ the King Lutheran, 600 Central St.",7:30 p.m., 
+C12,Tue,Hopkinton,"Easier, Softer Way","Cong. Ch.,146 E. Main St.",7:30-8:30 p.m., 
+O,Tue,Hopkinton,Barber Shop,"St. John's Evan., 20 Church St.",8-9 p.m.,Handicap Yes
+OD,Tue,Hudson,Time To Talk,"United Meth., 34 Felton St.",7:30-8:30 p.m., 
+O*,Tue,Hull,End of the Line,"Gould Hall, 128 Spring Street","7:30-8:30 p.m., Beg. 6:30 p.m.", 
+OD,Tue,Hull,Summer Only,"Burke Bathhouse, 116 Hull Shore Dr.",8:30-9:30 a.m., 
+OD,Tue,Hyde Park,Constant Vigilance,"Readville K of C Hall., 12 Wolcott Ct.",11:00 a.m., 
+OBB,Tue,Ipswich,Bookin' It,"Baptist Ch., 45 Central St",7:30 - 8:30 pm, 
+O12,Tue,Jamaica Plain,Beginners 12 Step,"Shattuck Hosp., Turville Conf. Rm.",7:30-8:30 p.m.,Handicap Yes
+CDGM,Tue,Jamaica Plain,Speak Freely,"Farnsworth Hse., 90 South St.",7:30-8:30 p.m.,Handicap Yes
+CBB,Tue,Jamaica Plain,Into Action,"St. John's Ch., Revere and Roanoke Sts.",7:30-8:30 p.m., 
+OD,Tue,Kingston,Early Bird Gratitude,"VCF Ch., 8 Hilltop Rd.",7-8 a.m., 
+OSD,Tue,Kingston,Beginners,"Beal Meeting House, 224 Main Street",7:30 p.m.,Handicap Yes
+OSD,Tue,Lawrence,New Beginnings,"Riverside Ch., 290 Water St.",10:30-11:30 a.m.,Handicap Yes
+OD,Tue,Lawrence,Just for Today,"599 Canal St., 5th Fl., Ste. West 2",noon - 1 pm,Handicap Yes
+OD,Tue,Leominster,Eyeopener,"St. Mark's Youth Center, Cotton St.",8-9 a.m., 
+OD,Tue,Leominster,High Noon,"Unitarian Universalist Ch., 15 West St.",NOON, 
+OSDW,Tue,Leominster,Harmony,"St. Leo's Sch. Hall, Rte. 12",7:30 p.m., 
+OBB12,Tue,Leominster,BB Step Study,"United Methodist Ch., 77 Hall St.",7:30 p.m., 
+O,Tue,Leominster,Common,"Unitarian Church, 15 West Street",7:45 p.m., 
+OD,Tue,Lexington,Sober by Grace,"2 Militia Dr., Rm G-5",6:30-7:30 a.m.,Handicap Yes
+CBB,Tue,Lexington,Big Book,"1st Bap., 1580 Mass. Ave.",12-1:00 p.m., 
+ODYP,Tue,Lexington,Never Too Young,"Church of Redeemer, 6 Meriam St.",7:30 - 8:30 p.m.,handicap Yes
+C12W,Tue,Lexington,Women's Step,"1st Fl. Methodist Ch., 2600 Mass Ave.",7:30-8:30 p.m., 
+O12,Tue,Lowell,New Last Gaspers,"St. Anthony's Sch., 908 Central, downstairs",Noon-1 p.m., 
+CSD,Tue,Lowell,Spark of Hope Alcohol Only,"St. Rita's Shrine Basement, Mammoth Road",NOON,Handicap Yes
+ODNS,Tue,Lowell,Screwy Twoey,"Shelter, 189 Middlesex St",2-3 p.m., 
+O12,Tue,Lowell,All Souls 1 2 3,"Mercier Ctr., 21 Salem St.",6:30-7:30 p.m., 
+O12,Tue,Lowell,Back to Basics,"Lowell House, 102 Appleton St",7-8 p.m., 
+CBB12M,Tue,Lowell,Men's BB Step Study,"Eliot Presbyterian Ch., 273 Summer St.",7:30 p.m., 
+OD,Tue,Lynn,Recovery,"Lynn Art, 25 Exchange St., Rear",7 a.m., 
+CSD,Tue,Lynn,Center,"Life Point Ch., 10 Baltimore St.E1056",11-Noon, 
+CSD,Tue,Lynn,TWT,"1st Ch., of Nazarene, 233 Eastern Ave.",11:30 a.m.-12:30 p.m., 
+CD,Tue,Lynn,Do It Sober,"Life Point Ch., 10 Baltimore St.",4-5 p.m., 
+C12,Tue,Lynn,Union Steps,"First Ch. of Christ, 678 Lynnfield St.",7-8 p.m., 
+C12,Tue,Lynn,Awareness,"Senior Services, 8 Silsbee St.",8 p.m.,Handicap Yes
+O12,Tue,Lynnfield,Birds Of A Feather,"St. Maria Goretti Ch., 112 Chestnut St.",7:30-8:30 p.m., 
+CD,Tue,Malden,B.Y.O.C.,"Club 24, 787 Salem St.",7-8 a.m., 
+OSD,Tue,Malden,Noontime,"Club 24, 787 Salem St.",NOON-1 p.m., 
+OD,Tue,Malden,Happy Hour,"Club 24, 787 Salem St.",4-5 p.m., 
+C12,Tue,Malden,Getting Better,"Club 24, 787 Salem St.",7 p.m., 
+O,Tue,Malden,End Of The Line,"Oak Grove Comm. Ctr., Grove St.",7:30-8:30 p.m., 
+C12,Tue,Malden, ,"Immac. Concep. Rec., 10 Fellsway E.",8 p.m., 
+O,Tue,Mansfield,Rose Garden,"St. Mary's, Rose Garden Bldg., 330 Pratt St.",7:30 p.m., 
+CD,Tue,Marblehead,Jumpstart,8 Anderson St.,7 a.m., 
+CBBW,Tue,Marblehead,Circle Of Light,"St. Andrew's, 135 Lafayette St.",7:30 a.m., 
+OD,Tue,Marblehead,Light one Candle,"28 Mugford St., Side Entrance, 2nd Fl.",10:30 a.m., 
+C12,Tue,Marblehead, ,8 Anderson St.,Noon-1p.m., 
+CD,Tue,Marblehead,Quittin Time,8 Anderson St.,4-5 p.m., 
+C12W,Tue,Marblehead,Higher Powered,"St. Andrew's, 135 Lafayette St.",7- 8:15 p.m., 
+CDM12,Tue,Marblehead,Men's Step,8 Anderson St.,7-8 p.m., 
+C12,Tue,Marblehead,Mugford 12 + 12,28 Mugford St.,7 p.m., 
+C12,Tue,Marblehead, ,8 Anderson St.,8:30 p.m., 
+OD,Tue,Marion,Eye Opener,"St. Gabriel's, 124 Front St.",7:30-8:30 a.m., 
+OD,Tue,Marlboro,Early Risers,33 Main St.,6:45-7:45 a.m.,Handicap Yes
+OD,Tue,Marlboro,Arc Angels,33 Main St.,NOON, 
+O12W*,Tue,Marlboro,Women's Step,"A.R.C., 33 Main St.,","5:30-6:30 p.m., beg. 5-5:30 p", 
+OD,Tue,Marshfield,Harmony,"Sanctuary Ch., 185 Plain St.",6-7 pm, 
+O*,Tue,Marshfield,Green Harbor,"Assumpt. Ch., Rt. 139, 40 Canal St.","8:00 p.m., beg. 7pm",Handicap Yes
+O,Tue,Marston Mills,It Only Takes Two,"Liberty Hall, 2150 Main",8 p.m., 
+OD,Tue,Martha's Vnyd.,Open Discussion,"1st Baptist Par. Hse., 66 William St., Vineyard Haven",6:45 a.m.,Yes
+OSD,Tue,Martha's Vnyd., ,"St. Andrew's Par.Hse, 51 Winter St.,Edgartown",NOON,Handicap Yes
+OBB,Tue,Martha's Vnyd.,Big Book Discussion,"Baptist Par. Hse., 66 William St. Vineyard Haven",5:15 p.m.,Handicap Yes
+C12,Tue,Martha's Vnyd.,Closed Step,"Baptist Par.Hse., 66 William St., Vineyard Haven",8:00 p.m,Handicap Yes
+O,Tue,Mashpee,Bill's Friend's,"Christ the King Church, Mashpee commons",7:30-8:30 p.m.,Handicap Yes
+O,Tue,Mattapoisett, ,"American Legion, Railroad & Depot",8-9:00 p.m., 
+OSD,Tue,Maynard,Now,"Methodist Church, 2 Summer St.",NOON, 
+O,Tue,Maynard, ,"St. Bridget's, 1 Percival St.",8-9 p.m.,Handicap Yes
+OD,Tue,Medfield,Discussion/Beginners,"Episcopal, 28 Pleasant St.",7:30-8:30 p.m., 
+O,Tue,Medford,Mid Week,"Grace Episcopal, 160 High St.",7:30-8:30 p.m.,handicap Yes
+C12,Tue,Medway,No Name,"St. Joseph, 151 Village St.",7:30 p.m., 
+CD,Tue,Melrose,Mid Morn. Drop In,"First Baptist, Main & Upham Sts.",10-11:00 a.m., 
+O*,Tue,Melrose,Pass It On,"1st Baptist, Main & Upham","8:00-9:00 p.m., Beg. 7 p.m.",Handicap Yes
+C12,Tue,Methuen,Primary Purpose,"Spiritual Life Ch., 126 Merrimac St., Rte. 110",10 a.m., 
+OBB,Tue,Methuen,Neutral Attitude,"K of C Hall, 462 Broadway (Bring Own Book)",8:30 p.m.,Handicap Yes
+OD,Tue,Middleboro,Hope Is Here,"Advent Luth. Ch., 62 E. Grove St.",Noon,Handicap Yes
+O12,Tue,Middleboro, ,"Methodist Ch., 14 School St.",8:00 p.m., 
+C12,Tue,Milford,Joy Of Living,"Trinity Ch., Exchange & Congress Sts.",NOON, 
+OD,Tue,Milford,Winners,"First cong. ch., 4 Congress St.",7:30-8:45 p.m., 
+O12,Tue,Milford,Eye Opener,"Unit. Univ Ch., 23 Pine St.",8:30 a.m., 
+O12,Tue,Milton,Farm,"Methodist Parkway Ch., 158 BlueHills Pkwy.",NOON, 
+CD,Tue,Nantucket,Drop In Center,Vesper Lane,7:00 a.m., 
+OD,Tue,Nantucket,Noon,"1st Cong Ch.,62 Center St.",Noon, 
+O12,Tue,Nantucket,Drop In Center,Vesper Lane,5:30 p.m., 
+CB,Tue,Nantucket,Beginner's,"Baptist Church, Summer St.",8:00 p.m., 
+OBB,Tue,Natick,Into Action,"Metro West Med., 67 Union St., 2nd Cafe",7:15 p.m.,Handicap Yes
+OD,Tue,Natick,Fire Escape Beginners,"1st Cong. Ch., 2 E. Central St.",7:30-8:30 p.m., 
+CBB,Tue,Needham, ,"Methodist, 800 Highland Avenue",8:00 p.m., 
+OD,Tue,New Bedford,AM Recovery,360 Coggeshall St.,8-9 a.m., 
+OSD,Tue,New Bedford,Daily Reflections,"Faith Ministries, 177 Cove St.",Noon, 
+OD,Tue,New Bedford,Seaside Serenity,"1st. Cong., Ch., 2195 Acushnet Ave.",Noon - 1 p.m., 
+OD,Tue,New Bedford,New Beginnings,366 Coggeshall St.,Noon - 1 pm, 
+C12,Tue,New Bedford,Fresh Start,"Lady Assumption, 54 So. 6th St.",8 p.m., 
+OD,Tue,Newburyport,Recovery,"Unitarian Ch., 26 Pleasant St.",NOON-1 p.m.,Handicap
+O12W,Tue,Newburyport,Step Sisters,"Unitarian Church, 26 Pleasant St",7-8 p.m., 
+OSD (beg),Tue,Newburyport,The Hot Dog Meeting,"St. Paul's, 166 High St.,",7:30-8:30 pm, 
+O12,Tue,Newton,Jump Start,"Ch. of Messiah, 1900 Comm. Ave.",6:45-7:45 a.m. Tapes, 
+OD,Tue,Newton,Reflections,"United Ch. of Auburndale, 64 Hancock St.",7 a.m., 
+OD,Tue,Newton,Norumbega,"M.D.C., 107 Charles St.",NOON, 
+CBB12,Tue,Newton,Happy Hour - BBSS,"United Parish, Hancock St., Auburndale",5-6 p.m., 
+OBB12,Tue,Newton,BBSS,"DCR, 107 Charles St.",6:00 p.m., 
+C12W,Tue,Newton,S.S.T.S.,"Ch. of Messiah, 1900 Comm. Ave.",7-8 p.m., 
+CBB12,Tue,Newton,There Is A Solution,"Lutheran Ch., 1310 Centre St.",7:30 p.m., 
+O,Tue,Newton,Serenity,"Carroll Ctr., 770 Centre St.",8:00-9:00 p.m.,Handicap Yes
+CD,Tue,Newton,Late Show Legacies,"Mary Immaculate Ch., 270 Elliot St.",8:30 - 10 pm, 
+O12,Tue,No. Andover, ,"St. Paul's Epis., 396 Main",7:30 - 9 p.m., 
+OD,Tue,No. Attleboro,Tower,"1st cong. Ch., Schoolhouse, 676 Old Post Rd.",7:30-8:30 p.m., 
+OD,Tue,No. Reading,Center-Beginners,"Masonic Temple, 283 Park St.",7 p.m.,Handicap Yes
+O12,Tue,Norfolk,Daily Steps,"St. Jude's, 86 Main St.",NOON-1 p.m., 
+OD,Tue,Norwell, ,"United Ch. Christ, Rt. 123",NOON,Handicap Yes
+O12,Tue,Norwell,New Hope Step,"United Ch. Of Christ, Rte. 123",7:15 - 8:15 p.m., 
+O,Tue,Norwell,New Hope,"United Ch. Christ, Rt. 123",8:30-10:00 p.m.,Handicap Yes
+OD,Tue,Norwood,Sunny-side Up,"St. Timothy's, 650 Nichols St.",7-8 am,Handicap Yes
+OD,Tue,Norwood, ,"1st Baptist Ch. Hall, 71 Bond St.",NOON-1 p.m.,Handicap Yes
+C12,Tue,Norwood,Tuesday Step,"Norwood Hosp., 800 Washington St., Dining Rm.",7-8 p.m., 
+O*,Tue,Norwood, ,"Elks Hall, 152 Winslow Ave.","8-9 p.m., Beg. 6:30-7:30 p.m.", 
+CDW,Tue,Orange,Percolators,"Day Break Ctr., 7 E.Main",6:30-7:30 p.m., 
+OD,Tue,Orleans, ,"Drop-In Center, 26 Giddiah Hill Rd.",7a.m. 5 p.m.,Handicap Yes
+OD,Tue,Orleans,Let It Go,"Odd Fellow Hall, 132, 1 Namskaket Rd.",NOON,Handicap Yes
+OD,Tue,Osterville,Sobriety First,"St. Peter's Epis., Wianno Ave.",9:30-10:30 a.m., 
+O12,Tue,Osterville, ,"Methodist Ch., 57 Pond St.",7:30 p.m., 
+CM,Tue,Peabody,Square,"K of C, 96 Main St.",7:30 p.m.,Handicap Yes
+CWBBSS,Tue,Pembroke,Women of Dignity,"46 Columbia Rd, 3rd Fl., Rte. 53",10:30 a.m.,Yes
+CBB,Tue,Pepperell,New Dawn,"Church of the Holy Spirit, 1 Tucker St.",7:30 p.m., 
+O,Tue,Plainville,Crystal Village,"United Methodist Ch., 16 East Bacon St.",7:30-8:30 p.m., 
+O,Tue,Plymouth,Fore & Aft,"Christ Ch. Par. Hall, 149 Court St.",10:30 a.m.,Handicap Yes
+O12,Tue,Plymouth,Tues. Night Steps,"Ch. of Pilgrimage, 8 Town Square",7-8:30 p.m., 
+O12,Tue,Plymouth, ,"Red School House, Herring Pond Rd.",7:30 p.m., 
+ODBB,Tue,Pocasset,Roots & Causes,"Baptist Ch., 292 Barlows Landing Rd.",5:30 - 6:30 p.m., 
+OD,Tue,Pocasset,Hit The Deck,"Firehse., 311 Barlows Landing Rd.",7:30-8:30 a.m., 
+OD,Tue,Provincetown,Big Book,"United Methodist Ch., 10 Shank Painter Rd.",7:00 - 8:00 a.m. and NOON-1 p.m.,Handicap Yes
+OD,Tue,Provincetown,Living Sober,"United Methodist Ch., Rear, 10 Shank Painter Rd.",5:30-6:30 p.m., 
+OD,Tue,Quincy,1st Step,"United Methodist Ch., 40 Beale St.",7-8 am, 
+OD,Tue,Quincy,Fort Sq 11th Step,"Presbyterian Ch., 16 Pleasant",7-8 a.m.,Handicap Yes
+OBB,Tue,Quincy,Way of Life,"St. Joseph's, Washington St.",7:30 p.m., 
+O12,Tue,Quincy,Stepping Out,"St. Chrysostom, 523 Hancock St.",7:30 p.m., 
+CBB12,Tue,Quincy,Searching & Fearless,"United Methodist Ch., 40 Beale St.",7:30 p.m., 
+O,Tue,Quincy,Dysart,10 Dysart Street,8 p.m., 
+C12W,Tue,Randolph,Women's Unity Step,"1st Baptist, 528 N. Main",7:30 p.m., 
+CD,Tue,Raynham,Lit. Disc.,"Stone Church, Rte.104",9:30 a.m., 
+C12,Tue,Raynham, ,"Congregational, Route 104",8:00 p.m., 
+CD,Tue,Revere,Great Desire,"Immac. Conc. Ch., Winthrop Ave. & Beach St.",11:30 a.m., 
+O,Tue,Rockland,Let Go & Let God,"Trinity Epis., 3 Goddard Ave.",8-9 p.m., 
+C12,Tue,Rockport, ,"Baptist Ch., Broadway",NOON-1 p.m.,Handicap Yes
+C12,Tue,Rockport, ,"1st. Cong., School St.",7:30-8:30 p.m., 
+O12,Tue,Salem,Another Chance,"St. James Chapel, Federal St., Rear",10-11:15 a.m., 
+OSD,Tue,Salem,Another Chance,"St. James Chapel, 156 Federal St., Rear",10-11:15 a.m.,Handicap Yes
+OBB12,Tue,Salem,Smart Start,"Life Bridge, 56 Margin St.",4 - 5 p.m., 
+C12,Tue,Salem,Simply 12 + 12,"Grace Ch., 385 Essex St.",6 - 7:15 p.m., 
+CD,Tue,Salem,Old Salem,"St. Peter's, 24 St. Peter's Street",7:30 p.m.,Handicap Yes
+OSD,Tue,Salisbury,Claim Your Seat,"Boys and Girls Club, 18 Maple St.",7-8 p.m., 
+OBB,Tue,Sandwich,Spirit Of Goodness,"1st Ch. Christ Base., 136 Main St.",7:30 p.m., 
+C12,Tue,Saugus,One Step at a Time,"St. John's, Central St.",7:30 p.m., 
+OBB,Tue,Scituate,Path to Freedom,"St. Mary's Parish Hall, 1 Edward Foster Rd.",7:00 p.m., 
+CBB,Tue,Sharon, ,"Lady Sorrows, 59 Cottage St.",10:30 a.m., 
+C12,Tue,Shrewsbury,Eternal Vigilance,"Trinity Episcopal, 440 Main St",7-8 a.m., 
+CBB,Tue,So. Boston,Pilot House,"Task Force, 345 Old Colony Ave.",7:15 a.m., 
+OD,Tue,So. Boston,Early Bird,"St. Monica's Ch. Hall, Old Col. Ave.",7:30- 9 AM, 
+OD,Tue,So. Boston,Keep The Spirit,"St. Monica's Ch. Hall, Side Dr., Old Col.Ave. & Preble",11:30 a.m., 
+C12,Tue,So. Boston, ,"St. Monica's, 331 Old Colony Ave., Rec. Base.",6 p.m., 
+OSD,Tue,So. Boston,Out of the Darkness,"Recovery Center, 70 Devine Way",7-8 p.m., 
+O,Tue,So. Boston,Design For Living,"Tynan Schl., 650 E. 4th St.",7:30-8:30 p.m.,Handicap Yes
+O,Tue,So. Boston,Answer,5 G Street,7:30 - 8:30 p.m., 
+CD,Tue,So. Dennis, ,"Masonic Hall, 242 Old Bass River Rd.",5:00-6:00 p.m.,Handicap Yes
+CDM,Tue,Somerset,Stag,"American Legion Hall, Roosevelt Ave.",7:00 p.m., 
+C12M,Tue,Somerville,Kitchen Group,"St. Benedict's Convent, 15 Franklin St.",7 p.m., 
+C12M,Tue,Somerville,Men's Step,"St. Ann's Sch. Base., 50 Thurston St.",7 p.m., 
+CDM,Tue,Somerville,Dignitaries Sympathy,"St. James Episcopal, 1170 Broadway",7:30 - 8:45 pm, 
+OD,Tue,Southboro,We Believe,"St. Matthew's, 105 Southville Rd.",7:30-8:30 p.m., 
+CD,Tue,Stoneham,2 for 1,"1st Baptist Ch., 457 Main St., Enter Hancock",1-2 pm, 
+O12,Tue,Stoughton,Beginners Step,"Kindred Hospital, 909 Sumner St.",6-7 p.m.,Yes
+O,Tue,Stoughton,Tuesday Night,"Kindred Hospital, 909 Sumner St. café.",7:30 p.m.,Yes
+C12M,Tue,Sudbury,Men's Step,"First Parish Ch., 327 Concord Rd.",7 - 8 p.m., 
+OSD,Tue,Sudbury, ,"Lady of Fatima, 160 Concord Rd., off 27",8-9 p.m., 
+O,Tue,Taunton,Unity,"State Hospital, R. Silvia Bldg., 60 Hodges Ave.",6:30 - 7:30 p.m.,Handicap Yes
+O*,Tue,Taunton,Serenity,"Union Cong. Ch., 265 West Brittania St.","8 p.m., Steps 1-3 6:30 pm", 
+OD,Tue,Tewksbury,Good To Yourself,"St. William's School Base., Rte. 38",11:30 a.m., 
+C12,Tue,Tewksbury,Joy Of Living,"State Hosp., Chapel, 365 East St.",6:30 - 7:30 p.m.,Handicap Yes
+OSD,Tue,Topsfield,Amazing Grace Of God,"Cong. Ch., 9 E. Common St.",7-8 p.m.,Handicap Yes
+O,Tue,Topsfield, ,"Trinity Church, 124 River Road",7:30-8:30 p.m.,Handicap Yes
+OD,Tue,Truro,North,"Christ. Union Ch., Route 6A",8:00 p.m.,Handicap Yes
+OD,Tue,W. Barnstable,Fellowship Works,"1717 Mtg. Hse. Ch., 2049 Mtg. Hse. Way",5:00 p.m., 
+OD,Tue,W. Barnstable,Friendship,"Our Lady of Good Hope, 4 Parker Rd., 6A",7:30 p.m., 
+OD,Tue,W. Bridgewater,Just For Today,"24 S. Clubhouse, 320 W. Center St.",7 - 8 a.m., 
+OSD,Tue,W. Bridgewater,Out to Lunch,"24 So. Clubhouse, 320 W. Center St.",Noon, 
+OSD,Tue,W. Bridgewater,Joy is in the Journey,"Today Club House, 465 N. Main",5.30-6.30 p.m., 
+O,Tue,W. Bridgewater,The Jay Walker,"24 S. Clubhouse, 320 W. Center St.",7-8 p.m., 
+CW12,Tue,W. Roxbury,Recovering Step Sisters,"St. Stephen's, 5160 Washington St.",7-8 p.m., 
+ONS*,Tue,W. Roxbury,Starting Over,"St. George's, 55 Emmonsdale Rd.","7 p.m., Beg. 6 p.m.",Handicap Yes
+CBB,Tue,W. Roxbury,Winners,"Ohrenberger Sch., 175 W. Boundary Rd.",7:00 p.m., 
+CD,Tue,Wakefield, ,"Congregational, 1 Church St.",NOON, 
+OBB,Tue,Wakefield,Big Book Magic,"1st Baptist Ch., 8 Lafayette St.",7:00 p.m., 
+OD,Tue,Waltham,Day At A Time,"Presbyterian Ch., 34 Alder St.",NOON - 1:15 p.m., 
+OD,Tue,Wareham,There is Hope,"Wesley United Meth. Ch., 462 Main St.",7:30 a.m., 
+OD,Tue,Wareham,Here and Now,"Wesley United Meth. Ch., 462 Main St.",NOON - 1p.m.,Handicap Yes
+OBBW,Tue,Wareham,Women's BB,"Wesley Ch., 462 Main St.",1:15 PM, 
+O*,Tue,Watertown,Easy Does It,"Grace Vision Ch., 80 Mt. Auburn St.",7:30 p.m. Beg.6 p.m.,Handicap Yes
+OD,Tue,Wellesley,Top Of The Hill,"Friends Mtg. Hse., 26 Benvenue",NOON, 
+CD,Tue,Westboro,No Name,"Good Shepard Ch., 183 W. Main St.",NOON-1 p.m., 
+OD,Tue,Westboro,4th Dimension Meditation,"United Methodist Ch., 120 Main St.",6-7:15 p.m., 
+OBB,Tue,Westboro,A Vision For You-Tue,"Chapel @ Cross, 160 Flanders",7:30 p.m., 
+C12,Tue,Weston,College,"Campion Center, 319 Concord Rd.",8:00 p.m., 
+CD,Tue,Westport,Sober Today,"Pacific Union Ch., 526 Old County Rd.",7 p.m., 
+CDW,Tue,Westwood, ,"Islington Comm. Ch., Rt. 1A & East",7:30 p.m., 
+OD,Tue,Weymouth,Miracles Happen,Nazarene Ch. 385 Ralph Talbot St.,7:30-8:30 p.m.,Handicap Yes
+O*,Tue,Weymouth,Freedom,"K of C, 25 Chauncy St.","7:30-8:30 p.m., Beg. 6:30 p.m.",Handicap Yes
+O*,Tue,Whitman, ,"Episcopal Hall, 44 Park Avenue",8:00 p.m. Beg. 6:45 p.m., 
+OD,Tue,Wilmington,You're Worth It,"Methodist Church, 87 Church St.",8:00 p.m., 
+C12,Tue,Winchester,Day By Day,"Crawford Mem. Meth. Ch., Church St.",7 p.m., 
+CBB,Tue,Winthrop, ,"St. John's, 222 Bowdoin St.",7:30 p.m., 
+OD,Tue,Woburn,Court Jesters,"United Methodist Ch., 523 Main St.",1-2 p.m., 
+OD,Tue,Worcester,7A Group,107 Lincoln St.,7:00-8:00 a.m.,Handicap Yes
+OD,Tue,Worcester, ,"695 Main St., 4th Fl.",9:30 a.m.,Handicap Yes
+OSDYP,Tue,Worcester, ,"St. Matthew's, 695 Southbridge",7:30 p.m., 
+O,Tue,Worcester,Quinsig,"Sacred Heart Ch., 600 Cambridge St.",8-9 p.m.,Handicap Yes
+O,Tue,Yarmouth,Serenity,"St. David's Ch., 205 Old Main St.",7:30-8:30 p.m., 
+OSD,Wed,Abington,Early Bird Dawn Patrol,"United Church, Rte 18, 10 Bedford St.",7-8 a.m., 
+OBB,Wed,Acton,Big Book Study,"Baptist Ch., 592 Mass. Ave.",7:30-9 p.m., 
+OD,Wed,Allston,Overdue,"Hill Memorial Ch., 279 N. Harvard",Noon-1 p.m., 
+OBBM,Wed,Allston,Big Book Readers,"Hill Memorial Ch., 279 No. Harvard St.",7:30 p.m., 
+CBB12,Wed,Allston,Boiled Owls,"Jackson Mann School, Union Sq.",8:00-9:00 p.m., 
+OD,Wed,Amesbury,What's Good About Today,"Unity on River, 58 Macy, Rte. 110",7-8 a.m.,handicap yes
+CW,Wed,Amesbury,Women's Meeting,"Union on River, 58 Macy St., Rte. 110",10:00-11:30 a.m., 
+OD,Wed,Amesbury, ,"The Elms, 53 Friend St.",7:30-8:45 p.m.,Yes
+OD,Wed,Andover,Serenity,"Christ Church, 33 Central St.",10:30 a.m., 
+CD,Wed,Arlington,Just For Today,"St. Camillus, 1175 Concord Turnpike",7-8 a.m. 6 a.m.,Handicap Yes
+CDBB,Wed,Arlington,Primary Purpose,"St. Camillus, 1175 Concord Turnpike",6-7 p.m., 
+O,Wed,Arlington, ,"Unitarian Church, 630 Mass. Ave.",7 p.m., 
+OD,Wed,Arlington,Action,"Trinity Baptist, 115 Mass. Ave.",7:00 p.m., 
+OSD,Wed,Arlington,Turn Around,Right Turn Group Conf. Rm. 299 Broadway,7:30-8:30 p.m., 
+OD,Wed,Attleboro,Desire to Stop,"Cameron Bldg., 68 Falmouth St.",Noon-1:00 p.m.,Handicap Yes
+OD,Wed,Attleboro,Keep Trying,"Advent Christian Ch., 560 Pleasant St.",Noon - 1p.m., 
+OBB12,Wed,Attleboro,Design For Living,"1st Baptist Ch., 118 S. Main St.",7:30 p.m., 
+CD,Wed,Bedford,First Things First,"1st Ch. Christ, 25 Great Rd.",6:00-6:45 a.m., 
+OBB,Wed,Bellingham,Design for Living,"How It Works Club, 176 Mechanic St.",7-8 p.m., 
+C12W,Wed,Berkley,Going the Extra Mile,"United Meth. Ch., 93 Myricks St.",7-8 p.m., 
+CSD,Wed,Beverly,Second Chance,"White Whale, 9 Hale St.",5:30-6:30 p.m., 
+O,Wed,Beverly,One Day At A Time,"St. Peter's Epis., 4 Ocean St.",7-8 p.m., 
+OD,Wed,Beverly Farms,Unmerited Gift,"Baptist Ch., 9 Hart St.",8 p.m., 
+O,Wed,Billerica,Suburban,"St. Ann's, 14 Treble Cove Rd.,",8-9 p.m.,Handicap Yes
+O12,Wed,Blackstone,12 Golden Steps,"St. Theresa, 630 Rathbun St.",12-1 p.m., 
+OSD,Wed,Boston,Rise & Shine,"St. Francis Hse. Shelter, 39 Boylston St.",7-8 a.m., 
+OBB,Wed,Boston,164 Upon Awakening,"Our Lady of Victories, 27 Isabella St",7-8 AM, 
+OSD,Wed,Boston,Sahara Sunrise,"Harvard Vanguard, 147 Milk St., Conf. Rm. 1B",7:30-8:30 a.m., 
+O12,Wed,Boston,Back Bay Steps,Arlington St. Church,7:30 a.m., 
+OD,Wed,Boston,Copley Noontime,"Trinity Ch., Claredon St. ,Ferris Library",Noon,Handicap Yes
+O,Wed,Boston,Ashburton: no hol or 3rd wed,Alley next to 20 Ashburton Pl.,Noon-1 p.m., 
+CD,Wed,Boston,Lunchtime,"BU Marsh Chapel, Marsh Rm., 735 Comm. Ave.",1-2 p.m., 
+ODW,Wed,Boston,Women's Discussion,"Rosie's Place, 889 Harrison Ave.",3:30 - 4:30 p.m.,Handicap Yes
+OD,Wed,Boston,Drop In,"St. Anthony's Shrine, 100 Arch St.",5:45-6:45 p.m., 
+O12,Wed,Boston,Project 12,"Project Place, 1145 Washington St.",6-7 p.m.,Handicap Yes
+OSDG,Wed,Boston,Laundry,74 Kilmarnock St.,6-7:00 p.m., 
+OSD,Wed,Boston,Beginners Mind,"Old South Church, 645 Boylston St.",6:30-7:45 p.m., 
+O,Wed,Boston,Not Forgotten,"Vets Shelter, 17 Court St.",6:45-7:45 p.m., 
+O12,Wed,Boston,Cathedral Steps-Holy Cross,419 Shawmut Ave.,7-8 p.m.,Handicap Yes
+O12,Wed,Boston,Prince St.,"Mariners House, II North Sq.",8-9:00 p.m., 
+OM,Wed,Boston, ,"Hope House, 8 Farnham St.",8-9 p.m., 
+ODG,Wed,Boston,Old West,"Emmanuel Ch., 15 Newbury St.",8:30 -9:30 p.m., 
+OD,Wed,Braintree,Primary Purpose,"Emmanuel Episcopal Parish Center, 519 Washington St.",12:15-1:15 p.m., 
+OD,Wed,Brewster,Grateful Living,"United Meth. Ch., 701 Airline Rd.",7:15-8:15 a.m., 
+OD,Wed,Brewster,5 Alive,"Club Dry Dock, 1439 Main St., Rte. 6A",5 p.m., 
+CM12,Wed,Brewster,Easy Does It But Do It,"Trinity Luth., 1883 Main St.",7:00 p.m.,Handicap Yes
+OD,Wed,Bridgewater,Let's Give It Away,"St.Thomas Aquinas Ch., 103 Center St.",9:30 a.m., 
+CD,Wed,Bridgewater,Step,"United Methodist Ch., 35 School St.",NOON - 1p.m., 
+CW12,Wed,Bridgewater,Women of Dignity,"Trinity covenant Ch., South St.",7-8 p.m.,Handicap Yes
+C12TW,Wed,Brighton,Women's Hope,"Marine Public Hosp., 77 Warren St., 3rd Fl., Rm. 3",7-8 p.m., 
+OD,Wed,Brighton,B.L.T.N.,"St. Elizabeth's Hosp., 736 Cambridge St.",8-9 p.m., 
+OD,Wed,Brockton,Fellowship,"Central United Meth., 65 W. Elm St.",10:00 a.m., 
+O,Wed,Brockton,New Beginnings,"Luth. Ch., Main & Nilsson Sts.",7 p.m., 
+O*,Wed,Brockton,Westgate,"Prince of Peace Ch., 906 N. Main St.","8 - 9 p.m., Beg. 6:45 p.m.", 
+OD,Wed,Brookline,Daily Reflections,"United Parish Ch., 210 Harvard St.",8-9 am, 
+OD,Wed,Brookline,Solutions,"HRI Café, 227 Babcock St",6:30 -7:30 p.m., 
+OD,Wed,Burlington,Top of the Hill,"St. Margaret's, Par. Hall, 111 Winn St.",Noon,Handicap Yes
+CBB,Wed,Burlington, ,"St. Margaret's CCD, 111 Winn St.",7:30 p.m.,Handicap Yes
+O,Wed,Buzzards Bay,Wednesday,"St.Peter's, 165 Main St.",7:30 - 8:30 p.m., 
+ODW,Wed,Cambridge,Morning Glories,"1st Church Cong., 11 Garden St.",7 a.m., 
+OBB,Wed,Cambridge,Kendall Square,"MIT Bld., E25, Rm. 119, 45 Carlton St.",7:15-8:15 a.m., 
+CDM,Wed,Cambridge,Hair Of The Dog,"Christ Ch., 0 Garden St.",7:30-8:15 a.m., 
+CBB,Wed,Cambridge,Gratitude,"Methodist church, 1555 Mass. Ave",Noon-1 p.m.,Handicap Yes
+OSD,Wed,Cambridge,Live+Let Live Beginners,"St. Peter's Cafe., 96 Concord Ave.",7-8:15 p.m.,Handicap Yes
+ODYP1,Wed,Cambridge,Young People,"First Baptist Ch., 5 Magazine St.",8-9:15 p.m., 
+OD,Wed,Canton,Noontime,"Trinity Church, Rte. 128 & 138 North",NOON - 1p.m., 
+OD,Wed,Carver,Welcome Home,"Vine Ch., Wareham St.",8-9 p.m., 
+OD,Wed,Centerville,Hour Of Power,"Our Lady, 230 So. Main St.",7:30-8:30 a.m., 
+OD,Wed,Centerville,Discussion,"Cong., 565 Main St.",7:30 p.m., 
+OD,Wed,Charlestown,DAAT,586 Rutherford Ave.,Noon-1 p.m.,Handicap Yes
+C12W,Wed,Charlestown,Women Of Hope,"Mishawum Park, 336 Main st.",7:00 p.m.,Handicap Yes
+OD,Wed,Charlestown,Beginners,586 Rutherford Ave.,7-8 pm, 
+OBB,Wed,Chelmsford, ,Central Baptist on Common,12:15-1:15 p.m., 
+OD,Wed,Chelsea,Original,"St. Luke's, 201-205 Wash. Ave.",8 p.m.,Handicap Yes
+OD,Wed,Clinton,Keep The Faith,"A.I.R,256 High St.",NOON, 
+C12,Wed,Concord,Early Birds,"Union Church, 1317 Main St",6:30 a.m., 
+OD,Wed,Concord,Sobah Camel,"Monument Hall, 62 Monument Sq.",12-1 p.m.,Handicap Yes
+O12,Wed,Danvers,Eye Opener,"All Saints Episc. Ch., Holten St., Front Door",7-8 a.m., 
+OD,Wed,Danvers,Road To Recovery,"All Saints Episc. Ch., Holten St.",Noon-1 p.m., 
+CD,Wed,Danvers,Preamble,"1st Church of Danvers, 41 Centre St.",5-6 p.m.,Yes
+ODW,Wed,Danvers,New Beginnings,"All Saints Episc. Ch., Holten St.",7 p.m., 
+O,Wed,Danvers,Starting Over,"1st Ch., of Danvers, 41 Center St.",7-8 P.M., 
+CWD,Wed,Dedham, ,"St. Paul's, House 73 Court St.",9:30 a.m., 
+C12W,Wed,Dedham,Girls Night Out,"First Church & Parish, 670 High St",7 - 8 pm, 
+O,Wed,Dedham, ,"St. Susanna, 262 Needham St.",7:30-8:30 p.m., 
+O12,Wed,Dighton,Red Road 12 & 12,"Council Hall, 1111 Somerset Ave.",7:30 p.m.,Handicap Yes
+O12,Wed,Dorchester,Greater Hope for Our Hope,"Missional Ch., 266 Quincy St.",7-8 pm, 
+CWBB,Wed,Dorchester,Living Room,"Christ Community ch., 51 Walnut St.",7 - 8:15 p.m., 
+C12,Wed,Dorchester,Quincy St. Group,"Mission Church, 266 Quincy St.",7:00 p.m., 
+O*,Wed,Dorchester,Grace,"IBEW Hall, 256 Freeport St.","7-8 p.m., Beg. 6-6:45 p.m.",Handicap Yes
+OD,Wed,Dorchester,Dr. Bob,"Dorchester House, Gsrden Rm., 1353 Dot. Ave.",7:30 - 8:30 p.m., 
+SD,Wed,Dracut,Sobriety 101,"St. Marguerite d'Youville, 1340 Lakeview Ave.",Noon, 
+CWD,Wed,Duxbury,Duxbury,"Pilgrim Congregational Ch., 404 Washington St.",7:30 p.m., 
+O12,Wed,E. Bridgewater,Serenity,"Union Congregational, 105 Pleasant",7:30 p.m., 
+C12M,Wed,E. Bridgewater,Boys R Us,Comm. Cov. Ch. 400 Pleasant St.,7:30 p.m., 
+CD,Wed,Eastham,Little River,"Chapel in the Pines, 220 Samoset Rd.",8 p.m., 
+OD,Wed,Everett,11th Step,"Whidden Hosp., Williams Aud., 103 Garland",7 p.m.,Handicap Yes
+OD,Wed,Fall River,SOS,"First Baptist Ch., 228 Main St.",11:45-12:45 a.m., 
+O12,Wed,Fall River,Turn It Over,"1st Baptist, 228 N.Main",5:30-6:45 p.m., 
+O,Wed,Fall River,Common Bond,"Sacred Heart ., 160 Seabury St.",7:30 p.m., 
+OD,Wed,Fall River,Boa Nova,"Tenement House, 40 Quarry St.",8:00 p.m., 
+OD,Wed,Falmouth,Each Day a New Beginning,"Wesley Methodist, 270 Gifford St.",7-8 a.m., 
+OD,Wed,Falmouth,Discussion,"St. Patricks, 511 Main St.",Noon - 1 p.m., 
+CBB12,Wed,Falmouth,BB Step Study,"John Wesley Meth. Ch., 270 Gifford St.",7 - 8:30 p.m., 
+C12,Wed,Falmouth,North,"Congregational, 155 Old Main St.",8:00 p.m.,Handicap Yes
+CD,Wed,Fitchburg,Sobriety Seekers,"Faith United Ch., 820 Main St.",10-11 a.m., 
+CD,Wed,Fitchburg,Keep It Simple,"Faith United Ch., 820 Main St.",Noon-1 p.m., 
+O12,Wed,Foxboro,Daily Winners,"Community Ctr., 382 South St.,",Noon-1 p.m., 
+OBB,Wed,Foxboro,Come As You Are,"Bethany Cong. Ch., 3 Rockhill St.",7:30 p.m., 
+OD,Wed,Framingham,Reflections,"Dennison Bldg., 300 Howard St.",7-8 a.m., 
+OD,Wed,Framingham,Daily,"Drop In Center, Kendall St.",NOON - 1 p.m., 
+CD,Wed,Framingham,Midday Release,"Flrst Baptist, Pleasant St.",12:15 p.m., 
+ODW,Wed,Framingham,Women Helping Women,"Dennison Bldg., 300 Howard St.",6:30 p.m., 
+OBB,Wed,Framingham,BB Workshop,St. George's,7:30-8:45 p.m., 
+CMBB12,Wed,Framingham,Big Book Step Study,"Plymouth Ch. Bldg, 87 Edgell Rd.",7:30 p.m., 
+O,Wed,Framingham,Willing to Change,"Wesley Methodist Ch., 80 Beacon St.",8-9 p.m., 
+O,Wed,Framingham,Saxonville,"Dennison Bldg., 300 Howard St.",8-9 p.m., 
+CDM,Wed,Franklin,Men's,"St. John's, 237 Pleasant St.",7:30 p.m., 
+OSD,Wed,Gardner,Mid Day,205 School St,12:30 - 1:30 pm,Handicap Yes
+OD,Wed,Gloucester,Cape Ann Early Bird,"Baptist Ch., 38 Gloucester Ave.",7-8 a.m., 
+OD,Wed,Gloucester,Beginner's,"Addison Gilbert Hosp., Rm 1407",3:30 p.m., 
+CSD,Wed,Gloucester,Fish City,"St John's, 48 Middle St.",7-8 p.m., 
+C12,Wed,Gloucester,Bay View,"Brotherhood Hall, 885 Wash. St.",7:30-8:30 p.m., 
+OD,Wed,Groveland,Positive Start,"St. James Ch., 119 Washington St.",6:30-7:30 a.m., 
+C12,Wed,Groveland,Friendship,"St. James, 119 Washington St.",7 p.m., 
+CBB,Wed,Hamilton,No. Shore BB,"Christ Ch., 149 Asbury St.",7:30 p.m., 
+O,Wed,Hanover, ,"1st Cong. Ch., Parish Hall, 17 Silver St.",8:00 p.m., 
+CD,Wed,Harvard,Catacombs III,"Cong. Ch., Harvard Commons",8:30 p.m., 
+OBB,Wed,Haverhill, ,"St. John Baptist, 110 Lincoln Ave.",Noon-1 p.m.,Handicap Yes
+OD,Wed,Haverhill,New Jericho Noontime,"Safe Haven, 127 How St",Noon-1 p.m.,Handicap Yes
+OSD,Wed,Haverhill,Door To Door Serenity,"Whittier Pavillion, 76 Summer St.",6:45-7:45 p.m.,Handicap Yes
+CD,Wed,Hingham,New Day 11th Step,"Lutheran Ch., 916 MainSt., Rte 228",7:30-8:30 a.m.,Handicap Yes
+CSD,Wed,Hingham,Hope,"2nd Parish Ch., 695 Main St., Rte 228",7:30 - 8:30 a.m., 
+CDW,Wed,Hingham,Courage To Change,"St. Paul's White House, 20 Fearing Rd.",7-8 p.m., 
+ODM,Wed,Hingham,Beginner Men's Discussion,"Lutheran Ch., 916 Main St.",7 -8 pm, 
+CDM*,Wed,Hingham,Men's,"Glastonbury, Rt. 228, Lodge","8:00 p.m., beg. 6:30 -7:30", 
+CDW,Wed,Holliston,Women Of Wisdom + Dig.,"1st Baptist, 40 High St.",7-8 p.m., 
+OD,Wed,Holliston,Starting Anew,"1st Baptist Ch., 40 High St.",8-9 p.m., 
+OD,Wed,Hull,Summer Only,"Burke Bathhouse, 116 Hull Shore Dr.",8:30-9:30 a.m., 
+OD,Wed,Hyde Park,Constant Vigilance,"Readville K of C Hall., 12 Wolcott Ct.",11:00 a.m., 
+OD,Wed,Ipswich,Always A Beginner,"Cong. Ch., No. Green",6:15 p.m.,Handicap Yes
+C12G,Wed,Jamaica Plain,Taking Steps,"Farnsworth House, 90 South St.",7:30 - 8:30 p.m., 
+ODM,Wed,Jamaica Plain,Green St,"Hope Central Ch., 85 Seaverns Ave.",8-9:15 pm, 
+OD,Wed,Kingston,Early Bird Gratitude,"VCF Ch., 8 Hilltop Rd.",7-8 a.m., 
+OBB,Wed,Kingston,By the Book,"Beal House, 222 Main St.",6:45-7:45 p.m., 
+OD,Wed,Lakeville,As Bill Sees It,"Church of Nazarene, 180 Main St..",7:30 - 8:30 p.m., 
+O,Wed,Lawrence,New Beginnings,"Riverside Ch., 290 Water St.",10:30-11:30 a.m.,Handicap Yes
+OD,Wed,Lawrence,Just for Today,"599 Canal St., 5th Fl., Ste. West",Noon - 1 pm,Handicap Yes
+O,Wed,Lawrence,Back Door,"Psychological Ctr., 11 Union St., Rear",1:30-2:30 p.m., 
+OD,Wed,Leominster,Eyeopener,"St., Mark's Youth Ctr., Cotton St.",8-9 a.m., 
+OD,Wed,Leominster,High Noon,"Unitarian Universalist Ch., 15 West St.",NOON, 
+OD,Wed,Lexington,Sober by Grace,"2 Militia Dr., Rm G-5",6:30-7:30 a.m.,Handicap Yes
+CD,Wed,Lexington,Promises,"1st Baptist, 1580 Mass. Ave.",Noon-1 p.m., 
+OBB12,Wed,Lexington,BB Stepstudy,"Follen Comm. Ch., 755 Mass Ave.",7:30 p.m., 
+OD,Wed,Lincoln, ,"St. Anne's Ch., Rte. 126",8:00 p.m., 
+CSD,Wed,Lowell,Spark of Hope Alcohol Only,"St. Rita's Shrine Basement, Mammouth Rd.",NOON,Handicap Yes
+OD,Wed,Lowell,New Last Gaspers,"St. Anthony's Sch., 908 Central, downstairs",Noon-1p.m., 
+ODNS,Wed,Lowell,Screwy Twoey,"Shelter, 189 Middlesex St",2-3 p.m., 
+O,Wed,Lowell,New Life,102 Appleton,7:30 p.m., 
+ODYP,Wed,Lowell,M.V. Young People,"Meth. Ch., 800 Bridge St.",8 p.m.,Handicap Yes
+OD,Wed,Lynn,Recovery,"Lynn Art, 25 Exchange St., Rear",7 a.m., 
+CSD,Wed,Lynn,Center,"Life Point Ch., 10 Baltimore St.",11-Noon, 
+CSD,Wed,Lynn,TWT,"1st Ch. Of Nazarene, 233 Eastern Ave.",11:30 a.m.-12:30 p.m., 
+CD,Wed,Lynn,Do It Sober,"Life Point Ch., 10 Baltimore St.",4-5 p.m., 
+OD,Wed,Lynn,Starting Over,"1st Lutheran, 280 Broadway",6:30 p.m., 
+OD,Wed,Lynn,Kings/Queens,"Greater Lynn Sr. Serv., 8 Silsbee St.,E862",8:00 p.m.,Handicap Yes
+C12W,Wed,Lynnfield,On The Beam,"Congregational Church, 5 Summer St.",7-8:15 p.m., 
+CD,Wed,Malden,B.Y.O.C.,"Club 24, 787 Salem St.",7-8 a.m., 
+OSD,Wed,Malden,Noontime,"Club 24, 787 Salem St.",Noon-1 p.m., 
+OD,Wed,Malden,Happy Hour,"Club 24, 787 Salem St.",4-5 p.m., 
+CBB12,Wed,Manchester,Fish Or Cut Bait,"Sacred Heart Par. Hall, 62 School St.",7:00 p.m., 
+CD,Wed,Marblehead,Jumpstart,8 Anderson St.,7:00 a.m., 
+CSDW,Wed,Marblehead,Circle Of Light,"St. Andrew's, 135 Lafayette St.",7:30 a.m., 
+OD,Wed,Marblehead,Light one Candle,"28 Mugford St., Side Entrance, 2nd Fl.",10:30 a.m., 
+C12,Wed,Marblehead, ,8 Anderson St.,Noon-1p.m., 
+CD,Wed,Marblehead,Quittin Time,8 Anderson St.,4-5 p.m., 
+CDW,Wed,Marblehead,Women's 11th Step,"St. Andrew's, 135 Lafayette St.",6-7 p.m., 
+CD,Wed,Marblehead,A Way Out,"Counseling Center, 66 Clifton Ave.",7-8:30 p.m., 
+CD,Wed,Marblehead,One Solitary Voice,"28 Mugford St., Side Entrance, 2nd Fl.",7:00 p.m., 
+CBB,Wed,Marblehead, ,"St.Michael's, 26 Pleasant St.",8:00 p.m., 
+CD,Wed,Marblehead, ,8 Anderson St.,8:30 p.m., 
+OD,Wed,Marion,Eye Openers,"St. Gabriel's, 124 Front St.",7:30-8:30 a.m., 
+OD,Wed,Marion,New Hope,"St. Gabriel's, 124 Front St.",6:30-7:30 p.m.,Handicap Yes
+OD*,Wed,Marion,As Bill Sees It,"Cong. Ch., Comm. Ctr., 144 Front St.",7:30 - 8:30 p.m., 
+OD,Wed,Marlboro,Early Risers,33 Main St.,6:45-7:45 a.m.,Handicap Yes
+CDW,Wed,Marlboro,A New Beginning,"ARC, 33 Main St.",10 a.m., 
+OD,Wed,Marlboro, ,33 Main St.,NOON, 
+OBB12,Wed,Marlboro,The Solution,"A.R.C., 31 Main St.",7 p.m.,handicap yes
+C12,Wed,Marshfield,12 & 12,"United Methodist, Rte. 139, 185 Plain St.",7:00 p.m., 
+O,Wed,Marshfield,Recovery,"St. Ann's, 591 Ocean St., Rte. 139",8-9 p.m., 
+OD,Wed,Martha's Vnyd.,Open Discussion,"1st Baptist Par. Hse., 66 William St., Vineyard Haven",6:45 a.m.,Yes
+OSD,Wed,Martha's Vnyd.,Open Speaker Disc.,"Grace Ch. Par. Hse., 36 Woodlawn Ave., Vineyard Haven",Noon,Yes
+OD,Wed,Martha's Vnyd.,Came to Believe-Living Sober,"Good Shepherd Par. Ctr., 55 School St., Oak Bluffs",6:30 p.m.,Yes
+O12,Wed,Martha's Vnyd.,Open Step,"Dukes County House of Correction, 149 Main St., Edgartown",7:00 p.m., 
+C12W,Wed,Martha's Vnyd.,Closed Women's Step,"1st Cong. Ch., 1051 State Rd., W. Tisbury",7:30 p.m.,Yes
+O12M,Wed,Martha's Vnyd.,Open Men's Step,"Hillside Village, Comm. Bldg., 421 Edgartown Rd., V.H.",7:30 p.m.,Yes
+OBB,Wed,Martha's Vnyd.,Open Big Book,"St. Andrew Parish House, 51 Winter St., Edgartown",8 p.m.,Handicap Yes
+ ,Wed,Mattapoisett,Serenity Sisters,"St. Anthony's Ch., basement, 22 barstow St.",6:30 - 7:30 PM, 
+OSD,Wed,Maynard,Now,"Methodist Church, 2 Summer St.",NOON, 
+OBB,Wed,Maynard, ,"Meth. Ch., 2 Summer St.",7-8 p.m., 
+O12,Wed,Maynard, ,"Meth. Ch., 2 Summer St.",8-9 p.m., 
+C12,Wed,Medford,Bottom Of Barrell,"1st Cong., 400 High St.",8:00 p.m., 
+CD,Wed,Melrose,Mid Morn. Drop In,"First Baptist, Main & Upham Sts.",10-11:00 a.m., 
+OYP,Wed,Melrose,Young People,"Trinity Ch., 131 W. Emerson St.",7:00 p.m., 
+O,Wed,Melrose,By The Book,"Cong. Ch., 121 W. Foster St.",7:30 - 8:30 p.m., 
+OSDYP,Wed,Mendon,Mendin' In Mendon,"Unitarian, 13 Maple St.",7:30 p.m.,Handicap Yes
+O,Wed,Merrimac, ,"Senior Ctr., 100 E. Main Street, Rte. 110",7-8 p.m.,Handicap Yes
+C12,Wed,Methuen,Living Sober,"Our Lady of Good Council, 22 Plymouth St.",6 - 7 p.m., 
+O,Wed,Methuen,Stop Digging,Forest Street Union Church,7:30 p.m.,Handicap Yes
+OBB,Wed,Middleboro,Come to Learn,"Methodist Ch., 16 School St.",7:00 p.m., 
+C12M,Wed,Middleboro,Men's 12 & 12,"Central Baptist Ch., Nickerson Ave.",7 - 8:15 p.m., 
+C12,Wed,Middleboro,12 & 12,"Cong. Ch., 38 Plymouth St.,Titicut Green",7:30 p.m., 
+OBB,Wed,Milford,Eye Opener,"Unit. Univ. Ch., 23 Pine St.",8:30 a.m., 
+CBB,Wed,Milford,Nooner Disc.,"Trinity Epis., Exchange + Congress",Noon-1 p.m.,Handicap Yes
+OD,Wed,Milton,Farm,"Methodist Parkway Ch., 158 BlueHills Pkwy.",NOON, 
+O,Wed,Milton,East,"St. Agatha's, Cafeteria, Adams St.",8:30 p.m., 
+CD,Wed,Nantucket, ,"Drop In Center, Vesper Ln.",7:00 a.m., 
+OD,Wed,Nantucket,Noon,"1st Cong Ch.,62 Center St.",Noon, 
+OD,Wed,Nantucket,Happy Hour,"Govin Village, Vesper Lane",5:30 p.m., 
+C12,Wed,Nantucket, ,"Hospital Board Room, Vesper Ln.",8:00 p.m., 
+C12,Wed,Natick,"Here & Now Steps 1, 2, 3","St. Paul's Hall, 15 E. Central Street",6-7:15 p.m., 
+C12,Wed,Natick,Here +Now Step,"St. Paul's Hall, 15 E. Central St.",6-7:15 p.m., 
+OD,Wed,Natick,Here And Now,"St. Paul's Hall, 15 E. Central St.",7:30 p.m.,Handicap Yes
+C12,Wed,Needham,Great Step,"First Baptist, 858 Great Plain Ave.",Noon-1 p.m., 
+C12,Wed,Needham, ,"Grace Lutheran, 543 Greendale St.",8 p.m., 
+OD,Wed,New Bedford,AM Recovery,360 Coggeshall St.,8-9 a.m., 
+OSD,Wed,New Bedford,Daily Reflections,"Faith Ministries, 177 Cove St.",Noon, 
+OD,Wed,New Bedford,Seaside Serenity,"1st. Cong. Ch., 2195 Acushnet Ave.",Noon - 1 p.m., 
+OD,Wed,New Bedford,New Beginnings,366 Coggeshall St.,Noon - 1 pm, 
+OD,Wed,New Bedford,Luz Da Noite Portuguese,157 Davis St.,7:00 p.m., 
+O,Wed,New Bedford,Whaling City,"United Ch. Of Christ, School & Purchase Sts.",7-8 p.m., 
+CBBM,Wed,New Bedford,Do The Steps,360 Coggeshall St.,7:30 p.m., 
+O,Wed,Newburyport,Noontime,"Presbyterian ch., 29 Federal St.",NOON,Handicap yes
+OBBSS,Wed,Newburyport,Wednesday,"St. Paul's Ch., 166 High St.",7-8:30 p.m., 
+C12,Wed,Newburyport, ,"Unitarian, Pleasant St.",7 p.m., 
+OD,Wed,Newton,Jump Start,"Ch. of Messiah, 1900 Comm. Ave.",6:45-7:45 a.m., 
+OD,Wed,Newton,Reflections,"United Ch. of Auburndale, 64 Hancock St.",7 a.m., 
+OD,Wed,Newton,Norumbega,"MDC, 107 Charles St.",NOON, 
+CD,Wed,Newton,11th Step,"MDC, 107 Charles St.",6:00 p.m., 
+OSD,Wed,Newton,Fresh Start,"St. Paul's, 1135 Walnut St.",7-8 p.m., 
+O,Wed,Newton,Beacon,"Ch. of the Redeemer, 379 Hammond St.",8 p.m., 
+OD,Wed,No. Andover,Lawrence Orig.,"Merrimack College Chapel, Rte. 125",6:15-7:15 p.m., 
+CBB,Wed,No. Andover,Bridge to Shore,"1st Calvery Baptist, 586 Mass. Ave.",7-8 p.m.,Yes
+C12M,Wed,No. Attleboro,Men's Step,"First Cong. Ch., 676 Old Post Rd",7:30 PM, 
+C12M,Wed.,No. Attleboro,Men's,"1st Cong. Ch., Sch. Hse., 676 Old Post Rd.",7:30 p.m., 
+CBB,Wed,No.Andover,Bridge to Shore,"1st Calvery Baptist Ch., 586 Mass. Ave.",7-8 p.m.,Yes
+O12,Wed,Norfolk,Daily Steps,"St. Jude's, 86 Main St.",Noon-1 p.m., 
+O,Wed,Northboro,How It Works,"Whitney Place, Rec. Rm., 238 W. Main St.",8-9 p.m.,Handicap Yes
+O,Wed,Norton,1.2.3,"Trinitarian Ch., Pine St. & Rte. 123",8:30 p.m., 
+OD,Wed,Norwood,Sunny-side Up,"St. Timothy's, 650 Nichols",7-8 am,Handicap Yes
+OD,Wed,Norwood, ,"1st Baptist Ch. Hall, 71 Bond St.",Noon-1 p.m.,Handicap Yes
+C12M,Wed,Norwood,Open Minds,"1st Cong. Ch., 100 Winter St.",7:30 p.m., 
+O12,Wed,Norwood,Step Forward,"Hospital Cafeteria, 800 Washington St",7:30 p.m., 
+OD,Wed,Oak Bluffs,Good Shepard Par. Ctr.,55 School,6:30 p.m., 
+OD,Wed,Orleans, ,"Drop ln Center, 26 Giddiah Hill Rd","7 a.m, Noon, 5 p.m.",Handicap Yes
+CWD,Wed,Orleans, ,"Methodist, Main St., Rte. 28",10:30 a.m., 
+CD,Wed,Orleans,Lower Cape,"Church of the Holy Spirit, Monument Rd., & Rte. 28",7:30-8:30 p.m.,Handicap Yes
+OD,Wed,Osterville,Sobriety First,"St. Peter's Epis., Wianno Ave.",8:30-9:30 a.m., 
+O,Wed,Osterville,Cape Cod,"Our Lady of Assumption Ch., 76 Wianno Ave.",7:00-8:30 p.m., 
+CBB,Wed,Peabody,Helping Hand,"South Cong. Ch., 60 Prospect St.",7:30 - 8:30 p.m., 
+O,Wed,Peabody,Original,"K of C Hall, 96 Main St.",8-9 p.m., 
+OD,Wed,Pembroke,South Shore Friends,"Pembroke Hosp., 199 Oak St.",6:30-7:30 p.m.,Handicap Yes
+OSD,Wed,Pepperell,Daily Reflections,"Senior Center, 37 Nashua Rd.",4:00 p.m.,Yes
+OBB,Wed,Plymouth,Fore & Aft,"Christ Ch. Par. Hall, 149 Court St.",10:30 a.m.,Handicap Yes
+CBB,Wed,Plymouth,Road to Recovery,"Little Red school House, Cedarville",6-7 p.m., 
+OSD,Wed,Plymouth,Back to Basics,"St. Mary's Parish Hall, 327 Court St.",7:30-8:30 p.m., 
+OBB,Wed,Plymouth,Manomet Miracles,"Cong. Ch., State & Beaver Dam Rds.",7:30 p.m., 
+C12,Wed,Plymouth,Class Act 12&12,"School House, 1144 Long Pond Rd.",7:30 p.m., 
+OD,Wed,Pocasset,Hit The Deck,"Firehouse, 311 Barlows Landing Rd.",7:30-8:30 a.m., 
+ODBB,Wed,Pocasset,Roots & Causes,"Baptist Ch., 292 Barlows Landing Rd.",5:30 - 6:30 p.m., 
+C12,Wed,Princeton, ,"Prince/Peace, Jct. 31 & 62",7:30 p.m., 
+O12,Wed,Provincetown,12 Step,"United methodist Ch., 10 Shank Painter Rd.",7:00 - 8:00 a.m. and Noon-1 p.m.,Handicap Yes
+O12,Wed,Provincetown, ,"Ch. of St. Mary, 519 Commercial St.",6:30-7:30 p.m.,Handicap Yes
+OD,Wed,Quincy,Fort Sq. 11th Step,"Presbyterian Ch., 16 Pleasant",7-8 a.m.,Handicap Yes
+CBB,Wed,Quincy,Welcome Home,"Wollaston Cong. Ch., 48 Winthrop Ave.",7-8.30 p.m.,Handicap Yes
+OSD,Wed,Quincy,A Vision For You,"K of C, 350 Hancock St.",7 -8 p.m., 
+OBB,Wed,Quincy,Big Book,"St. Chrysostom, 523 Hancock St.",7:30 p.m., 
+O,Wed,Quincy,Point,"Cong'l., Washington St. & So. Artery",8-9 p.m., 
+OSD,Wed,Rockland, ,"Holy Famlly School, Exchange St.",7 p.m., 
+O12,Wed,Roxbury,Lifetime Steps,"Lutheran Ch., 94 Warren St.",7:30-8:30 p.m., 
+C12,Wed,Salem,Back to Basics,"Beverly Coop Bank, 73 Lafayette St., Comm Rm",12:15-1:15, 
+OD,Wed,Salem,Beyond Belief,"Univ./Unit. Church, 211 Bridge St.",7-8 p.m.,Handicap
+C12,Wed,Salem,North River 12+12,"St. James Hall, Rear, 156 Federal St.",8 p.m.,Handicap Yes
+OSDW,Wed,Salisbury,Sober in Salisbury,"Maris Center, 197 Elm St.",7-8 p.m., 
+O12,Wed,Sandwich, ,"St. John's, 159 Main St.",8 p.m., 
+C12,Wed,Scituate,Scituate Seaside Mtgs.,"St. Mary's Parish Hall, Edward Foster Rd.",8:30 - 9:30 a.m., 
+C12,Wed,Scituate,Step,"1st Parish Ch., 330 First Parish Rd.",5-6 p.m., 
+C12,Wed,Scituate,Beginners Step,"Baptist Ch., 660 Country Way",6:30 - 7:30 p.m.,Handicap Yes
+CD,Wed,Scituate, ,"Baptist, 660 Country Way",8 p.m.(STEP First Week of Month),Handicap Yes
+0BB12,Wed,Seekonk,Before the Key,"Memorial Baptist Ch., 340 Central Ave., Rte. 152",6:30-7:30 p.m.,Yes
+OBB12,Wed,Seekonk,Before the Key,"Memorial Baptist Ch., 340 Central Ave.",6:30-7:30 p.m.,Yes
+O,Wed,Seekonk,How,"United Church, 596 Fall River Ave.",7:30 p.m., 
+O,Wed,Sharon, ,"Congregational, 29 N. Main St., Rt. 27",7:30 p.m., 
+O,Wed,Sherborn, ,"Pilgrim Ch., So. Main St., Rte. 27",8-9:15 p.m., 
+C12,Wed,Shrewsbury,Eternal Vigilance,"Trinity Episcopal, 440 Main St.",7-8 a.m., 
+CBB,Wed,So. Boston,Pilot House,"Task Force, 345 Old Colony Ave.",7:15 a.m., 
+OD,Wed,So. Boston,Early Bird,"St. Monica's Hall, 331 Old Colony Ave.",7:30- 9 AM, 
+OD,Wed,So. Boston,Keep The Spirit,"St. Monica's Ch. Hall, side Dr., Old Col. Ave & Preble",11:30 a.m., 
+O,Wed,So. Boston,Midweek,St. Vincent De PaulRectory,7-8 p.m.,Handicap Yes
+CBB,Wed,So. Dartmouth, ,"Cong. Ch., 17 Middle St.",7:00 p.m., 
+CD,Wed,So. Dennis, ,"Masonic Hall, 242 Old Bass River Rd.",5:00-6:00 p.m.,Handicap Yes
+CD,Wed,Somerset, ,"Library, Rte. 138, County St.",6:30 p.m., 
+O12,Wed,Somerville,Steps To Serenity,"Post 19, 124 Highland Ave., Side",7-8 p.m., 
+CDW,Wed,Somerville,Women in Grateful Sobriety,"Unity Ch., 6 William St.",8-9 p.m., 
+OD,Wed,Southboro,Sober Seniors,"St. Anne's Ch. Hall, Main St",10 - 11 am,Handicap Yes
+CD,Wed,Stoneham,2 for 1,"1st Baptist Ch., 457 Main St., Enter Hancock",1-2 pm, 
+OD,Wed,Stoughton,Can./Stoug. Wed. Am,"United Methodist Ch., 103 Pleasant St., Stoughton",10 a.m., 
+O,Wed,Stoughton,Phoenix,"Universalist Ch., 790 Washington St.",7:00 p.m., 
+OSD,Wed,Sturbridge,Lighthouse 12 & 12,"Federated Ch., 8 Maple St.",7:30 p.m.,Yes
+CW12T,Wed,Sudbury,Women's 12&12,"1st Parish Ch., Rte. 27 & Concord Rd.",7:30-8:45 p.m.,Handicap Yes
+CSDW,Wed,Taunton,Woman To Woman,"Meth. Ch., 176 Someset Ave. Nursery",7-8:15 p.m.,Handicap Yes
+C12,Wed,Tewksbury,Bottom of the Bottle,"Old Chapel, Tewksbury State Hosp.",10-11 a.m.,Handicap Yes
+CW,Wed,Tewksbury,Women's Sober Living,"State Hosp., Green Rm, 365 East St.",6 p.m., 
+C12M,Wed,Tewksbury,12 & 12,"St. William's, 1351 Main St.",7:30 p.m., 
+O,Wed,Townsend,Up To You,"Catholic Hall, School St.",7:30 p.m., 
+O,Wed,Upton,Spirit,"United Parish, N. Main & Church Sts.",8:00 p.m., 
+OD,Wed,W. Barnstable,Fellowship Works,"1717 Mtg. Hse. Ch., 2049 Mtg. Hse. Way",5:00 p.m., 
+OD,Wed,W. Bridgewater,Just For Today,"24 S. Clubhouse, 320 W. Center St.",7 - 8 a.m., 
+OSD,Wed,W. Bridgewater,Out to Lunch,"24 S. Clubhouse, 320 W. Center St.",Noon, 
+OSD,Wed,W. Bridgewater,Joy is in the Journey,"Today Club House, 465 N. Main",5.30-6.30 p.m., 
+O*,Wed,W. Bridgewater,NOW,"Cochesett Unit. Meth., Rte. 106 & 24",7:30 p.m.,Handicap Yes
+OSDYP,Wed,W. Bridgewater,Young People,"24 South Club, 320 W. Center St.",7:30-8:45 p.m., 
+ONS*,Wed,W. Roxbury,Friendship,"St. Chrysostom, 4740 Wash. St.","8-9: p.m., Beg. 6:45", 
+C12W,Wed,Walpole,Sisters In Steps,"Epiphany Ch., Front St.",7:00 p.m., 
+OBB,Wed,Walpole,BB for Beginners,"Union Cong., 55 Rhoades Ave.",7:15 p.m., 
+OD,Wed,Waltham,Day At A Time,"Presbyterian Ch., 34 Alder St.",NOON - 1:15 p.m., 
+C12,Wed,Waltham,Remember When,"St. Charles Parish Hall, Taylor & Hall Sts.",7 p.m., 
+O*,Wed,Waltham,Watch City,"1st Parish, School/Church Sts.",7:30 - 8:30 p.m.,Handicap Yes
+OD,Wed,Wareham,There is Hope,"Wesley United Meth. Ch., 462 Main St.",7:30 a.m., 
+OD,Wed,Wareham,Here and Now,"Wesley United Meth. Ch., 462 Main St.",NOON - 1p.m.,Handicap Yes
+C12W,Wed,Watertown,Mustard Seed,"Grace Vision Ch., 80 Mt. Auburn St.",10:30 - 11:30 a.m., 
+CM12,Wed,Wellesley, ,"St. Andrew's, 73 Denton Rd.",8:00 p.m., 
+C12,Wed,Wellesley, ,"Congregational Ch., 2 Central St.",8:00 p.m., 
+O,Wed,Westboro,Forge,"New Hope Chapel, 30 Milk St.",8-9 p.m., 
+O,Wed,Westford,Westford Wednesday,"United Meth. Ch., 10 Church St.",7:30 p.m.,Handicap Yes
+O12,Wed,Westport,Lamplighters,"Lady of Grace, 569 Sanford Rd.",7:30 - 9:00 p.m., 
+OD,Wed,Weymouth, ,"Immaculate Conc. Sch., Base., 1199 Comm. St.",7 p.m., 
+OD,Wed,Weymouth,You Get What You Give,"Holy Nativity Ch., 8 Nevin Rd., Not 3rd Wed.",7:30-8:30 p.m., 
+OBB,Wed,Whitinsville, ,"Trinity Church, 31 Linwood Ave.",7:30 p.m., 
+OD,Wed,Wilmington,Haven,"Meth. Ch., 87 Church St., Rte. 62",Noon-1 p.m., 
+C12,Wed,Wilmington,12 Steps For Life,"Methodist Ch.Basement, 87 Church St.",7:30 p.m., 
+CD,Wed,Winthrop,HOW,"Methodist Ch., 217 Winthrop St., Metcalf Sq.",Noon, 
+CD,Wed,Winthrop,Topic,"United Methodist Ch., Rear, 217 Winthrop St.",7:30-8:30 p.m., 
+C12,Wed,Woods Hole,1-2-3 Step,"Fisher Hall, Church St.",NOON,Handicap Yes
+OD,Wed,Worcester,7A Group,107 Lincoln St.,7:00-8:00 a.m.,Handicap Yes
+OD,Wed,Worcester,Discussion,"695 Main St., 4th Fl.",9:30 a.m.,Handicap Yes
+O12,Wed,Worcester,12 Steppers,"Meth. Ch., 114 Main St., 3rd Fl.",7:00 p.m., 
+CDM,Wed,Worcester,We Mean Business,695 Main St.,7:00 p.m., 
+OBB12,Wed,Worcester,Big Book Step Study,"1st Congregational Ch., 1070 Pleasant St.",7 p.m., 
+O,Wed,Worcester,Four Corners,"St. Matthew's, 695 Southbridge St.",8:00 p.m.,Handicap Yes
+O,Wed,Wrentham, ,"Trinity Episcopal, 47 East St.",7:30 p.m., 
+CBB,Wed,Yarmouth, ,"South Methodist, 324 Old Main St., Rt. 28",NOON, 
+O,Wed,Yarmouth, ,"South Methodist, Old Main St., Rt. 28",7:30 p.m.,Handicap Yes
+OSD,Thur,Abington,Early Bird Dawn Patrol,"United Church, Rte 18, 10 Bedford St.",7-8 a.m., 
+O,Thur,Abington,Hope Is Here,"United Church of Christ, Rte. 18",7:30 p.m.,Handicap Yes
+OD,Thur,Allston,Overdue,Hill Memorial Ch. 279 N. Harvard,NOON-1 p.m., 
+C12M,Thur,Allston,S.T.N.,"Jackson Mann Sch., Union Sq.",7 p.m., 
+OD,Thur,Amesbury,What's Good About Today,"Unity on River, 58 Macy, Rte. 110",7-8 a.m., 
+OBB,Thur,Amesbury,Floating Big Book,"The Elms, 51 Friend St.",7:30-8:30 p.m., 
+CD,Thur,Arlington,Just For Today,"St. Camillus, 1175 Concord Turnpike, Arlington",7-8 a.m. 6 a.m.,Handicap Yes
+O*,Thur,Arlington,5th Chapter,"St. Camillus 1175 Concord Turnpike, Arrlington",7:30-8:30 p.m. Beg. 6 p.m., 
+OD,Thur,Attleboro,Keep Trying,"Advent Christian Ch., 560 Pleasant St.",Noon - 1p.m., 
+OD,Thur,Attleboro,Desire to Stop,"Cameron Bldg., 68 Falmouth St.",Noon-1:00 p.m.,Handicap Yes
+CD,Thur,Attleboro,Principles Before Personalities,"Murray Unitarian, Unity Rm.,505 N. Main St.",6-7 p.m., 
+O,Thur,Attleboro,Under New Management,"Cameron Bldg., 68 Falmouth St.",7-8 p.m.,Handicap Yes
+C12,Thur,Attleboro,Joy Of Living,"2nd Cong'l Church, 50 Park St.",7:30 p.m., 
+O,Thur,Avon,Last Call,"Baptist Church, 119 N. Main, Rte. 28",7:30 - 8:45 p.m., 
+O,Thur,Ayer, ,"St. Andrew's, E. Main St.",7:45-9:00 p.m., 
+C12,Thur,Barnstable, ,"St. Mary's, Rt. 6A",7:30-8:30 p.m., 
+CD,Thur,Bedford,First Things First,"1st Ch. Christ, 25 Great Rd.",6:00-6:45 a.m., 
+CD,Thur,Bedford, ,"First Ch. Christ Cong., 25 Great Rd.",7:30-9:00 p.m., 
+O12,Thur,Bellingham,Steps Are the Way,"How It Works Club, 176 Mechanic St",5:30 PM, 
+OD,Thur,Belmont,Appleton,"McLean Hosp., Demarneffe Bldg., Cafe.",8 p.m., 
+C12,Thur,Berlin,Center,"St. Joseph's Church, Rte. 62",7:30 p.m., 
+CBB,Thur,Beverly,Second Chance,"White Whale, 9 Hale St.",5:30-6:30 p.m., 
+CD12M,Thur,Beverly,I Am Respopnsible,"Masonic Temple, 20 Washington St.",7-8:15,Handicap Yes
+C12,Thur,Billerica,Back to Basics 123,"Sober House, 317 Boston Rd.",Noon - 1:00 p.m., 
+ODYP,Thur,Billerica,S.A.S.T.O.,"Cong. Ch., 18 Andover Rd.",7:30 - 8:30 p.m.,Handicap Yes
+O12,Thur,Blackstone,12 Golden Steps,"St. Theresa, 630 Rathbun St.",12-1 p.m., 
+OBB12,Thur,Bolton,Big Book Step Study,"1st.Parish Ch., 673 Main St.",7:30 p.m., 
+OSD,Thur,Boston,Rise & Shine,"St. Francis Hse. Shelter, 39 Boylston St.",7-8 a.m., 
+OSD,Thur,Boston,Sahara Sunrise,"Harvard Vanguard, 147 Milk St., Conf. Rm 1B",7:30-8:30 a.m., 
+O12,Thur,Boston,Back Bay Steps,Arlington st. Church,7:30 a.m., 
+OD,Thur,Boston,B.B. Beginners,Arlington St. Church,7:30 a.m.,Handicap Yes
+OD,Thur,Boston,Ashburton-Noon,Alley next to 20 Ashburton Pl.,Noon-1 p.m., 
+CD,Thur,Boston,Lunch,"Emanuel Ch., 15 Newbury St., Ramp Door, 2nd Fl.",Noon, 
+OD,Thur,Boston,Copley Noontime,"Trinity Ch., Claredon St. ,Ferris Library",Noon,Handicap Yes
+CD,Thur,Boston,Lunchtime,"B.U. Marsh Chapel, Marsh Room, 735 Comm. Ave.",1-2 p.m., 
+O,Thur,Boston,Park Street,"Park St. Ch., 1 Park St.",5:30-6:30 p.m., 
+CBB,Thur,Boston,Big Book,"Arch St. Chapel, 100 Arch St.",5:45-6:45 p.m., 
+CSDG,Thur,Boston,"Bi, Trans & All",74 Kilmarnock St.,6-7 p.m., 
+O,Thur,Boston,Not Forgotten,"Vets Shelter, 17 Court St., 1st Fl.",6:45-7:45 p.m., 
+OSD,Thur,Boston,Twilight Zone,"Haley House, 23 Dartmouth St.",7-8 p.m.,Handicap Yes
+CDW,Thur,Boston,Women Living Sober,"Mariners House, 11 North Sq., No. End",7-8 p.m., 
+OBBYP,Thur,Boston,Willing to Believe,"Lady of Victories, 27 Isabella St.",7:30-8:45 p.m., 
+O*,Thur,Boston,Amphitheatre,"M.G.H. Hospital, Their Conference room","8-9 p.m., Beg. 7 p.m.",Handicap Yes
+OD,Thur,Boston,Back Bay,"Old South, 645 Boylston St.",8:00 - 9:00 p.m., 
+CDM,Thur,Boxford,West,"2nd Cong., 175 Wash. St.",8:00 p.m., 
+O12,Thur,Braintree,Noon Steps,"St. Thomas More Ch., 8 Hawthorn Rd.",Noon - 1:00 p.m.,Handicap Yes
+O,Thur,Braintree,S.O.S.,"Emmanuel Church, 519 Wash. St",8 - 9 p.m., 
+OD,Thur,Brewster,Grateful Living,"United Meth. Ch., 701 Airline Rd.",7:15 a.m., 
+OD,Thur,Brewster,5 Alive,"Club Dry Dock,1439 Main St., Rte 6A",5 p.m., 
+C12,Thur,Brewster, ,"Our Lady Par. Hall, 482 Stoney Brook Rd.",7:30 p.m.,Handicap Yes
+CD,Thur,Bridgewater,Came to Believe,"United Meth., 35 School St.",Noon - 1p.m., 
+O*,Thur,Bridgewater,Freedom W/Faith,"United Meth., 35 School St.","7:30-8:30 p.m., Beg. 6:30 p.m.", 
+O,Thur,Brighton,Oak Sq.,"St. Elizabeth's Cafe., 736 Cambridge St.",8-9 p.m., 
+OSDYP,Thur,Brighton,Sober on the Heights,"Greycliff, 2051 Comm. Ave., Rear",8-9 p.m., 
+C12,Thur,Brockton,Listen & Learn,"St. Pat's, Fr. Kenney Hall, 335 Main St.",10 a.m., 
+C12W,Thur,Brockton,Women's 12 Step,"Lamplighter Center, 820 Pearl St.",7:00-8:00 p.m., 
+OBB4,Thur,Brockton,Lost + Found - Mainspring,54 N. Main St,7:30-8:30 p.m, 
+O,Thur,Brockton,Original,"Good Samaritan Campus, 235 N. Pearl St.",7:45 p.m., 
+O,Thur,Brockton,Doin It Sober,"Central United Methodist, 65 W. Elm St.",8 p.m., 
+OBB,Thur,Brookline,How It Works,"Kehillath Israel ch., 384 Harvard St.",7:00 p.m., 
+OSD,Thur,Brookline,Sharing & Caring,"St. Mary's, Brookline Village",7 p.m., 
+CDW,Thur,Brookline,Women's Sanctuary,"St. Paul's, Great Hall, 15 St. Paul's St.",7:30 p.m., 
+OD,Thur,Burlington,Noontime,"St. Margaret's Par. Hall, 111 Winn St., Upper Level",NOON, 
+ODW,Thur,Cambridge,Morning Glories,11 Garden St.,7:00 a.m., 
+CDM,Thur,Cambridge,Hair Of The Dog,"Christ Ch., 0 Garden St.",7:30-8:15 a.m., 
+OD,Thur,Cambridge,Gratitude,"Methodist Church, 1555 Mass. Ave",NOON-1 p.m.,Handicap Yes
+OSD,Thur,Cambridge,Kendall Sq.,"MIT Medical, E23, Room 364, Bldg.E23, 25 Carleton St.",12:10-1 p.m.,Handicap Yes
+OBB,Thur,Cambridge,Big Book 5000,"Methodist Ch., 1555 Mass Ave",6-7 p.m., 
+CSDM,Thur,Cambridge,Knuckleheads,"Leslie Univ., 1815 Mass Ave., Rm. 2-048",7-7:45 p.m., 
+O,Thur,Cambridge,University City,"Cambridge Hosp., Macht Bldg.",7:30-8:30 p.m., 
+CSD*,Thur,Cambridge,Joy Living,"Andover Hall, Rm 103, 45 Francis Ave.",8:30 p.m. beg. @ 7 PM, 
+OBB12,Thur,Canton,Love and Tolerance,"Trinity Ch., 1 Blue Hill River Rd.",7:30 p.m., 
+OD,Thur,Canton,New Group,"United Ch., 1541 Washington St.",8 p.m., 
+OD,Thur,Centerville,Hour Of Power,"Our Lady, 230 Main St.",7:30 a.m., 
+OD,Thur,Charlestown,DAAT,586 Rutherford Ave.,NOON-1 p.m.,Handicap Yes
+O,Thur,Charlestown,Grp. Of Drunks,"Kent School, 50 Bunker Hill St., 2nd Fl. Cafe",7 p.m.,Handicap Yes
+C12,Thur,Charlestown,"Closed Step, Alcohol Only","Mary Corbett Apts., 20 Deven St.",8 p.m., 
+C12W,Thur,Chatham,Women's 12 Step,"Redeemer Ch., 77 Highland St.",10:00 a.m., 
+CD,Thur,Chelmsford,Sunrise Reflections,"St John's,115 Middlesex St.",6:45- 7:45 a.m.,Handicap Yes
+O12,Thur,Chelmsford,Chelmsford,"Central Baptist on Common, Westford & Academy Sts.",12:15-1:15 p.m., 
+OBB12,Thur,Chelsea,Big Book Step Study,"Merritt Club, 101 Webster Ave.",7:00 p.m., 
+OD,Thur,Clinton, ,"A.l.C., 182 High Street",NOON, 
+C12,Thur,Cohasset,Searching + Fearless,"2nd Cong., 43 Highland Av., Rear",7:30 p.m., 
+ODM,Thur,Cohasset,Lifeboat,"St. Anthony's, 129 So. Main St.",7:30 p.m., 
+OD,Thur,Concord,Sobah Camel,"Monument Hall, 62 Monument Sq.",12-1 p.m.,Handicap Yes
+OSD,Thur,Danvers,Eye Opener,"All Saints Epis.. Ch., Holten St., Front Door",7-8 a.m., 
+C12W,Thur,Danvers,Bare Bones,"Notre Dame Room, 14 Otis St.",10-11:30 a.m., 
+OBB,Thur,Danvers,Road To Recovery,"All SAints Episc. Ch., Holten St..",NOON-1 p.m., 
+CBB,Thur,Danvers,1st 164 Pages,"1st Ch. Of Danvers, 41 Center @ Hobart",5:15-6:15 p.m., 
+C12,Thur,Dartmouth,Ray Hope,"Congregational, 17 Middle St.",7:30 p.m., 
+CD,Thur,Dennis,Time To Start Living,"Senior Ctr., 1045 Rte. 134",11:00 a.m., 
+O,Thur,Dennis,Pass It On,"Graded School House, School St.",7:30 - 8:30 p.m., 
+O,Thur,Dorchester,Fields Corner,"St. Mark's Ch.,1725 Dorch. Ave.",8-9 p.m., 
+SD,Thur,Dracut,Sobriety 101,"Ste. Marguerite d'Youville, 1340 Lakeview Ave.",Noon, 
+O,Thur,Dudley,Day At Time,"1st Cong. Ch., 135 Center St.",8:30 p.m., 
+OD,Thur,Duxbury,Chapel,"First Parish Ch., 842 Tremont St.",6-7 PM, 
+C12W,Thur,Duxbury,Miracles,"Miramar Retreat Center, 121 Parks St.",7-8 p.m., 
+O12,Thur,E. Freetown,Lakeside Step,St. John Neumann Rec Pavillion,6-7 p.m., 
+O,Thur,E. Freetown,Lakeside,"St. John Neumann Rec. Pavilion, Rte. 18",7:30 p.m., 
+O,Thur,East Boston,Airport,"Connections, Community Rm., 14 Porter St.",6:30-7:40 p.m.,Yes
+C12,Thur,Essex,Happy as a Clam,"Emmanuel Comm. Ch., 180 Western Ave.",7-8 p.m., 
+OD,Thur,Everett,11th Step,"Inner Voyage, 479 Ferry St.",10:30 a.m., 
+OD,Thur,Fall River,S.O.S.,"1st Baptist Ch., 228 N. Main St.",11:45-12:45 p.m., 
+OD,Thur,Fall River,Turn It Over,"1st Baptist, 228 N. Main",5:30-6:45 p.m., 
+O,Thur,Fall River,Khmer Speaking Cambodian,"St. Luke's Ch., 315 Warren St.",6-7 p.m., 
+O,Thur,Fall River, ,"St. Peter Paul @ Holy Cross, 47 Pulaski St.",7:30 - 8:45 p.m., 
+OD,Thur,Falmouth,Each Day a New Beginning,"Wesley Methodist, 270 Gifford St.",7-8 a.m., 
+O12,Thur,Falmouth,Discussion,"St. Patrick, 511 Main St.",Noon- 1 p.m., 
+C12W,Thur,Falmouth, ,"Cong. Ch., Rte. 28, Waquoit",5:30-6:45 p.m., 
+CD,Thur,Fitchburg,Keep It Simple,"Faith United Ch., 820 Main St.",NOON-1 p.m., 
+OSD,Thur,Fitchburg,Burbank,"St. Camillus Ch., 333 Mechanic St.",7:00 p.m., 
+O12,Thur,Foxboro,Daily Winners,"Community Ctr., 382 South St.,",NOON-1 p.m., 
+O12W,Thur,Foxboro,Sisters of Hope,"Bethany Ch., 3 Rockhill St.",6-7 pm, 
+O,Thur,Foxboro,Live And Let Live,"St. Mark's, 116 South St.",7:30 p.m., 
+OD,Thur,Framingham,Reflections,"Dennison Bldg., 300 Howard St.",7-8 a.m., 
+OD,Thur,Framingham,Daily,"Drop In Center, Kendall St.",NOON - 1 p.m., 
+OBBSS,Thur,Framingham,Firing Line of Life,"The Eagles, 55 Park St.",12:15-1:15 p.m., 
+CBB12,Thur,Framingham,Discover The Truth BBSS,"Edwards Ch., 39 Edwards St.",7:30-8:45 p.m., 
+ODYP,Thur,Framingham,FYP,"300 Howard St., 3rd Fl.",7:30 - 8:30 p.m.,Handicap Yes
+O,Thur,Framingham,Sober and Free,"Drop In Center, 62A Kendall St.",7:30 - 8:45 p.m., 
+O,Thur,Framingham,Nobscot,"Lutheran Ch.,720 Edgell Road",8-9 p.m., 
+OBB,Thur,Franklin,Primary Purpose,"New England Chapel, 40 Kenwood Circle",7:30 - 8:30 p.m., 
+OSD,Thur,Gardner,Mid Day,205 School St,12:30 - 1:30 pm,Handicap Yes
+O,Thur,Gardner,Original,"Holy Spirit Church, 50 Lovewell St.",8-9 p.m., 
+OD,Thur,Gloucester,Cape Ann Early Bird,"Baptist Ch., 38 Gloucester Ave.",7-8 a.m., 
+O12,Thur,Groton,Work It,"1st Ch. Parish Hse, 1 Powder House Rd.",6-7 p.m., 
+OD,Thur,Halifax,Hang In There,"Cong. Ch., 501 Plymouth St.",NOON, 
+O,Thur,Hamilton, ,"1st United Meth., 391 Bay Rd., Rte. 1A",7:30-8:30 p.m.,Handicap Yes
+OD,Thur,Hanover,Beginners,"1st Congregational Ch., Parish Hall, Silver St.",6-7:15 pm, 
+OSD*,Thur,Hanover,Discussion,"1st Congregational Ch., Parish Hall., Silver St.",7:30 - 8:30 p.m., 
+CWD,Thur,Hanson,Woman To Woman,"Congregational Church, 639 High St.",7:30-8:30 p.m., 
+OSD,Thur,Haverhill,New Jericho Noontime,"Safe Haven, 127 How St",NOON-1 p.m.,Handicap Yes
+O12,Thur,Haverhill,Riverside 12 & 12,"St. John's Ch., 110 Lincoln Ave.",Noon-1:00 p.m.,Handicap Yes
+ODW,Thur,Haverhill,Women's,"Whittier Pavillion Rehab, 76 Summer St.",6:45-7:45 p.m.,Handicap Yes
+CSD,Thur,Haverhill,Back to Stay,"Univ. Unit. Ch., 16 Ashland St., Lower Level",7-8 p.m., 
+OSD,Thur,Haverhill,Outreach,"St. JamesCh., 185 Winter St.",7-8 p.m.,Handicap Yes
+OSD,Thur,Haverhill,Welcome Back,"Good Sheperd United Methodist, 471 Main St.",8 p.m.,Handicap Yes
+CD,Thur,Hingham,New Day,"Lutheran Ch., 916 Main St., Rte 228",7:30-8:30 a.m.,Handicap Yes
+CD,Thur,Hingham,Hope,"2nd Parish Ch., 695 Main St., Rte 228",7:30 - 8:30 a.m., 
+CDW,Thur,Hingham,Women Living Sober,"2nd Parish, 695 Main St., Rte 228",7:00 p.m., 
+O,Thur,Holden, ,"Cong. Ch., Center of Town",8 - 9 p.m.,Handicap Yes
+OGSD,Thur,Holliston,Suburban,"First Baptist Ch., 40 High St.",8 p.m., 
+OD,Thur,Hopedale,2nd Chance,"Union Evangelical, 25 Dutcher St.",8:00 - 9:00 p.m., 
+O,Thur,Hopkinton,Freedom,"Faith Community Ch., 146 E. Main St.",8 p.m., 
+OBBW,Thur,Hudson,Big Book Workshop,"1st Federated Ch., 200 Central St.",7:30 - 8:30 pm, 
+O,Thur,Hudson,Straight Shooters,"Riverside Gun Club, 52 Wilkins St.",8-9:15 p.m., 
+OD,Thur,Hull,Summer Only,"Burke Bathhouse, 116 Hull Shore Dr.",8:30-9:30 a.m., 
+O12,Thur,Hull,Serenity Hill,"Senior Ctr., 6 Atlantic Ct.",7:30 p.m.,H
+CBB12W,Thur,Hyannis,Step Study,"Baptist Church, Main St.",7-8 p.m., 
+CBB12M,Thur,Hyannis,Step Study,"St. Francis Xavier, 347 So. St.",7:30 p.m., 
+OD,Thur,Hyde park,Constant Vigilance,"Readville K of C Hall., 12 Wolcott Ct.",11:00 a.m., 
+O*,Thur,Hyde Park,Chosen Few,"St. Pius Ch., 101 Wolcott Rd, Milton",7:30 p.m. Beg. 6:15, 
+O,Thur,Ipswich,Square Pegs,"Emmanuel Baptist Ch., 45 Central St.",6-7 p.m., 
+OBB,Thur,Jamaica Plain,New Hope,"Shattuck Hosp., Turville Conf. Rm.",7:30-8:30 p.m.,Handicap Yes
+O,Thur,Jamaica Plain,St. Thomas,"Curtis Hall, 20 South St.,2nd Fl.,",7 p.m.,Handicap Yes
+OD,Thur,Kingston,Early Bird Gratitude,"VCF Ch., 8 Hilltop Rd.",7-8 a.m., 
+CDM,Thur,Kingston,Endless Opportunities,"Beal Mtg. Hse., 224 Main St",7:00 PM,Handicap Yes
+OSD,Thur,Lawrence,New Beginnings,"Riverside Ch., 290 Water St.",10:30-11:30 a.m.,Handicap Yes
+OD,Thur,Lawrence,Just for Today,"599 Canal st., 5th Fl., Ste West 2",Noon - 1 pm,Handicap Yes
+O,Thur,Lawrence,Back Door,"Psychological Ctr., 11 Union St., Rear",1:30-2:30 p.m., 
+OD,Thur,Leominster,Eye Opener,"St. Mark's Youth Ctr, Cotton St.",8-9 a.m., 
+OD,Thur,Leominster,High Noon,"Unitarian Universalist Ch., 15 West St.",NOON, 
+OD,Thur,Leominster,Discussion,"St. Mark's Church, 11 Cotton St.",7:30-8:30 p.m., 
+CD,Thur,Lexington,Writings Of Bill W.,"1st Baptist, 1580 Mass. Ave.",NOON-1 p.m.,Handicap Yes
+OD,Thur,Lexington,Sober by Grace,"2 Militia Dr., Rm G-5",6:30-7:30 a.m.,Handicap Yes
+OD,Thur,Lowell,Broadway,"Senior Citizen's Ctr., 276 Broadway",10-11 a.m., 
+C,Thur,Lowell,New Spark Hope (Alcohol Only,"St. Rita's Shrine Basement, Mammouth Rd.",Noon - 1:15,Handicap Yes
+O12,Thur,Lowell,New Last Gaspers,"St. Anthony's Sch., 908 Central, downstairs",Noon-1p.m., 
+ODNS,Thur,Lowell,Screwy Twoey,"Shelter, 189 Middlesex St",2-3 p.m., 
+O,Thur,Lowell,Helping Hand,"Immac .Conc. Ch.,144 E. Merrimac St.",7:30 p.m.,Handicap Yes
+OD,Thur,Lynn,Recovery,"Lynn Art, 25 Exchange St., Rear",7-8 a.m., 
+CSD,Thur,Lynn,Center,"Life Point Ch., 10 Baltimore St.",11-Noon, 
+CSD,Thur,Lynn,TWT,"1st Ch. Of Nazarene, 233 Eastern Ave.",11:30 a.m.-12:30 p.m., 
+CD,Thur,Lynn,Do It Sober,"Life Point Ch., 10 Baltimore St.",4-5 p.m., 
+C12,Thur,Lynn,Back to Basics,"1st Lutheran ch., 280 Broadway",6-7 pm., 
+CD,Thur,Lynn,Do It Sober,"Life Point Church, 10 Baltimore St.",6:30 - 7:30, 
+CBB12M,Thur,Lynn,East Men's,"Lynn Armory, 39 So. Common St.",7:30 p.m., 
+CD,Thur,Malden,B.Y.O.C.,"Club 24, 787 Salem St.",7-8 a.m., 
+OSD,Thur,Malden,Noontime,"Club 24, 787 Salem St.",NOON-1 p.m., 
+C12,Thur,Malden,11th Step,"Immaculate Conception Ch., 10 Fellsway East",NOON-1:00 PM, 
+OD,Thur,Malden,Happy Hour,"Club 24, 787 Salem St.",4-5 p.m., 
+CBB,Thur,Malden,Meat & Potatoes,"Club 24, 787 Salem St.",7:00 p.m., 
+CD,Thur,Manchester, ,"Sacred Heart, 62 School St.",8 p.m., 
+C12,Thur,Marblehead,Jumpstart,8 Anderson St.,7:00 a.m., 
+OD,Thur,Marblehead,Light one Candle,"28 Mugford St., Side Entrance, 2nd Fl.",10:30 a.m., 
+CD,Thur,Marblehead, ,8 Anderson St.,Noon-1p.m., 
+CD,Thur,Marblehead,Quittin Time,8 Anderson St.,4:00-5:00 p.m., 
+CSD,Thur,Marblehead,One Solitary Voice,"28 Mugford St., Side Entrance, 2nd Fl.",7:00 p.m., 
+SD,Thur,Marblehead,Clifton,"Lutheran Church, 150 Humphrey St.",7-8 p.m., 
+C,Thur,Marblehead,Promises,"Counseling Center, 66 Clifton Ave.",7-:30-8:30 p.m., 
+CT,Thur,Marblehead, ,8 Anderson St.,8:30 p.m., 
+ODM,Thur,Marion,Eye Openers,"St. Gabriel's Church, 124 Front St.",7:30 a.m.,Handicap Yes
+ODW,Thur,Marion,Eye Openers,"St. Gabriel's, 124 Front St.",7:30-8:30 a.m., 
+C12,Thur,Marion,Stepchildren,"Congregational Comm. Ctr., 144 Front St.",10 a.m., 
+C12,Thur,Marion,Traditional Step,"First Cong. Ch., Community Ctr., 144 Front St",6-7 p.m., 
+O,Thur,Marion,Grace Of God,"First Cong. Ch., Community Ctr., 144 Front St",7:30-8:30 p.m., 
+OD,Thur,Marlboro,Early Risers,33 Main St.,6:45-7:45 a.m.,Handicap Yes
+OD,Thur,Marlboro, ,33 Main St.,NOON, 
+CD,Thur,Marlboro,Simply Sober,33 Main St.,5:30 - 6:30 p.m.,Handicap Yes
+CDM,Thur,Marlboro,Men's Disc.,33 Main St.,7:30-8:30 p.m., 
+CBB,Thur,Marshfield,Living Sober,"North Comm. Ch.Hall, 72 Old Main St.",10 a.m., 
+OD,Thur,Martha's Vnyd.,Open Discussion,"1st Baptist Par. Hse., 66 William St., Vineyard Haven",6:45 a.m.,Yes
+OD,Thur,Martha's Vnyd.,As Bill Sees It,"Baptist Parish Hse., 66 William St.., Vnyd. Haven",NOON,Handicap Yes
+O12,Thur,Martha's Vnyd.,Open Step,"St. Andrew's Par.Hse., 51 Winter St., Edgartown",NOON,Handicap Yes
+OSD,Thur,Martha's Vnyd.,Open Speaker Discussion,"Trinity Par. Hse,. 40 Trinity Circle, Campgrounds, Oak Bluffs",8:00 p.m.,Handicap Yes
+OBB,Thur,Martha's Ynyd.,BB Study-Primary Purpose,"American Legion 257, 34 West William St., V.H.",7:00 p.m.,Yes
+OD,Thur,Mashpee,Great Spirit,"Baptist Church, Great Neck Rd.",8-9:00 p.m., 
+OSD,Thur,Maynard,Now,"Methodist Church, 2 Summer St.",NOON, 
+OSD,Thur,Maynard,Now,"Methodist Church, 2 Summer St.",8 p.m., 
+OSD,Thur,Medford,South,"Fire Station, Zero Medford St.",7:30 p.m., 
+CD,Thur,Melrose,Mid Morn. Drop In,"First Baptist, Main & Upham Sts.",10-11 a.m., 
+O,Thur,Melrose,Primary Purpose,"1st Baptist Ch, Corner of Upham & Main St., Melrose",7:30 - 8:30 p.m.,Handicap Yes
+O12,Thur,Merrimac,Who Knows,"Senior Ctr., 100 E. Main Street",7:30 p.m.,Handicap Yes
+CD,Thur,Methuen,Primary Purpose,"Spiritual Life Ch., 126 Merrimac St., Rte. 110",10 a.m., 
+O12,Thur,Methuen,Step,"St. Lucy's, 254 Merrimac St.",6:30 p.m., 
+OD,Thur,Middleboro,Keep Coming,"Advent Luth. Ch., 62 E. Grove St.",Noon,Handicap Yes
+C12W,Thur,Middleboro,Women's Step,"Central Baptist Ch., 40 Union St.",6:30 PM, 
+O,Thur,Middleboro,North,"Congregational Ch., 38 Plymouth St.,Titicut Green",8 p.m., 
+CBB,Thur,Middleton,The Way Out,"Cong. Ch., 68 Maple St.",7:00 p.m., 
+OD,Thur,Milford,Eye Opener,"Unit. Univ. Ch., 23 Pine St.",8:30 a.m., 
+O,Thur,Millis,Fellowship,"Church/Christ, Rte. 115, 142 Exchange St.",7:30-8:30 p.m.,Handicap Yes
+OD,Thur,Milton,Farm,"Methodist Parkway Ch., 158 BlueHills Pkwy.",NOON, 
+C12W,Thur,Milton,Women of Hope,"1st Cong. Ch., 495 Canton Ave.",7-8 p.m.,Handicap Yes
+CBBM,Thur,Milton,Men's,"1st Parish Unitarian, 535 Canton Ave,",7:30:p.m.,Handicap Yes
+O*,Thur,Milton,Blue Hills,"St. Elizabeth, 350 Reedsdale Rd","8:00 p.m., beg. 6:45-7:45 p.m.",Handicap Yes
+OD,Thur,Nantucket,Drop In Center,Vesper Ln.,7:00 a.m., 
+OD,Thur,Nantucket,Noon,"1st Cong Ch.,62 Center St.",Noon, 
+OD,Thur,Nantucket, ,"Summer St. Ch., Summer St.",8:00 p.m., 
+OD,Thur,Natick,Beginners,"Metro West Med., 67 Union St., 2nd Fl. Café",7:30-8:45 p.m., 
+CD,Thur,Needham,Pass It On,"Presbyterian Ch., 1458 Great Plains Ave",6:30 - 7:30, 
+OD,Thur,New Bedford,AM Recovery,360 Coggeshall St.,8-9 a.m., 
+OD,Thur,New Bedford,Seaside Serenity,"1st Cong. Ch., 2195 Acushnet Ave.",Noon - 1 p.m., 
+OD,Thur,New Bedford,New Beginnings,366 Coggeshall St.,Noon - 1 pm, 
+OSD,Thur,New Bedford,Daily Reflections,"Faith Ministries, 177 Cove St.",Noon, 
+OD,Thur,New Bedford,Downtown West,"Bethel A.M.E. Ch., 532 County St",6:30 p.m., 
+OYP,Thur,New Bedford,Young People,"Faith Ministries, 177 Cove St.",8-9:30 p.m., 
+OD,Thur,Newburyport,Recovery,"Unitarian Ch., 26 Pleasant St.",NOON-1 p.m.,Handicap yes
+OD,Thur,Newton,Jump Start,"Ch. of Messiah, 1900 Comm. Ave.",6:45-7:45 a.m., 
+OD,Thur,Newton,Reflections,"United Ch. of Auburndale, 64 Hancock St.",7 a.m., 
+OD,Thur,Newton,Norumbega,"M.D.C., 107 Charles St.",NOON, 
+CBB12,Thur,Newton,Happy Hour - BBSS,"United Ch. of Auburndale, 64 Hancock St.",5-6 p.m., 
+OD,Thur,Newton,Living Sober,"Asian Evangelical Ch., 218 Walnut St",6:30 –7:30 p.m., 
+OBB,Thur,Newton,BB Workshop,"2nd Ch. of Newton, 2nd Fl., Chestnut St.",7-8 p.m., 
+C12M,Thur,Newton,Men's Step,"Corpus Christi Ch. Parish Hse., 45 Ash St., base.",7:30 p.m., 
+CSDM,Thur,Newton,Men's Thu. Night,"Trinity Episcopal Ch., 11 Homer St.",8:00 p.m., 
+OD,Thur,No. Andover,Sobriety and Serenity,"No. Parish Ch., 190 Academy Rd.",6:30-7:30 p.m., 
+O,Thur,No. Attleboro,Comfortable,"1st.Baptist Ch., 75 Park St.",7:30 - 8:30 p.m., 
+ODYP,Thur,No. Reading,Remember When,"St. Theresa, Rte. 62",8:30 p.m.,Handicap Yes
+O12,Thur,Norfolk,Daily Steps,"St. Jude's, 86 Main St.",NOON-1 p.m., 
+OD,Thur,Norwood,Sunny-side Up,St. Timothy's 650 Nichols St.,7-8 am,Handicap Yes
+OD,Thur,Norwood, ,"1st Baptist Ch. Hall, 71 Bond St.",NOON-1 p.m.,Handicap Yes
+C12,Thur,Norwood,Freedom,1st. Congregational Ch. 100 Winter St.,7:30 p.m.,Handicap Yes
+O,Thur,Orange, ,"United Methodist, Rt. 122, 104 So. Main St.",7:50 p.m., 
+OD,Thur,Orleans, ,"Drop In Center, 26 Giddiah Hill Rd.",7 a.m. 5 p.m.,Handicap Yes
+O,Thur,Orleans, ,"Odd Fellows Hall, 132, 1 Namskaket Rd.",NOON, 
+OD,Thur,Osterville,Sobriety First,"St. Peter's Epis., Wianno Av.",9:30-10:30 a.m., 
+OBB,Thur,Osterville,Anonymity,"St. Peter's, Wianno Ave.",7:30 p.m., 
+O,Thur,Peabody,West,"St. Adelaide's, 708 Lowell St.",7:30-8:30 p.m., 
+O,Thur,Pembroke,Keep It Simple,"Bryantville Meth., 548 Mattakeesett St.",7:30 p.m., 
+CBBW,Thur,Pepperell,Women's Big Book Discussion,"Christian Fellowship, 17 Main St.",7:00 PM, 
+O12,Thur,Plymouth,Fore & Aft,"Christ Ch. Par. Hall, 149 Court St.",10:30 a.m.,Handicap Yes
+OSDYP,Thur,Plymouth,Obviously Young Peoples,"St. Mary's Parish Ctr., 327 Court St.",7-8:15 p.m., 
+C12,Thur,Plympton,Hope,"Congregational Ch., Rte. 58",7 p.m., 
+OD,Thur,Pocasset,Hit The Deck,"Firehse., 311 Barlows Landing Rd.",7:30-8:30 a.m., 
+ODBB,Thur,Pocasset,Roots & Causes,"Baptist Ch., 292 Barlows Landing Rd.",5:30 - 6:30 p.m., 
+O,Thur,Pocasset, ,"1st. Baptist Ch., 292 Barlow's Landing Rd.",8-9 p.m., 
+OD,Thur,Provincetown,Living Sober,"United Methodist Ch., 10 Shank Painter Rd.",7:00-8:00 a.m. and NOON-1 p.m.,Handicap Yes
+OBB,Thur,Provincetown, ,"Schoolhouse, 494 Comm. St., 2nd Fl.",5:30-6:30 p.m.,Handicap Yes
+OD,Thur,Quincy,Fort Sq. 11th Step,"Presbyterian Ch., 16 Pleasant",7-8 a.m.,Handicap Yes
+OD,Thur,Quincy,Wake Up,"Cong. Ch., Wash. & So. Artery",10:00 a.m., 
+CDM,Thur,Quincy,Shake Hands with Feelings,"St. Joseph's, 550 Washington St.",7-8 p.m., 
+O*,Thur,Quincy,Savin Hill,"Fort Sq., Pres. Ch., 16 Pleasant St.",7:30 p.m. Beg. 6:30 p.m., 
+O*,Thur,Quincy,3_7_3,"K of C, Hancock St.","8:00 p.m., Beg.'s 7- 7:45", 
+C12,Thur,Raynham, ,"Stone Church, Rte. 104",9:30 a.m., 
+CBB,Thur,Revere,Beachcombers,"St. Anthony's, Rear",NOON,Handicap Yes
+O,Thur,Revere,We Care,"First Baptist Ch., 209 Beach St.",7:30 p.m., 
+CBB,Thur,Rockport, ,"Baptist Ch., Broadway & Mt. Pleasant St.",NOON - 1 p.m., 
+SDM,Thur,Rockport,Men In Recovery,"United Meth. Ch., 36 Broadway",7:30 p.m., 
+C12T,Thur,Salem,Another Chance,"St. James Chapel, 156 Federal St., Rear",10-11:15 a.m.,Handicap Yes
+OD,Thur,Salem,Smart Start,"Mission, 56 Margin St.",4-5 p.m., 
+O,Thur,Salem,Legacy Of Hope,"Tabernacle Ch., Wash. & Federal",8-9 p.m., 
+CSD,Thur,Salisbury,Hope - AA Only,United Methodist Church,7:30-8:30 p.m., 
+OD,Thur,Sandwich, ,"St. John's, 159 Main St.",NOON, 
+O*,Thur,Sandwich, ,"DeWitt Clinton Lodge, 175 Main Street",7:30 p.m., 
+O,Thur,Saugus,Kenmore,"Salvation Army, 209-233 Broadway, Rt. 1 So.",7:30 p.m., 
+CBB,Thur,Scituate,Scituate Seaside Mtgs.,"St. Mary's, E. Foster Rd.",8:30-9:30 a.m.,Handicap Yes
+O,Thur,Scituate,Centre,"St. Lukes, 3A & 1st Parish Rd.",8-9 p.m., 
+C12,Thur,Sharon,Cottage,"Lady of Sorrows, 59 Cottage St.",10:30 a.m., 
+C12,Thur,Shrewsbury,Eternal Vigilance,"Trinity Episcopa, 440 Main St.",7-8 a.m., 
+CBB,Thur,So. Boston,Pilot House,"Task Force, 345 Old Colony Ave.",7:15 a.m., 
+OD,Thur,So. Boston,Early Bird,"St. Monica's Hall, 331 Old Colony Ave.",7:30- 9 AM, 
+OD,Thur,So. Boston,Keep The Spirit,"St. Monica's Ch. Hall Side Door, Old Col Ave & Preble",11:30 a.m., 
+OD,Thur,So. Boston,The Devine Way,"Recovery Center, Devine Way",7-8 p.m., 
+OD,Thur,So. Boston,Polish Speaking,"Lady of Czenstochowa, 655 Dorchester Ave.",7:30 p.m., 
+O,Thur,So. Boston,Primary Purpose,"St. Monica's, 331 Old Colony Ave.",7:30-8:30 p.m., 
+O,Thur,So. Boston,Gavin,"Tynan School, 650 E. 4th",7:30 p.m., 
+CD,Thur,So. Dennis, ,"Masonic Hall, 242 Old Bass River Rd.",5:00-6:00 p.m., 
+OBB,Thur,Somerville,Davis Square Chapter 2,"United Ch. of Christ, 89 College Ave.",7:00 p.m., 
+CD,Thur,Stoneham,2 for 1,"1st Baptist Ch., 457 Main St., Enter Hancock",1-2 pm, 
+C12W,Thur,Stoneham,Sisters in Step,"All Saints Church, 79 Central St.",6:30-7:30 p.m.,Handicap Yes
+O,Thur,Stoneham, ,"St. Patrick's, 10 Pomeworth St.",8-9 p.m., 
+C12W,Thur,Stoughton,Women's Step,"1st Cong. Ch., 76 Pierce St.",7-8 pm,Handicap Yes
+OYP,Thur,Stoughton,YP New Start,"Grace Church, 421 Page St.",7:30 - 9:00 p.m., 
+OBB,Thur,Taunton,Pass It On,"West Cong. Ch., Lincoln Hall, 415 Winthrop St.",7:30-8:45 p.m.,Yes
+O,Thur,Taunton,Winners,"Morton Hosp., 1st Fl. Cafe, 88 Washington St.",8:30 p.m., 
+C12W,Thur,Tewksbury,Just For Women,"State Hosp., Green Room",6:00 p.m., 
+O,Thur,Tewksbury,Original,"State Hosp. Chapel, 365 East St.",8-9:00 p.m., 
+CD,Thur,Topsfield,Common Ground,"Cong. Ch., Emerson Ctr.,9 E. Common St .",7: 30 - 8:30 p.m.,Handicap Yes
+O12,Thur,Truro,North,"Christian Union Ch., Rte. 6A",7:30-8:30 p.m.,Handicap Yes
+O,Thur,Tyngsboro,Bridge To Recovery,"Council on Aging, 180 Lakeview Ave.",7:30-8:30 p.m.,Handicap Yes
+OD,Thur,W. Barnstable,Fellowship Works,"1717 Mtg. Hse Ch., 2049 Mtg. Hse. Way",5:00 p.m., 
+OD,Thur,W. Bridgewater,Just for Today,"24 S. Clubhouse, 320 W. Center St.",7 - 8 a.m., 
+OSD,Thur,W. Bridgewater,Out to Lunch,"24 S. Clubhouse, 320 W. Center St.",Noon, 
+OSD,Thur,W. Bridgewater,Joy is in the Journey,"Today Club House, 465 N. Main",5.30-6.30 p.m., 
+ODW,Thur,W. Bridgewater,A Bridge Back II,"24 S. Clubhouse, 320 W. Center St.",7:00-8:00 p.m., 
+OD,Thur,W. Roxbury,Happy Rd. to Destiny,"Unitarian Ch., 1859 Centre St",6:30 AM, 
+O,Thur,W. Roxbury,Dedham Line,"St. Stephen's, 5160 Wash. St.",8-9 p.m., 
+O,Thur,W. Roxbury,People Helping People,"Unitarian, 1859 Centre",8:15-9:15 p.m., 
+OSD,Thur,Wakefield,Noontime,"Cong. Ch., 1 Church St.",NOON-1 p.m., 
+OBBW,Thur,Wakefield,Our Common Ground,"Cong. Ch., 1 Church St.",7:15 p.m., 
+OD,Thur,Waltham,Day At A Time,"Presbyterian Ch., 34 Alder St.",NOON - 1:15 p.m., 
+CM,Thur,Waltham,Just Don't Drink,"St. Charles Parish Hall, Taylor & Hall Sts.",7:30 - 9 PM, 
+OD,Thur,Wareham,There is Hope,"Wesley United Meth. Ch., 462 Main St.",7:30 a.m., 
+OD,Thur,Wareham,Here and Now,"Wesley United Meth. Ch., 462 Main St.",NOON - 1p.m.,Handicap Yes
+O,Thur,Wareham,First Tradition,"St. Pat's, 82 High St.",8:00 p.m.,Handicap Yes
+ODW,Thur,Watertown,Deal Yourself In,"Grace Vision Ch., 80 Mt. Auburn St.",6-7 pm, 
+OD,Thur,Wellesley,Top Of The Hill,"Friends Mtg. Hse., 26 Benvenue",NOON, 
+C12W,Thur,Wellesley,Women's,"St. Andrews, 73 Denton Rd.",7-8:15 p.m., 
+CD,Thur,Westboro,Easy Does It,"Good Shepard Luth. Ch., 183 W. Main St.",8-9 p.m., 
+O,Thur,Weston,Observatory,"Unitarian, 349 Boston Post Rd.",7:30-8:30 p.m.,Handicap Yes
+O12T,Thur,Westwood,Grateful To Be Here,"St. Marg. Mary, 845 High, Trad., last thur.",7 p.m., 
+O,Thur,Westwood,Serenity,"St. Dennis, 157 Washington St., Islington",7:30-8:30 p.m., 
+O,Thur,Weymouth,Avalon,"St. Jerome's Basement, Rte. 3A, No. Wey.",7:30 - 8:30 p.m., 
+C12,Thur,Weymouth,"Get Tog. Step, BYOC","Ch. of Nazarene, 389 RalphTalbot",7:30 p.m., 
+OD,Thur,Weymouth,New Beginnings,"Old So. Union, Columbian Sq.",7:30-8:30 p.m.,Handicap Yes
+O,Thur,Whitinsville, ,"Trinity Church, 31 Linwood Ave.",8:00 p.m., 
+CBB,Thur,Whitman,Big Book,"Senior Citz. Ctr., 16 Hayden Ave.",7:30 p.m.,Handicap Yes
+OD,Thur,Winchester,S.A.S.T.O.,"Unitarian, 476 Main St.",7-8:30 p.m., 
+C,Thur,Winthrop,By Sea,"St. John’s, 217 Lincoln St., side door",7:30 p.m.-8:30 p.m., 
+OD,Thur,Worcester,7A Group,107 Lincoln St.,7:00-8:00 a.m.,Handicap Yes
+CD,Thur,Worcester,Discussion,"695 Main St., 4th Fl.",9:30 a.m.,Handicap Yes
+O,Thur,Worcester,Serenity,"1st Baptist, Park Ave. & Salisbury St.",8 - 9 p.m., 
+OSDYP,Thur,Wrentham,Young People,"St. Mary's Parish Hall, 130 South St.",7:30-8:30 p.m., 
+O12,Thur,Yarmouth,South,"Methodist, 324 Old Main Street",7:30 - 8:30 p.m., 
+OSD,Fri,Abington,Early Bird Dawn Patrol,"United Church, Rte 18, 10 Bedford St.",7-8 a.m., 
+O,Fri,Abington,Old Town,"St. Bridget's, 455 Plymouth St., Rte. 58",8:30 p.m., 
+O,Fri,Acton,West,"Baptist Ch., 592 Mass. Ave.",8-9 p.m.,Handicap Yes
+OD,Fri,Allston,Overdue,Hill Memorial Ch. 279 N. Harvard,NOON-1 p.m., 
+OD,Fri,Amesbury,What's Good About Today,"Unity on River, 58 Macy, Rte. 110",7-8 a.m., 
+OD,Fri,Andover, ,"South Church, Central St.",8:00 p.m., 
+CD,Fri,Arlington,Just For Today,"St. Camillus, 1175 Concord Turnpike, Arlington",7-8 a.m. 6 a.m.,Handicap Yes
+OBB12,Fri,Arlington,BBSS,"Calvary Meth. Ch., 300 Mass Ave.",Noon,Handicap Yes
+O12M,Fri,Ashland,Cellar Dwellers,"Federated Ch., 118 Main St",7 p.m., 
+OD,Fri,Attleboro,Get a New Life,"Cameron Bldg., 68 Falmouth St.",10 a.m., 
+OD,Fri,Attleboro,Keep Trying,"Advent Christian Ch., 560 Pleasant St.",Noon - 1p.m., 
+OD,Fri,Attleboro,Desire to Stop,"Cameron Bldg., 68 Falmouth St.",Noon-1:00 p.m.,Handicap Yes
+OSD,Fri,Attleboro,Old School,"Cameron Bldg., 68 Falmouth St.",7-8 pm, 
+CD,Fri,Attleboro,After Hours,"Cameron Bldg., 68 Falmouth St.",10 p.m., 
+CD,Fri,Bedford,First Things First,"1st Ch. Christ, 25 Great Rd.",6:00-6:45 a.m., 
+OBBW,Fri,Belmont,Ladies Night Out,"McLean Hosp., Demarneffe Bldg., Rm. 132",8 p.m.,Handicap Yes
+O,Fri,Belmont, ,"Plyrnouth Cong. Ch., 582 Pleasant St., Rte. 60",8:00 p.m., 
+O,Fri,Berkley,Grace,"Meth. Ch., Rte. 79 & Padelford St.",7:30 p.m.,Handicap Yes
+CBB,Fri,Beverly,Second Chance,"White Whale, 9 Hale St",5:30-6:30 p.m. 10:30 p.m., 
+O,Fri,Beverly,River House,56 River St,6-7 pm, 
+CSD,Fri,Beverly,Traditional,"2nd Cong'l., 35 Conant St.",7:00-8:00 p.m., 
+OSD,Fri,Beverly,North Shore Beginners,"Nazarene Ch., 556 Cabot St.",7:00 PM, 
+OD,Fri,Billerica,New Beginning,"1st Cong. Ch., 18 Andover Rd.",7-8 p.m.,Handicap Yes
+O12,Fri,Blackstone,12 Golden Steps,"St. Theresa, 630 Rathbun St.",12-1 p.m., 
+OSD,Fri,Boston,Rise & Shine,"St. Francis Hse. Shelter, 39 Boylston St.",7-8 a.m., 
+C,Fri,Boston,Mindful Meditation,"Emmanuel Church, 15 Newbury St.",7:30 a.m.,Handicap Yes
+OSD,Fri,Boston,Sahara Sunrise,"Harvard Vanguard, 147 Milk St., Conf. Rm. 1B",7:30-8:30 a.m., 
+O12,Fri,Boston,Back Bay Steps,Arlington St. Church,7:30 a.m., 
+OD,Fri,Boston,Copley Noontime,"Trinity Ch., Claredon St. ,Ferris Library",Noon,Handicap Yes
+OD,Fri,Boston,Ashburton-Noon,Alley next to 20 Ashburton Pl.,Noon-1 p.m., 
+OBB,Fri,Boston,Lunchtime,"BU, Marsh Chapel, Marsh Rm., 735 Comm. Ave.",1-2 p.m., 
+CSD,Fri,Boston,Copley Square,"Church of the Covenant, 67 Newbury St.",5:30 p.m., 
+O,Fri,Boston,Homeward Bound,"Central Service, 12 Channel St., Ste. 604, Marine Ind.Pk",5:30-6:30 p.m., 
+CD,Fri,Boston,Big Book Thumpers,"N.U., 2nd Fl., Ell Hall, Reflection Rm.",6-7 p.m., 
+CBBG,Fri,Boston,Big Book,74 Kilmarnock St.,6 p.m., 
+OD,Fri,Boston,North End Newcomers,"Boston Worship Center, 9 Salutation St.",6:15-7:30 p.m., 
+O,Fri,Boston,Not Forgotten,"Vets Shelter, 17 Court St.",6:45-7:45 p.m., 
+C12,Fri,Boston,Friday Night 12 & 12,"Our Lady of Victories, 27 Isabella St.",7:00 p.m., 
+OBB,Fri,Boston,How It Works,"Beacon Chambers, 19 Myrtle St.",7:30-8:30 p.m., 
+OBBYP,Fri,Boston,Fri. Nite Young People,"Old South Ch., 645 Boylston St.",8 p.m., 
+SDG,Fri,Boston,People Of Color,74 Kilmarnock St.,8:00 p.m.,Handicap Yes
+O,Fri,Boston,Newbury,"Flynn Kitchen, 805 Huntington Ave. Downstairs",8:30 p.m.,Handicap Yes
+CDG,Fri,Boston,Say AAH,74 Kilmarnock St,10-11:30 PM,Yes
+OD,Fri,Braintree,Anchorage,"St. Thomas Moore, 8 Hawthorne Rd.",11:45-12:45 p.m., 
+O,Fri,Braintree,South,"St. Francis, 856 Washington St.",8:00 p.m., 
+OD,Fri,Brewster,Grateful Living,"United Meth. Ch., 701 Airline Rd.",7:15 a.m, 
+OD,Fri,Brewster,5 Alive,"Club Dry Dock,1439 Main St., Rte. 6A",5 p.m., 
+OD,Fri,Brewster,T.G.I.F.,"Lutheran Ch., Rte. 6A",7:30-8:30 p.m., 
+OBB,Fri,Bridgewater,In the Book,"St. Tom. Aq. Par. Hall, 103 Center St.",9:30 a.m., 
+O*,Fri,Brighton,Lake Street,"St. Ignatius, Commonwealth @ Lake","8-9 p.m., Beg. 6:30", 
+O,Fri,Brockton,Old Boy,"St. Patrick's Ch., Fr. Kenny Way & Main St.",10 a.m., 
+O,Fri,Brockton,Champions,"Brock. Hosp., Caf., 680 Center St.",7:30-8:30 p m.,Handicap Yes
+O,Fri,Brockton,Duffy's Tavern,"Masonic Building, 279 Prospect St.",8:00 p.m., 
+OBB12,Fri,Brookline,Big Book Step Study,"All Saints, 1773 Beacon St.",7:30 p.m., 
+O,Fri,Buzzards Bay,11th Step Meditation,"Bourne Comm. Bldg., 239 Main St.",5:30 - 6:30 p.m., 
+CDM,Fri,Cambridge,Hair of the Dog,"Christ Ch., 0 Garden St.",7:30 - 8:15 a.m., 
+CD,Fri,Cambridge,Gratitude,"Methodist church, 1555 Mass Ave.",NOON-1 p.m.,Handicap Yes
+OD,Fri,Cambridge,Beginners,"Univ. Lutheran Ch., 66 Winthrop St",6:00 p.m.,Handicap Yes
+CBW,Fri,Cambridge,Morning Glories II,"First Cong'l., 11 Garden St.",7-8:00 a.m., 
+O12#,Fri,Cambridge,Kendall Square,"MIT Bldg. E25, Rm. 119, 45 Carlton St., No Holidays",7:15-8 a.m., 
+SD,Fri,Cambridge,40 and Over,"Mt. Auburn Hosp., Dining Room 2",7:30 -8:30 p.m., 
+O,Fri,Cambridge,Central Unity,"First Baptist, 5 Magazine St.",8-9 p.m., 
+OGWSD,Fri,Cambridge,Sisterhood,"HDS. 45 Francis Ave., Sperry Rm. #116.",8 - 9 p.m.,Handicap Yes
+OD,Fri,Canton,Noontime,"Trinity Church, Rte. 128 & 138 North",NOON - 1p.m., 
+O*,Fri,Canton, ,"St. John's, 700 Washington St.","8-9 p.m., Beg. 7:00 p.m.", 
+OD,Fri,Carver,Dare to Share,"Lady of Lourdes, Rte 58, 130 Main St.",11: a.m. to Noon, 
+O*,Fri,Carver, ,"United Parish Ch., 115 Main St.","8:00 p.m., Beg. 6:30 p.m.", 
+OD,Fri,Centerville,Hour Of Power,"Our Lady, 230 S. Main",7:30 a.m., 
+OD,Fri,Charlestown,DAAT,586 Rutherford Ave.,NOON-1 p.m.,Handicap Yes
+OD,Fri,Charlestown,Friday Night,586 Rutherford Ave.,7-8:15 p.m., 
+OSD,Fri,Chelmsford,Let's Talk,"Central Baptist on Common, Westford & Academy Sts.",12:15-1:15 p.m., 
+OD,Fri,Chelmsford,Freedom From Booze Beginer,"Lutheran Ch., 170 Old Westford Rd.",6:30-7:30 p.m., 
+O,Fri,Chelmsford,Stone Church,"All Saints, 10 Billerica Rd.",7:30 p.m., 
+OD,Fri,Chelsea,Inter City,"St. Rose, 601 Broadway",11:30 a.m.-12:30 p.m., 
+C12M,Fri,Chelsea,Mixed Nuts,"MGH, Rm. 401, 151 Everett Ave.",6:30 p.m., 
+O,Fri,Chelsea,Simple Truths,"Soldiers Home Cafeteria, 91 Crest Ave., Chelsea",8 p.m., 
+OD,Fri,Clinton,Keep The Faith,"A.I.R., 256 High St.",NOON, 
+O,Fri,Clinton,Central Park,"Good Shepherd, 209 Union St.",8:00 p.m., 
+OD,Fri,Cohasset,Fri. Night Beginner's,"St. Stephen's Ch., 16 Highland Ave.",7:00 p.m., 
+OD,Fri,Concord,Sobah Camel,"Monument Hall, 62 Monument Sq.",12-1 p.m.,Handicap Yes
+OSD,Fri,Concord,Hope,"W. Concord Union Ch., 1317 Main St.",8 - 9:30 p.m.,Handicap Yes
+O12,Fri,Cotuit, ,"Federated, High Street",8:00 p.m., 
+OSD,Fri,Danvers,Eye Opener,"All Saints Episc. Ch., Holten St., Front Door",7-8 a.m., 
+CD,Fri,Danvers,Y Me,"YMCA, 34 Pickering Street",10:30-11:30 a.m., 
+OD,Fri,Danvers,Road To Recovery,"All Saints Episc. Ch., Holten St.",NOON-1 p.m., 
+O,Fri,Danvers,Freedom,"All Saints Episcopal Ch., 46 Cherry St.",6 - 7 p.m., 
+O*,Fri,Dartmouth,South,"Cong. Ch., 17 Middle St.",7:30 p.m. Beg. 6-7 p.m., 
+OSD,Fri,Dedham,Night,"St. Mary's Parish Ctr, 25 Avery St., Side Door",7:30 p.m., 
+O12,Fri,Dorchester,Twelve Steps,"Kit Clark Hse., 1500 Dor. Ave.",9-10 a.m.,Handicap Yes
+O12,Fri,Dorchester,Friday,"Kit Clark Senior Ctr., 1500 Dorchester Ave.",10:30-11:30 a.m., 
+OSD,Fri,Dorchester,Living Room,"Christ Community Ch., 51 Walnut St.",7-8 p.m., 
+O*,Fri,Dorchester,New Boston,"BC HI, 150 Morrlssey Blvd.","7:30 p.m., Beg. 6:30 p.m.", 
+O,Fri,Dorchester,Uphams Cor.,"Elec. Union Bldg., 256 Freeport St.",8 p.m.,Handicap Yes
+O12W,Fri,Dracut,Sober Sisters,"St. Marg. D'Youville, enter Goodhue side",10:45 - 11:45 am,Handicap Yes
+SD,Fri,Dracut,Sobriety 101,"Ste. Marguerite d'Youville, 1340 Lakeview Ave.",Noon, 
+OSD,Fri,Dracut,Always Aware,"Ste. Marguerite d'Youville, 1340 Lakeview Ave.",7 p.m., 
+CBBM,Fri,Duxbury,Sober Sunrise,"St. John's Church, 410 Washington St.",7:00 a.m., 
+OSD,Fri,Duxbury,Discovery,"St. John's, 410 Washington St.,",7:30 p.m., 
+OD,Fri,Eastham, ,"Methodist Church, Rt. 6",8:30 p.m., 
+C12,Fri,Everett,You Gotta Want It,"Immaculate Conception Rectory, 489 Broadway",7:30 p.m., 
+OD,Fri,Fall River,SOS,"1st Baptist Ch., 228 N. Main St",11:45 - 12:45 a.m., 
+OBB,Fri,Fall River,Turn It Over,"1st Baptist Ch., 228 N. Main",5:30-6:45 p.m., 
+OD,Fri,Falmouth,Each Day a New Beginning,"Wesley Methodist, 270 Gifford St.",7-8 a.m., 
+OD,Fri,Falmouth,Discussion,"St. Patricks, 511 Main St.",Noon - 1 p.m., 
+O,Fri,Falmouth, ,"St. Anthony's, Rte. 28",7:30 p.m., 
+CD,Fri,Fitchburg,Keep It Simple,"Faith United Ch., 820 Main St.",NOON-1 p.m., 
+O12,Fri,Foxboro,Daily Winners,"Community Ctr., 382 South St.,",NOON-1 p.m., 
+OD,Fri,Framingham,Reflections,"Dennison Bldg., 300 Howard St.",7-8 a.m., 
+OD,Fri,Framingham,Daily,"Drop In Center, Kendall St.",NOON - 1 p.m., 
+CD,Fri,Framingham,Midday Release,"First Baptist, Pleasant St.",12:15 p.m., 
+OD,Fri,Framingham,Out of the Wind,"Dennison BLdg., 300 Howard St.",8 p.m.,H
+OSD,Fri,Framingham,First Step Forward,"Salvation Army, 35 Concord St.",8-9 p.m., 
+OSD,Fri,Franklin,Unity,"St. John's, 237 Pleasant St.",8-9 p.m., 
+OSD,Fri,Gardner,Mid Day,205 School St,12:30 -1:30 pm,Handicap Yes
+O,Fri,Gardner, ,"Unitarian, 66 Elm St.",7:00-8:00 p.m., 
+CBB,Fri,Georgetown, ,"First Cong., Rte. 133, Andover St",7:30 p.m.,Handicap Yes
+OD,Fri,Gloucester,Cape Ann Early Bird,"Baptist Ch., 38 Gloucester Ave.",7-8 a.m., 
+OD,Fri,Gloucester,11th Step Prayer & Meditation,"St. Paul Lutheran, 1123 Wash. St.",7:30 - 8:30 p.m., 
+O,Fri,Gloucester,Cape Ann,"Baptist, 38 Glouc. Ave.",8:00 p.m., 
+CD,Fri,Groveland,As Bill Sees It,"St. James Ch., 119 Wash. St.",7-8 p.m., 
+OD,Fri,Haverhill,Topic Disc.,"St. John Baptist, 110 Lincoln Ave.",NOON-1 p.m.,Handicap Yes
+OD,Fri,Haverhill,New Jericho Noontime,"Safe Haven, 127 How St",NOON-1 p.m.,Handicap Yes
+O12,Fri,Haverhill,Steppin In,"Whittier Pavilion, 76 Summer St.",6:45-7:45 p.m.,Handicap Yes
+C12,Fri,Hingham,New Day,"Lutheran Ch., 916 MainSt., Rte 228",7:30-8:30 a.m.,Handicap Yes
+CD,Fri,Hingham,Hope,"2nd Parish Ch., 695 Main St., Rte 228, 11th Step",7:30 - 8:30 a.m., 
+CBB,Fri,Hingham,We Believe,"St. Paul's White Hse., 20 Fearing Rd.",6 p.m., 
+OD,Fri,Holliston,Meditation,"1st Baptist Ch., 40 High St.",7:30p.m., 
+OD,Fri,Hopedale,Friday Night Lights,"Sacred Heart Ch.,187 Hopedale St",7:30-8:30 p.m.,Handicap Yes
+OD,Fri,Hull,Summer Only,"Burke Bathhouse, 116 Hull Shore Dr.",8:30-9:30 a.m., 
+OBB,Fri,Hull,Hully Gullie's,"Gould Hall, 128 Spring St.",8 p.m.,Handicap Yes
+OD,Fri,Hyde Park,Constant Vigilance,"Readville K of C Hall., 12 Wolcott Ct.",11:00 a.m., 
+O,Fri,Hyde Park,Easy Does It II,"Christ Ch., 1220 River St.",7:30-8:30 p.m., 
+OD,Fri,Jamaica Plain,Arborway,"Shattuck Hosp., Turville Conf. Rm.",7:30-8:30 p.m.,Handicap Yes
+O*,Fri,Jamaica Plain,We Care,"Faulkner Hosp., 3rd Fl. Auditorium",8 p.m. Beg. 7 p.m., 
+OD,Fri,Kingston,Early Bird Gratitude,"VCF Ch., 8 Hilltop Rd.",7-8 a.m., 
+OW,Fri,Kingston,The Sacred Circle,"Beal House, 222 Main St.",7-8 a.m., 
+OBB12,Fri,Kingston,BB Step Study,"V.C.F. Ch., 8 Hilltop Ave.,",7:30 p.m.,Handicap Yes
+OSD,Fri,Lawrence,New Beginnings,"Riverside Ch., 290 Water St.",10:30-11:30 a.m.,Handicap Yes
+OD,Fri,Lawrence,Just for Today,"599 Canal St., 5th Fl., Ste. West 2",Noon - 1,Handicap Yes
+O,Fri,Lawrence,Back Door,"Psychological Ctr., 11 Union St., Rear",1:30-2:30 p.m., 
+O,Fri,Leicester, ,"St. Pius X, 1163 Main St.",8:30 p.m., 
+OD,Fri,Leominster,Eye Opener,"St. Mark's Youth Ctr., Cotton St.",8-9 a.m., 
+OD,Fri,Leominster,High Noon,"Unitarian Universalist Ch., 15 West St.",NOON, 
+O,Fri,Leominster,Clean Air,"Unitarian Ch., 15 West St.",7:45-9 p.m., 
+OD,Fri,Lexington,Sober by Grace,"2 Militia Dr., Rm G-5",6:30-7:30 a.m.,Handicap Yes
+C12,Fri,Lexington,12 + 12 In Recovery,"Baptist Ch., 1580 Mass. Ave.",NOON-1 p.m., 
+OBB,Fri,Lowell,New Last Gaspers,"St. Anthony's Sch., 908 Central, downstairs",Noon-1p.m., 
+CSD,Fri,Lowell,Spark of Hope Alcohol Only,"St. Rita's Shrine Basement, Mammouth Rd.",NOON,Handicap Yes
+ODNS,Fri,Lowell,Screwy Twoey,"Shelter, 189 Middlesex St",2-3 p.m., 
+ODG,Fri,Lowell,Great Awakening,"MCC Campus, Kearney Sq., Rm. 102",7:30 p.m., 
+OD,Fri,Lynn,Recovery,"Lynn Art, 25 Exchange St., Rear",7 a.m., 
+CSD,Fri,Lynn,Center,"Life Point Ch., 10 Baltimore St.",11:00 - Noon, 
+O,Fri,Lynn,Do It Sober,"Life Point Ch., 10 Baltimore St.",4-5 p.m., 
+OSD,Fri,Lynn,Snack & Chat Beg.,"Assem. God Ch., 10 Baltimore St.",6-7 p.m., 
+OD,Fri,Lynn,Wyoma Sq. Beg.,1st Lutheran Ch.,7 p.m., 
+CD,Fri,Malden,B.Y.O.C.,"Club 24, 787 Salem St.",7-8 a.m., 
+OSD,Fri,Malden,Noontime,"Club 24, 787 Salem St.",NOON-1 p.m., 
+OD,Fri,Malden,Happy Hour,"Club 24, 787 Salem St.",4-5 p.m., 
+O*,Fri,Malden,Four Winds,"Club 24, 787 Salem St.","8-9 p.m., Beg. 6:30 p.m.", 
+CBB,Fri,Malden,You And Us,"Imm. Conc., 10 Fellsway East",8 p.m., 
+O,Fri,Mansfield,Alive Again,"Cong'l Church, 17 West St.",8:00 p.m., 
+CD,Fri,Marblehead,Jumpstart,8 Anderson St.,7 a.m., 
+OD,Fri,Marblehead,Light one Candle,"28 Mugford St., Side Entrance, 2nd Fl.",10:30 a.m., 
+CD,Fri,Marblehead, ,8 Anderson St.,Noon-1 p.m., 
+CD,Fri,Marblehead,Quittin Time,8 Anderson St.,4-5 p.m., 
+O,Fri,Marblehead,New Freedom,"Counseling Center, 66 Clifton Ave",7:30 p.m., 
+CD,Fri,Marblehead,Let's Get Well,8 Anderson St.,8 p.m., 
+CD,Fri,Marblehead,Little Hall,8 Anderson St.,9:30 p.m.., 
+OD,Fri,Marion,Eye Opener,"St. Gabriel's, 124 Front St.",7:30-8:30 a.m., 
+CBB,Fri,Marion,Freedom,"Community Center, 144 Front St, (Rear prkng lot)",8:00 p.m., 
+OD,Fri,Marlboro,Early Risers,33 Main St.,6:45-7:45 a.m.,Handicap Yes
+OD,Fri,Marlboro, ,33 Main St.,NOON, 
+CD,Fri,Marlboro,Simply Sober,33 Main St.,5:30-6:30 p.m., 
+O,Fri,Marlboro,New Life,"Cong'l, High & Bolton",8:00-9:00 p.m., 
+O,Fri,Marshfield,Back To Basics,"No. Com. Par. Hall, 72 Old Main",7:30-8:30 p.m., 
+OD,Fri,Martha's Vnyd.,Open Discussion,"1st Baptist Par. Hse., 66 William St., V.H.",6:45 a.m.,Yes
+OSD,Fri,Martha's Vnyd., ,"Grace Episc Par.Hse., 36 Woodlawn Ave.,Vnyd. Haven",NOON,Handicap Yes
+OSD,Fri,Martha's Vnyd., ,"Good Sheperd Par. Ctr., 55 School St., Oak Bluffs",6:30 p.m.,Handicap yes
+CSD,Fri,Martha's Vnyd., ,"1st Cong. Ch., 1051 State Rd.,W. Tisbury, Cong'l",8:30 p.m.,Handicap yes
+OBB12,Fri,Mattapoisett,BBSS,"Friends Mtg. Hse., 103 Marion Rd.",7:30 p.m.,Handicap Yes
+OSD,Fri,Maynard,Now,"Methodist Church, 2 Summer St.",NOON, 
+OBB12,Fri,Maynard,Happy Destiny,2 Summer St.,7:00 p.m., 
+O*,Fri,Medfield,Dlscovery,"1st Bapt., Rt. 109/South St.",8-9 p.m. Beg. 7 p.m., 
+CBB12M,Fri,Medford,Men's BB Step Study,"Unitarian Univiversalist Ch., 147 High St.",7:30 p.m., 
+O,Fri,Medford,West,"St. Francis, 21 Saint Clair Rd.,",7:30-8:30 p.m., 
+CD,Fri,Melrose,Mid Morn. Drop In,"First Baptist, Main & Upham Sts.",10-11:00 a.m., 
+CBB,Fri,Melrose, ,"1st Cong'l, 121 W. Foster St.",8:00 p.m., 
+OBB,Fri,Merrimac,BB Fried on Friday,"Senior Center, 100 East Main St.",6-7 pm, 
+CSD,Fri,Methuen,New Lease On Life,"St. Lucy's, Rte. 110",10:00 a.m., 
+CBB,Fri,Methuen, ,Forest Street Church,7:00 p.m., 
+O,Fri,Middleboro,Intensive Care,"Advent Luth. Ch., 62 E. Grove St.",7 - 8 p.m.,Handicap Yes
+ODW,Fri,Middleton,Amazing Grace,"Cong. Ch., 68 Maple St., Rte. 62",10-11 a.m., 
+CD,Fri,Middleton,Acceptance,"St. Agnes, 22 Boston Street",8:00 p.m., 
+OSD,Fri,Milford,Eye Opener,"Unit. Univ. Ch., 23 Pine St.",8:30 a.m., 
+C12M,Fri,Milford,Serenity Seekers,"First Cong. Ch., 4 Congress St",7:30 p.m., 
+O,Fri,Millville,Valley,"St. Augustine, 17 Lincoln St",7:30 p.m., 
+OBB,Fri,Milton,Farm,"Methodist Parkway Ch., 158 BlueHills Pkwy.",NOON, 
+O,Fri,Milton,Highlanders,"Medical Center, 92 Highland St.",7:30-8:30 p.m., 
+OBB,Fri,Milton,Freedom,"Milton Academy, Jr. Bldg., 105 Centre St.",7:30 p.m., 
+OD,Fri,Nantucket, ,"Drop In Ctr., Vesper Ln.",7:00 a.m., 
+OD,Fri,Nantucket,Noon,"1st Cong Ch.,62 Center St.",Noon, 
+OD,Fri,Nantucket,Happy Hour,"Govin Village, Vesper Ln.",5:30 p.m., 
+OD,Fri,Nantucket, ,"Fr. Griffin Hall, Cherry St.",8:00 p.m., 
+O,Fri,Natick,Southside,"St. Linus Ch., 119 Hartford St.",8 - 9 p.m.,Handicap Yes
+CBB,Fri,Needham,Blg Book,"1st Baptist Ch., 868 Great Plain Ave.",NOON-1 p.m., 
+O*,Fri,Needham, ,"Carter Meth., 800 Highland","8:00 p.m., Beg. 6:30 p.m.", 
+OSD,Fri,New Bedford,Daily Reflections,"Faith Ministries, 177 Cove St.",Noon, 
+OD,Fri,New Bedford,Seaside Serenity,"1st Cong. Ch., 2195 Acushnet Ave.",Noon - 1 p.m., 
+OD,Fri,New Bedford,New Beginnings,366 Coggeshall St.,Noon - 1 pm, 
+OBB,Fri,New Bedford,Friday Night Big Book,"Church of Nazarene, 764 Hathaway Rd.",6:00 p.m., 
+OD,Fri,New Bedford,AM Recovery,360 Coggeshall St.,8-9 a.m., 
+O,Fri,Newburyport,Noon,"Presbyterian ch., 29 Federal St.",NOON,Handicap yes
+CSDW,Fri,Newburyport,As Bill Sees It,"Immaculate Conception Ch., 42 Green St.",7-8 p.m.,Handicap Yes
+OD,Fri,Newton,Jump Start,"Ch. of Messiah, 1900 Comm. Ave.",6:45-7:45 a.m., 
+OD,Fri,Newton,Reflections,"United Ch. of Auburndale, 64 Hancock St.",7 a.m., 
+OSD,Fri,Newton,Late Show,"Mary Immaculate of Lourdes, 270 Elliot St.",10:15 - 11:30 p.m., 
+CSD,Fri,Newton,Norumbega,"M.D.C., 107 Charles St., Auburndale",NOON, 
+CD,Fri,Newton,Friday Nite Lights,"D.C.R., 107 Charles St.",5-6 p.m., 
+O,Fri,Newton,Friday Night,"D.C.R., 107 Charles St.",7-8 p.m., 
+C12,Fri,No. Andover, ,"First United Meth. Ch., 57 Peter St.",7:30-8:30 p.m., 
+ODW,Fri,No. Attleboro,Sober Women,"Oldtown School House, Old Post Rd.",7:30 p.m., 
+O,Fri,No. Attleboro,Faith Works,"Grace Episcopal, 104 N. Washington, Rte. 1A",8 p.m., 
+OBB,Fri,Norfolk,Daily Disc.,"St. Jude's, 86 Main St.",NOON-1 p.m., 
+CMD,Fri,Northboro,Dignity Sympathy,"Trinity Ch., 23 Main St.",7:30 p.m., 
+OD,Fri,Norwood,Sunny-side Up,"St. Timothy's, 650 Nichols St.",7-8 am,Handicap Yes
+OD,Fri,Norwood, ,"1st Baptist Ch. Hall, 71 Bond St.",NOON-1 p.m.,Handicap Yes
+OSDYP,Fri,Norwood,2 For 1 YP,"Caritas Hosp., Cafeteria, 800 Washington St.",7:30 p.m., 
+O,Fri,Oak Bluffs,Good Shepard Par. Ctr.,55 School,6:30 p.m., 
+OD,Fri,Orleans, ,"Drop in Ctr., 26 Giddiah Hill Rd.","7 a.m., NOON 5 p.m.",Handicap Yes
+OD,Fri,Osterville,Sobriety First,"St. Peter's Epis., Wianno Ave.",8:30-9:30 a.m., 
+O,Fri,Peabody,South,"2nd Congregational, 12 Maple St.",7:30:8:30 p.m., 
+O,Fri,Pembroke, ,"1st Church of Pembroke, Center St., Rte. 14",8:30 p.m.,Handicap Yes
+O,Fri,Pepperell,East,"Christian Fellowship Ch., 17 Main St.",7:30 p.m., 
+O,Fri,Plainville,Friday Night,"United Methodist ch., Rte 106",7:30-8:30 p.m.,Handicap Yes
+OD,Fri,Plymouth,Just Don't Drink,"Cong. Ch., State Rd., 3A, Manomet",7 p.m., 
+*O,Fri,Plymouth,Happy Hour,"United Meth. Ch., 29 Carver Rd.","7:30-8:30 pm, beg. at 6:30 pm", 
+O*,Fri,Plymouth,Airport,"Plym. Airport, Gate 2, So. Meadow Rd.","7:30 p.m., Begin. 6:30 p.m.", 
+O*,Fri,Plymouth,Class Act,"Red School House, 1144 Long Pond Rd.","7:30-8:30 p.m., beg. 6:15-7 p.m.", 
+OT,Fri,Plymouth,Fore & Aft,"Christ Ch. Par. Hall, 149 Court St.",10:30 a.m.,Handicap Yes
+OD,Fri,Pocasset,Hit The Deck,"Firehse., 311 Barlow's Landing Rd.",7:30-8:30 a.m., 
+ODBB,Fri,Pocasset,Roots & Causes,"Baptist Ch., 292 Barlows Landing Rd.",5:30 - 6:30 p.m., 
+OD,Fri,Provincetown, ,"United Methodist Ch., 10 Shank Painter Rd.",7:00-8:00 a.m. and NOON-1 p.m., 
+ODW,Fri,Provincetown, ,"Aids Support Office, 96 Bradford",5:30-6:30 p.m.,Handicap Yes
+CGMD,Fri,Provincetown, ,"Aids Support Office, 96 Bradford",9-10 p.m.,Handicap Yes
+OD,Fri,Quincy,Fort Sq. 11th Step,"Presbyterian Ch., 16 Pleasant",7-8 a.m.,Handicap Yes
+OBB,Fri,Quincy,Fort Sq.,"Pres. Ch., 16 Pleasant St.",6:00 p.m.,Handicap Yes
+O,Fri,Quincy,Walk The Talk,"Cong. Ch., Washington St. & So. Artery",7:30-8:30 p.m., 
+O*,Fri,Quincy,So. Shore,"United Methodist Ch., 40 Beale St., Wollaston","8 p.m., Beg. 7 p.m",Handicap Yes
+O12G,Fri,Quincy,Good Shepherd,"Lutheran, W. Squantum St.",8:30 p.m., 
+CSD,Fri,Raynham,Real A.A.,"Gilmore Hall, Broadway, Rte. 138",7-8 p.m., 
+O,Fri,Raynham,Phoenix,"Lutheran Ch., 110 Robinson St.",7:30 p.m., 
+C12T,Fri,Raynham,Livlng Our Traditlons,"First Cong. Ch., Rte. 104",8 p.m. (NOT 3rd Fri.), 
+CD,Fri,Reading,Free And Sober,"Old Fire House, Sr. Ctr., 49 Pleasant St.",1 p.m., 
+OSDYP,Fri,Rockland,Young People,"Trinity Epischopal Ch.,3 Goddard Ave.",7:30 - 8:30, 
+OD,Fri,Rockport,Daily Reflections,"Baptist Church, Broadway/Mt. Pleasant",NOON-1 p.m., 
+O,Fri,Roxbury,Renacimiento,11 Carmel St.,8:00-10:00 p.m., 
+OBB,Fri,Salem,Another Chance,"St. James Chapel, 156 Federal St., Rear",10-11:15 a.m.,Handicap Yes
+C12,Fri,Salem,Back to Basics,"Beverly Coop Bank, 73 Lafayette St., Comm Rm,",12:15 - 1:15, 
+OSDG,Fri,Salem,Weekender,"First Univ. Ch., 211 Bridge St., Side Door",6:30-7:30 p.m., 
+O,Fri,Salem,Old Salem,"St. Peter's, 24 St. Peter Street",8-9 p.m.,Handicap Yes
+O,Fri,Salisbury,Clipper City,"Hilton Senior Center, 41 Lafayette Rd.",8-9 p.m., 
+C12,Fri,Sandwich, ,"Human Service Ctr., 270 Meetinghouse Rd.",8:00 p.m., 
+O,Fri,Saugus,Summer St.,"Blessed Sacrament, 14 Summer St.",8-9 p.m.,Handicap Yes
+OD,Fri,Scituate,Seaside,"St. Mary's, E. Foster Rd.",8:30 - 9:30 a.m., 
+O,Fri,Scituate,Satuit,"Cong. Ch., 381 Country Way",7:30-8:30 p.m.,Handicap Yes
+C12,Fri,Shrewsbury,Eternal Vigilance,"Trinity Episcopal,440 Main St.",7-8 a.m., 
+CBB,Fri,So. Boston,Pilot House,"Task Force, 345 Old Colony Ave.",7:15 a.m., 
+OD,Fri,So. Boston,Early Bird,"St. Monica's Hall, 331 Old Colony Ave.",7:30- 9 AM, 
+OD,Fri,So. Boston,Keep The Spirit,"St. Monica's Ch. Hall Side dr, Old Col. Ave. & Preble",11:30 a.m., 
+O,Fri,So. Boston,Sober's Better,"L St. Rec. Ctr., Multipurpose Rm.",7:30 - 8:30 p.m., 
+CD,Fri,So. Dennis, ,"Masonic Hall, 242 Old Bass River Rd.",5:00-6:00 p.m., 
+O,Fri,Somerset,How Now,"Old Town Hall, Rte. 138, 1478 County St.",7:30 p.m., 
+O12W,Fri,Somerville,A Vision for You,"St. James Ch., 1170 Broadway",6:30 p.m., 
+CD,Fri,Stoneham,2 for 1,"1st Baptist Ch., 457 Main St., Enter Hancock",1-2 pm, 
+OBB12,Fri,Stoneham, ,"St. Patrick's Ch., 10 Pomeworth St.",7:30-9 p.m., 
+OSDYP,Fri,Stoneham,Young People,"First Baptist Ch., 457 Main St. Enter on Hancock",8-9 p.m., 
+OBB,Fri,Stoughton,New Freedom BB,"Kimball School, 2 Park Ave.",8:00 p.m., 
+OSD,Fri,Swansea,Steel on Steel,"1st Christian Cong. Ch., 1113 G.A.R. Hwy.",7:00 p.m., 
+OD,Fri,Uxbridge,Another Day Another Way,"Nazarene Ch., 130 Douglas Rd., Rte 16",7:30 - 8:30 p.m., 
+OD,Fri,W. Barnstable,Fellowship Works,"1717 Mtg. Hse. Ch., 2040 Mtg. Hse. Way",5:00 p.m., 
+OD,Fri,W. Bridgewater,Just for Today,"24 S. Clubhouse, 320 W. Center St.",7 - 8 a.m., 
+OD,Fri,W. Bridgewater,Back to Basics,"Today Club, 465 N. Main",Noon, 
+OSD,Fri,W. Bridgewater,Out to Lunch,"24 S. Clubhouse, 320 W. Center St. Rear",Noon-1 pm,Handicap Yes
+OSD,Fri,W. Bridgewater,Joy is in the Journey,"Today Club House, 465 N. Main",5.30-6.30 p.m., 
+*O,Fri,W. Bridgewater,New Way Life,"First Ch., 18 Howard St.","7-8:15 p.m., beg. @ 6-6:45 p.m.",Handicap Yes
+C12,Fri,Wakefield,Handful,"Union Church, Oak & Main St.",7:00 p.m., 
+O,Fri,Walpole, ,"Epiphany Ch., Front St.",8:00 p.m.,Handicap Yes
+OD,Fri,Waltham,Day At A Time,"Presbyterian Ch., 34 Alder St.",NOON - 1:15 p.m., 
+OSD,Fri,Waltham,West,"St. Charles Rectory, Taylor & Hall Sts.",6:30-7:30 p.m., 
+OD,Fri,Wareham,There is Hope,"Wesley United Meth. Ch., 462 Main St.",7:30 a.m., 
+OD,Fri,Wareham,Here and Now,"Wesley United Meth. Ch., 462 Main St.",NOON - 1p.m.,Handicap Yes
+O12,Fri,Wareham,5th Tradition,"1st Cong. Ch., 5 Gibbs Ave., Downstairs",7:30-8:30 p.m., 
+OGWD,Fri,Wareham,Living Loving Learning,"Wesley Church, 462 Main St.",7:30 p.m., 
+C12,Fri,Wareham,Hope Step,"Indian Heights Assoc., Head of Bay Rd.",8 p.m.,Handicap Yes
+O12,Fri,Watertown,Reality II,"1st Unit. Univ. Ch., 35 Church St.",7-8:15 p.m., 
+OBB,Fri,Wayland,Big Book Workshop Fri,"Comm. United Meth. Ch., 5 Damon St.",7-8 p.m., 
+C12,Fri,Webster,Close To Home,"Church of Recon., 3 No. Main St.",7:30 p.m., 
+OSD,Fri,Wellesley,Fifth Chapter,"Cong. Ch., 207 Wash. St.",7:30 - 8:45 p.m., 
+C12,Fri,Westboro,No Name,"Good Shepard Ch., 183 W. Main St.",NOON-1 p.m., 
+CD,Fri,Westboro,As Bill Sees It,"United Meth. Ch., 120 W. Main St.",7:30-8:30 p.m., 
+CB,Fri,Westwood,Big Book,"1st Parish, 340 Clapboard Tree",10 a.m., 
+CB,Fri,Westwood,Intensive Care,"Comm. Ch., East and Washington Sts.",7:30 p.m., 
+OD,Fri,Weymouth,Early Bird,"St. Nazarene, Ralph Talbot St.,",6-7 a.m., 
+CBB,Fri,Weymouth,T.G.I.S.,"Old So. Union Ch., Columbian Sq.",NOON,Handicap Yes
+O12,Fri,Weymouth,Friday Night Step,Immaculate Conc. Sch. Base.,7-8:30 p.m., 
+OD,Fri,Weymouth,Friday Nite Live,"Holy Nativity, Columbian & Nevin Street",8:00 p.m., 
+O*,Fri,Weymouth,New Journeys,Rt. 3A/Sea St.,"8-9 p.m., beg. 7 pm", 
+C12,Fri,Whitman,12 + 12,"Senior Cit. Ctr., 16 Hayden Ave.",7:30 p.m., 
+OBB,Fri,Wilmington,Never Alone,"United Meth. Ch., 87 Church St., Rte. 62",7:30 p.m., 
+CMG,Fri,Winchester,Brotherhood,"Unitarian Ch., 476 Main St.",7 - 8 p.m., 
+C12W,Fri,Winthrop,Step Sisters,"Methodist Ch., 217 Winthrop St.",7:00 p.m.,Handicap Yes
+CSDM,Fri,Winthrop,Men,"St. John's, 222 Bowdoin St.",7:30 p.m., 
+OD,Fri,Woburn,There Is A Solution,"First Cong. Ch., 322 MainSt.",NOON-1 p.m.,Handicap Yes
+OD,Fri,Woburn,No Name,"New England Rehab, 308 Cambridge St.",7:30 p.m.,Handicap Yes
+O,Fri,Woburn,Friday Night,"Trinity Church, 535 Main St",8-9 p.m., 
+OD,Fri,Worcester,7A Group,107 Lincoln St.,7:00-8:00 a.m.,Handicap Yes
+C12,Fri,Worcester, ,"Assumption Coll., 500 Salisbury St.",8:00 p.m., 
+O,Fri,Worcester,Greendale,"Zion Lutheran, Whitmarsh & Leeds Sts.",8:30 p.m., 
+OD,Fri,Worcester,Greendale,"695 Main St., 4th Fl.",9:30 a.m.,Handicap Yes
+OSD,Sat,Abington,Early Bird Dawn Patrol,"United Church, Rte 18, 10 Bedford St.",7-8 a.m., 
+OSD,Sat,Abington,Dawn Patrol Candlelight,"United Church, Rte 18, 10 Bedford St.",11:00 p.m.,Handicap Yes
+ODW,Sat,Acton,Unity Beginners,"Baptist Ch., 592 Mass. Ave.",9:00 a.m., 
+OSDW,Sat,Acton,G.H. Beginners,"St. Mathew's, 435 Central St.",9:30 a.m.,Handicap Yes
+CDW,Sat,Acton,Unity,"Baptist Church, 592 Mass. Ave.",11:00 a.m., 
+CBB,Sat,Acushnet,Live And Learn,"Wesley Methodist Ch., 67 Main St.",10:30 a.m., 
+OD,Sat,Amesbury,What's Good About Today,"Unity on River, 58 Macy St., Rte 110",7-8a.m., 
+OD,Sat,Amesbury,Sat Morn. Live,"The Elms, 51-53 Friend St.",9:30 a.m., 
+OD,Sat,Amesbury,11th Step Meditation,"St. James Epis. Ch., 120 Main, enter Aubin",4:00 p.m., 
+CD,Sat,Andover,Kitchen Table,"St. Augustine's, 43 Essex St.",8 p.m., 
+CS,Sat,Arlington,Just for Today,St. Camillus. 1175 Concord Tpk,6 a.m.and 7 a.m,Handicap Yes
+C12,Sat,Arlington,The Steps We Took,"St. Camillus Par. Ctr., 1175 Concord Trpk.",10-11:15 A.M., 
+C,Sat,Arlington,11th Step Meditation,"St. John's Rear, 74 Pleasant St.",10-11 a.m., 
+C12T,Sat,Arlington,Spy Pond,"Calvary United Meth. Ch., 300 Mass Ave..",7:45-9:15 p.m., 
+CSD,Sat,Ashland,Promises,"Federated Ch., 118 Main,",6-7 p.m., 
+C12W,Sat,Attleboro,Honest Women Trying,"Advent Christian Ch., 560 Pleasant St.",10 - 11:15 a.m., 
+OD,Sat,Attleboro,Desire to Stop,"Cameron Bldg., 68 Falmouth St.",Noon-1:00 p.m.,Handicap Yes
+O*,Sat,Attleboro,1A,"Cameron Building, 68 Falmouth St.","7:30 p.m., Beg. 6:30 p.m.", 
+CBB,Sat,Ayer,Big Book,"Deaconess Nashoba Hosp., 200 Groton Rd.",7 p.m.,Handicap Yes
+CD,Sat,Bedford,First Things First Saturday,"First Church of Christ, 25 Great Road",6:00-6:45 a.m., 
+OSD,Sat,Bellingham,Keep It Simple,"How It Works Club, 176 Mechanic St.",7:30 p.m.,Handicap Yes
+OD,Sat,Belmont,Together We Can,"McLean's Hosp., Demarneffe Bldg., Rm. 132",NOON, 
+C12,Sat,Beverly,Recovery,"Emanuel Cong. Ch., 140 Bridge St.",7:30 a.m.,Handicap Yes
+OD,Sat,Beverly,Second Chance,"White Whale, Hale St.",2:00; 5:30; 10:30 p.m., 
+CD,Sat,Beverly,Old Town,"Emmanuel Ch., 140 Bridge St.",8-9 p.m., 
+OD,Sat,Billerica,Center,"Cong'l, 803 Boston Rd., Pinehurst",8:30 p.m., 
+O12,Sat,Blackstone,12 Golden Steps,"St. Theresa, 630 Rathbun St.",12-1 p.m., 
+OD,Sat,Boston,Serenity Early Blrd,"Lindemann Ctr., Plaza Level, 25 Staniford St.",8:30-9:30 a.m., 
+OD,Sat,Boston,To Handle Sobriety,74 Kilmarnock St.,9-10 a.m., 
+C12,Sat,Boston,Sat A.M.,"Old South, 645-B Boylston St.",10:00 a.m., 
+OD,Sat,Boston,Serenity Beginners,"Lindemann Ctr., Plaza Level, 25 Staniford St.",10 a.m., 
+O12,Sat,Boston,Living Sober,"Plaza Level, 25 Staniford St.",11:30 a.m.-12:30 p.m.,Handicap Yes
+ODG,Sat,Boston,Alcoholics Together,"MGH, Thier 101 Conference Room",12:30-1:30 p.m.,Handicap Yes
+O,Sat,Boston,Sugar Hill,"Pine St. Inn Conf. Rm., 444 Harrison Ave.",2:00 p.m., 
+OD,Sat,Boston,North Square,"Sacred Heart Church, 9 Sun Court",2:30-3:30 p.m., 
+OD12,Sat,Boston,Mindful Steps,"Emmanuel Ch., 15 Newbury St.",5 p.m., 
+ODM,Sat,Boston,North End Men's Topic,"Sacred Heart Ch., 9 Sun Court",6-7 pm, 
+CDG,Sat,Boston,K St.,74 Kilmarnock St.,6:00 p.m., 
+O,Sat,Boston,Not Forgotten,"Vets Shelter, 17 Court St., 1st Fl.",6:45-7:45 p.m., 
+O,Sat,Boston,Beacon Hill,"Advent Church, 30 Brimmer St.",8:00 p.m., 
+O,Sat,Boston,Mission Hill,"Ma. Col. Art, Kennedy Bldg., 1st Fl. Café",8:30 p.m., 
+OSD,Sat,Boston,Willing to Believe,"Our Lady of Victories, 27 Isabella St.",9-10 pm, 
+ODG,Sat,Boston,Candlelight,74 Kilmarnock St.,10 p.m., 
+CD,Sat,Braintree, ,"St. Thomas More, 8 Hawthorn Rd.",10 a.m., 
+OD,Sat,Brewster,Grateful Living,"United Meth. Ch., 701 Airline Rd.",7:15 a.m., 
+OD,Sat,Brewster,5 Alive,"Club Dry Dock,1439 Main St., Rte. 6A",5 p.m., 
+OD,Sat,Brighton,Simply Sober,"St. Eliz. Hosp. Cafe., 736 Cambridge St.",8-9 p.m.,Handicap Yes
+O,Sat,Brockton,Original Let's Give It Away,"VA Hospital, Belmont St.",10 - 11:15 am, 
+SD,Sat,Brockton,There s A Solution,"Lutheran Ch., 900 Main & Neilsson St.",6-7 p.m.,Handicap Yes
+O12,Sat,Brockton,Big Reach,"Masonic Building, 279 Prospect St.",7:30 p.m., 
+OSD,Sat,Brookline,Joy in the Journey,"Church of Our Savior, Carlton & Monmouth Sts.",5:30 p.m., 
+OBB,Sat,Brookline,Sat.-Chapter 2,"All Saints Ch., 1773 Beacon St.",5:30 p.m., 
+OYP,Sat,Brookline, ,"All Saints, 1773 Beacon St.",7:30 p.m., 
+C12,Sat,Cambridge,Early Does It,"First Cong. Ch., 11 Garden St.",8 a.m., 
+OSD,Sat,Cambridge,Friends,"Quaker Mtg. Hse., Brattle & Longfellow St.",9:30 a.m., 
+OD,Sat,Cambridge,Beginners,11 Garden St.,10-11 a.m., 
+OD,Sat,Cambridge,New Confidence,"Eastern House, 105 Spring St.",10-11 a.m., 
+OD,Sat,Cambridge,11th Step Meditation,"Nazarene Ch., 234 Franklin",NOON-1:30 p.m., 
+OD,Sat,Cambridge,Talk Of The Town,"First Church Cong'l, 11 Garden St.",NOON - 1p.m., 
+OSD,Sat,Cambridge,Nite,"City Hosp., 3rd Fl. Conf. Rm., Camilia Ave.",7:30 - 8:30p.m., 
+CD,Sat,Cambridge,Discussion,"Mt. Auburn Hosp., Dining Room 2",7:30 p.m., 
+OD,Sat,Canton,Hang Loose,"St. Gerard's, 1860 Washington St.",10:30 a.m., 
+O,Sat,Canton,Sat. Nite,"Shawmut Industrial Park, 40 Hudson Rd.",7-8 p.m., 
+O,Sat,Carver,Center,"Our Lady of Lourdes, Rte. 58",8-9 p.m., 
+OD,Sat,Centerville,Hour Of Power,"Our Lady, 230 S. Main St.",7:30 a.m., 
+OD,Sat,Centerville, ,"Our Lady of Victory, 230 S. Main St.",7:30 p.m., 
+CDW,Sat,Charlestown,Willingness,"MGH Hth. Ctr., 73 High St., 2nd Fl. Conf.",10 - 11:30 a.m., 
+OD,Sat,Charlestown,Reflections,586 Rutherford Ave.,12-1 p.m., 
+OBB12,Sat,Charlestown,Step Study,"Const.Inn, Banquet Rm.,5th fl.,150 2nd Ave.,Navy Yard",1 p.m., 
+O,Sat,Charlestown,We're Not Sure Yet,586 Rutherford Ave.,7:15-8:15 pm, 
+CBB,Sat,Chelmsford,Dawn Breakers,"St. John's, 115 Middlesex St.",7:00-8:15 a.m.,Handicap Yes
+OD,Sat,Chelmsford,Serenity,"St. John's Evan, 115 Middlesex St., No. Chelmsford",7:00 p.m., 
+OD,Sat,Chelsea,Fair Weather Forecast,"Picnic tables, Mary O'Malley Pk., Admiral's Hill",10 a.m.,Yes
+CD,Sat,Clinton, ,"A.I.R., 256 High St.",11:00 a.m., 
+OD,Sat,Clinton,P.M.,"A.I.R., 256 High St.",7-8 p.m., 
+C12T1,Sat,Concord,1st Things 1st,"Emerson Hosp.,133 Old Rd. to 9 Acre Corner",7:30-8:30 p.m., 
+OD,Sat,Cuttyhunk, ,"Meth. Ch., Broadway (Summer Only)",8:30 p.m., 
+CBB,Sat,Danvers,Back to Basics-1st 164 Pg.,"Trinity Ch., Sylvan St.",10 - 11:15 a.m., 
+O,Sat,Danvers,Danvers Sat. Noon,"All Saints Ch., Holten St.",Noon - 1 p.m., 
+CD,Sat,Danvers,Old Town,"Holy Trinity Meth. Ch., 16 Sylvan, Rear",8-9 p.m., 
+OBB,Sat,Dennis,AM,"Masonic Hall, Old Bass River Rd., So. Dennis",10:30-11:30 a.m., 
+OD,Sat,Dennis,Live at Five,"Masonic Hall, 242 Old Bass River Rd.",6-7 p.m.,Handicap Yes
+O,Sat,Dorchester,Port Norfolk,"Christ Community ch., 51 Walnut St.",7-8 p.m., 
+O,Sat,Dorchester,Hang On,"Carney Hosp., Main Entrance",7:30-8:30 p.m., 
+O,Sat,Dracut,Open Door,"St. Francis Ch., 115 Wheeler Rd.",8 p.m., 
+CBB,Sat,E. Boston,Big Book,"65 London St., Basement, 2nd Door",1 p.m., 
+O,Sat,E. Bridgewater,We're Not All There,"Meth. Ch., 54 N. Central",7-8 p.m., 
+O,Sat,E. Falmouth,Waquoit,"Congregational Ch., Rte. 28",7:30 - 8:30 pm, 
+O,Sat,Everett,Pathfinders,"Our Lady of Grace Ch., 194 Nichols St.",10 - 11 a.m., 
+O,Sat,Everett,Helping Hand,"First Baptist Ch., 50 Church St.",7:30 p.m.,Handicap Yes
+OD,Sat,Fall River,Sat. Night A.A.,"Fr. D's Comm. Ctr., 220 Johnson St.",7:30-8:30 p.m., 
+OD,Sat,Falmouth,Each Day A New Beginning,"Falmouth Hosp., Faxon Conf. Rm.",7:30 a.m., 
+CD,Sat,Falmouth, ,"Hospital, 100 Ter Heun Dr.",8:00 p.m.,Handicap Yes
+O12,Sat,Foxboro,Daily Winners,"Community Ctr., 382 South St.,",8-9 a.m., 
+CDM,Sat,Framingham,No Excuses,"Dunkin Donuts, 266 Concord St.",5:00 a.m.,Handicap Yes
+OD,Sat,Framingham,AM-DAAT Beginners,"Methodist Ch., Brook & Water Sts.",10:00-11:30 a.m., 
+OSD,Sat,Framingham,Last Call,"Drop In Center, 62A Kendall St.",Noon, 
+O,Sat,Franklin, ,"St. John's, 237 Pleasant St.",8-9 p.m., 
+OSD,Sat,Gardner,Mid Day,205 School St,Noon - 1 pm,Handicap yes
+O,Sat,Gardner,Chair City,"Holy Rosary, off Reagan St.",8-9 p.m., 
+OD,Sat,Gloucester,Cape Ann Early Bird,"Baptist Church, Gloucester Ave.",7:00-8:00 a.m., 
+OSD,Sat,Gloucester,Sat. And Sober,"Trinity Ch., 70 Middle St.",9:30 a.m., 
+OBB,Sat,Gloucester,Free To Be Me,"St. John's, Middle St.",8:00 p.m., 
+OD,Sat,Grafton,Common Bond,"Congregational Ch., 30 Grafton Common",1:30-2:30 p.m., 
+OD,Sat,Harvard,Happy Joyous & Free,"St. Theresa Ch., 15 Still River Rd., Rte. 110",9-10:15 a.m., 
+O,Sat,Harwichport, ,"Christ Episcopal, Rte. 28",7:30-8:30 p.m.,Handicap Yes
+OSD,Sat,Haverhill,So. Orig.,"St. John the Baptist, 110 Lincoln Ave.",9:30 - 10:30 a.m., 
+SD,Sat,Haverhill,Groveland,"Merrimack Valley Hosp. Aud., 140 Lincoln Ave.",6:45-7:45 p.m.,Handicap Yes
+CSDM,Sat,Haverhill,Original Men's,"Whittier Pavilion, 76 Summer St.",6:45-7:45 p.m., 
+O,Sat,Hingham,Alternative,"St. John's Evangelist, 172 Main St., off Water St.",7 p.m., 
+OSD,Sat,Holliston,Morning Risers,"1st. Baptist Ch., 40 High St.",10 a.m., 
+CD,Sat,Hopedale, ,"Sacred Heart Ch.,187 Hopedale St",8:30 a.m., 
+O12,Sat,Hyannis,Sat. Nite Live,Human Services 460 W. Main St.,7:00 p.m., 
+O,Sat,Hyde Park,Just For Today,"Malone Sr. Housing, 11 Gordon Ave.",10 a.m.,Handicap Yes
+OSD,Sat,Ipswich,Reconciliation,"1st Ch., 1 Meeting House Green",10:30 a.m.,Handicap Yes
+O,Sat,Jamaica Plain,Pick Up,"Brookside, 3297 Wash. St.",10 a.m.,Handicap Yes
+O,Sat,Jamaica Plain,Federal,Shattuck Hosp.,7:30 - 8:30 p.m., 
+OD,Sat,Kingston,Early Bird Gratitude,"VCF Ch., 8 Hilltop Rd.",7-8 a.m., 
+CSD,Sat,Lawrence,New Beginnings,"Riverside Ch., 290 Water St.",10:30-11:30 a.m.,Handicap Yes
+OD,Sat,Leominster,Eye Opener,"Masonic Lodge, 69 West St",7-8 a.m., 
+OD,Sat,Leominster,New Freedom,"Chapel All Saints, 1469 Main St.",5:30 p.m., 
+O12,Sat,Leominster,Bill & Bob's Buddies,"AHRP, 49 Central St.",7:00 p.m., 
+O*,Sat,Leominster,Lake Whalom,"Our Lady of the Lake, 1400 Main St.",7:30 - 9 p.m., 
+CD,Sat,Lexington,First Shot,"Hancock Cong. Ch., 1912 Mass. Ave.",10-11 a.m., 
+OD,Sat,Lexington,Sat. Night Live,"Follen Comm. Ch., 755 Mass. Ave.",5:30-6:30 p.m., 
+C12G,Sat,Lincoln, ,"St. Anne's Lower Level, 147 Concord Rd",5:30 p.m.,Handicap Yes
+O,Sat,Lowell,Eyeopener,"Christ Jubilee Intl., 101 Smith St.",10 a.m., 
+OBB12T,Sat,Lowell,May Day,"Lowell House, 102 Appleton St",Noon,Handicap Yes
+CD,Sat,Lynn,Recovery,"Lynn Art, 25 Exchange St., Rear",7:00 a.m., 
+O,Sat,Lynn,Common,"St. Mary's, Pleasant St., Rear",10 - 11 a.m.,Handicap Yes
+OD,Sat,Lynn,No. Shore,38 South Common St,7:30 p.m., 
+O,Sat,Magnolia, ,"Congregational, Norman Ave.",8-9 p.m.,Handicap Yes
+OD,Sat,Malden,Early Risers,"Lutheran Ch., 98 Waite St.",7 a.m., 
+OBB12W,Sat,Malden,Morning Glory,"St. Paul's, Florence & Washington Sts.",11:00 a.m.,Handicap Yes
+OD,Sat,Malden,Tell It Like It Is,"Club 24, 787 Salem St.",2 - 3 p.m., 
+CD,Sat,Marblehead,Jumpstart,8 Anderson St.,7:00 a.m., 
+CD,Sat,Marblehead,11th Step Meditation,"Unitarian Ch., 28 Mugford",8-9 a.m., 
+OD,Sat,Marblehead,Light one Candle,"28 Mugford St., Side Entrance, 2nd Fl.",10:30 a.m., 
+CD,Sat,Marblehead, ,8 Anderson St.,Noon-1:30 p.m., 
+OBB,Sat,Marblehead,Quittin Time,8 Anderson St.,4:00 p.m., 
+OD,Sat,Marblehead,Just Don't Drink Beginners,8 Anderson St.,6:30-7:30 p.m., 
+CD,Sat,Marblehead,A Way Out,"Counseling Center, 66 Clifton Ave.",7-8:30 p.m., 
+OD,Sat,Marblehead,Discussion,8 Anderson St.,8:30 p.m., 
+OSD,Sat,Marion,High Five,"1st Cong. Ch., Comm. Ctr., 144 Front St.",5:00 p.m., 
+OD,Sat,Marlboro,Early Risers,"Congregational Ch., 30 High St.,@ Bolton St.",6:45 - 8 a.m., 
+O,Sat,Marlboro,Helping Hand,"St. Matthias, 409 Hemenway St.",NOON-1 p.m., 
+C12,Sat,Marlboro,Road To Recovery,33 Main St.,5-6:15 p.m., 
+OD,Sat,Marlboro,Sat. Night Live,33 Main St.,7:30 - 8:30 p.m., 
+OBB12,Sat,Marshfield,BBSS,"United Meth. Ch. Hall, 185 Plain St., Rte 139",5:30 p.m.,Handicap Yes
+O*,Sat,Marshfield, ,"Trinity Episcopal Ch., 229 Highland.,",7:00 p.m. Beg. 6 p.m.,Handicap Yes
+OD,Sat,Martha's Vnyd.,Open Discussion,"1st Baptist Par. Hse., 66 William St., V.H.",6:45 a.m.,Yes
+O12,Sat,Martha's Vnyd., ,"1st Baptist Par. Hse., 66 William St., Vnyd. Haven",10:00 a.m.,Handicap Yes
+OSD,Sat,Martha's Vnyd., ,"Federated Church, 45 So. Summer St., Edgartown",8:00 p.m.,Handicap Yes
+CD,Sat,Medfield,Keep It Simple,"U-House, 26 North St.",8:00 a.m., 
+CD,Sat,Medfield,Caring & Sharing,"1st Baptist Ch., Rte. 109 & South St.",10:30-11:30 a.m., 
+CBB,Sat,Medford,Big Book,"Unitarian Ch., 147 High St., Side Door",7-8 p.m.,Yes
+CD,Sat,Melrose,Talk Of The Town,"Cong. Ch., 121 W. Foster St.",3-4 p.m., 
+OSD,Sat,Methuen,Sat-Alive Alcohol Only,"Holy Family Hosp., 70 East St.",8:15-9:15 p.m.,Handicap Yes
+O,Sat,Middleboro,Acceptance,"Father Shea Ctr., Oak & Center Sts.",7:30 p.m., 
+C12,Sat,Middleton,Good Prospects,"Congregational Ch., 68 Maple St.",7:00 p.m., 
+O,Sat,Millbury,Traditions,Federated Church Center,7:30-8:30 p.m., 
+OD,Sat,Milton,Farm,"Methodist Church, 158 Blue Hills Pkwy.",NOON, 
+CD,Sat,Milton,Keep It Simple,"St. Michael's, 112 Randolph Ave.",8:30 p.m., 
+OD,Sat,Nantucket, ,"Drop In Center, Vesper Lane",7:00 a.m., 
+OD,Sat,Nantucket, ,"Drop In Center, Vesper Lane",NOON, 
+OD,Sat,Nantucket, ,"Fr. Griffin Hall, Cherry St.",8 p.m., 
+CD,Sat,Natick,5th Tradition,"St. Linus Ch., 119 Hartford St.",10-11:15 a.m., 
+OSDYP,Sat,Natick,Noodles,"Community Ch., 13 Common St.",7-8:15 pm, 
+OBB12,Sat,Needham,BBSS,"Christ Episcopal Ch., 1132 Highland Ave.",5:00 p.m., 
+CDW,Sat,New Bedford,Serenity Sisters II,"St. Joseph's Ch. Basement, 35 Kearsarge St., Rear",9-10:15 a.m., 
+OSD,Sat,New Bedford,Daily Reflections,"Faith Ministries, 177 Cove St.",Noon, 
+CM,Sat,New Bedford,Brothers In Arms,"No. End Com. Ctr., 360 Coggeshall St.",5 p.m.,Handicap Yes
+O*,Sat,New Bedford,Solution,"1st Cong. Ch., 2195 Acushnet Ave.","6:30 p.m., beg. 5 p.m.", 
+OD,Sat,New Bedford,Luz Da Noite Portuguese,157 Davis St.,7 p.m., 
+CD,Sat,New Bedford,South Side,"Holy Name Ch.,121 Mt. Pleasant, Rear",7 p.m., 
+O,Sat,New Bedford,Miracles Happen,"Faith Ministries, 177 Cove St.",8:00 p.m., 
+O,Sat,Newburyport,Sat A.M.,"St. Paul's Ch., 166 High St.",8-9 a.m.,Handicap Yes
+CD,Sat,Newton,Jump Start,"Ch. of Messiah, 1900 Comm. Ave.",6:45-7:45 a.m., 
+OD,Sat,Newton,Reflectlons,"United Ch. of Auburndale, 64 Hancock St.",7 a.m., 
+SD,Sat,Newton,Miracles,"Unitarian Ch., 1326 Washington St.",9:00 a.m.,Handicap Yes
+OD,Sat,Newton,11th Step,"MDC, 107 Charles St.",9:30 a.m., 
+O,Sat,Newton,New way of Life,"Elliot Ch., Fellowship Hall, 474 Center",1-2 p.m., 
+OSD,Sat,Newton,Promises Promises,"MDC, 107 Charles St.",6:00 p.m., 
+OBB12,Sat,Newton,New Freedom,"Our Lady of Christian Help, 575 Wash. St., Base.",7:00 p.m., 
+CBB12,Sat,No. Dartmouth,Journey to the Big Book,"Congrgational Ch., 11 Anderson Way",Noon-1:00 p.m., 
+OD,Sat,No. Reading,Friends Of Bill W.,"Union Cong.,148 Haverhill St.",9:30 a.m., 
+O12,Sat,Norfolk,Daily Steps,"St. Jude's, 86 Main St.",NOON-1:15 p.m., 
+O,Sat,Northboro, ,"Historical Bldg., Main & School Sts.",10-11 a.m., 
+OB12,Sat,Norton,BB Step Study Original Recipe,"Trinitarian Ch., Rte. 123",9:30 a.m., 
+O*,Sat,Norwell,Acceptance,"St. Helen's, Rte. 53",8:30 p.m. Beg. 7-8 p.m.,Handicap Yes
+O12,SAT,Norwood,Weekend Warriors,1040 Washington St,noon, 
+O,Sat,Norwood, ,"Town Hall, 566 Washington St.",7:30 p.m.,Handicap Yes
+OD,Sat,Onset,Lighthouse,"Spiritualist Ch., 17 Highland St.",7:00 p.m., 
+OD,Sat,Orleans, ,"Drop In Center, 26 Giddiah Hill Rd.","7 a.m., NOON, 5 p.m. 8 p.m.",Handicap Yes
+OD,Sat,Osterville,Sobriety First,"St. Peter's Epis., Wianno Ave.",8:30-9:45 a.m., 
+OD,Sat,Peabody,Ya But No Butt,"St. John Baptist, 17 Chestnut St.",10:30 a.m., 
+O12,Sat,Plymouth,Change & Rearrange,"Cong. Ch., State Rd.., 3A Manomet",9:00 a.m., 
+OD,Sat,Plymouth,Live & Let Live,Jordan Hosp.,10:30-11:30 a.m., 
+O,Sat,Plymouth,Anchor,"60 1/2 Cherry St., N. Plymouth",8:00 p.m., 
+OD,Sat,Pocasset,Hit The Deck,"Firehse., 311 Barlows Landing Rd.",7:30-8:30 a.m., 
+ODBB,Sat,Pocasset,Roots & Causes,"Baptist Ch., 292 Barlows Landing Rd.",5:30 - 6:30 p.m., 
+OD,Sat,Provincetown, ,"U.U. MTG. House, 236 Commercial St.",NOON-1 p.m.,Handicap Yes
+OD,Sat,Provincetown, ,"Aids Support Group, 96 Bradford St.",5:30-6:30 p.m.,Handicap Yes
+OD,Sat,Quincy,Fort Sq. 11th Step,"Presbyterian Ch., 16 Pleasant",7-8 a.m.,Handicap Yes
+OD1,Sat,Quincy,Miracles on Saturday,"St. Chrysostom, 523 Hancock St.",2-3 p.m., 
+ODW,Sat,Quincy,Acceptance,"Manet Health Center, 1193 Sea St.",3:00 p.m., 
+O,Sat,Quincy,Faxon,"Union Cong., 136 Rawson Rd.",7-8 p.m., 
+OSD,Sat,Quincy,Saturday Night,"United Meth. Ch., 40 Beale St",8 -9 p.m., 
+OD,Sat,Randolph,Sat. Nite Beg.,"Trinity Ch., 120 N. Main St",7:00,H
+O12,Sat,Reading, ,"St. Athanasius, 300 Haverhill St.",NOON, 
+OD,Sat,Rockland,Miracles Happen,"First Cong. Ch., 12 Church St.",10 a.m., 
+OBB,Sat,Rockport, ,"First Cong., 12 School St.",8:30-9:30 a.m., 
+ONS,Sat,Roslindale,Sober's Better,"Cong. Ch., 25 Cummings Hywy., Roslindale",7:00-8:30 p.m., 
+CD,Sat,Rowley, ,"Cong. Ch., Rte. 1A",8:00 p.m., 
+OBB,Sat,Roxbury,Fireside,"N.E. Baptist, Potter Conf. Rm., 125 Parker Hill Ave.",8 p.m., 
+C12,Sat,Sagamore, ,"Cape Cod Rehab Hospital, 311 Service Rd.",9:30-10:30 a.m., 
+OBB12,Sat,Sagamore,Spiritual Awakening,"Swift Memorial Activity Ctr., Old Plymouth Rd.",6:30 p.m., 
+O12T,Sat,Salem,Another Chance,"St. James Chapel, 156 Federal St., Rear",10-11:15 a.m.,Handicap Yes
+CSDYP,Sat,Salem,New Young People,"St. James Hall, 156 Federal St.",7-8 p.m., 
+O,Sat,Sandwich, ,"Cvnt Comm. Ch., 360 Quaker Mtg. Hse. Rd.",7:30 p.m., 
+CW,Sat,Scituate,Steel Magnolias,"First Parish Ch., 330 First Parish Rd.",9:30 a.m., 
+C12,Sat,Scituate,Safe Harbor,"Harbor United Meth. Ch., 1st Parish Rd.",10 a.m., 
+CBB,Sat,Sherborn,A Vision For You,"St. Theresa, 32 So. Main St., Rte. 27",7-8:15 p.m., 
+CBB,Sat,So. Boston,Pilot House,"Task Force, 345 Old Colony Ave.",7:15 a.m., 
+OD,Sat,So. Boston,Early Bird,"St. Bridget's, 845 E. Broadway",8-9:30 AM,Handicap Yes
+O,Sat,So. Boston,Primary Purpose,"St. Monica's Hall Base., 331 Old Colony Ave",6-7 p.m., 
+O,Sat,So. Yarmouth,Statlon Ave.,"St. Pius X Hall, Station Ave.",7:30 - 8:30 p.m.,Handicap Yes
+O,Sat,Somerville,Esperanza (Portuguese),"92 Union Sq.,",5:00 p.m., 
+O,Sat,Somerville, ,"St. Clement's, Schl, 71 Warner St.",7:30-8:30 p.m., 
+CD,Sat,Stoneham,2 for 1,"1st Baptist Ch., 457 Main St., Enter Hancock",1-2 pm, 
+OSDW,Sat,Stoneham,Women in Sobriety,"All Saints Epis. Ch., 79 Central St.",6-7 pm,handicap yes
+CDW,Sat,Stoughton,Women's Daily Miracle,"First Cong'l Church, 76 Pierce St.",11 a.m., 
+OSD,Sat,Swampscott,How It Works,"St. John the Evangelist, 174 Humphrey St.",11:30 a.m., 
+CD,Sat,Swampscott,"Sometimes Quickly, Sometimes Slowly","Unitarian Universalist Ch., 101 Forest Ave",5-6 p.m.,Yes
+O,Sat,Taunton,Finest,"Fitzsimmons Elderly Hse., Oak & 30 Olney Sts.",10:30 a.m.,Handicap Yes
+OD,Sat,Taunton,Dinosaur's,"Morton Hosp., 88 Wash. St., Stone Rm.",8:00 p.m., 
+C12W,Sat,Tewksbury,Miracles Today,"State Hosp.,365 East St., Adm. Bldg.,Green Rm",10:00 a.m., 
+OBB,Sat,Tewksbury,New Hope,"State Hospital Chapel, 365 East St.",Noon, 
+OSD,Sat,Topsfield,New Meadows,"Trinity Epis., 124 River Rd.",10 a.m.,Handicap Yes
+OD,Sat,W. Bridgewater,Just For Today,"24 S. Clubhouse, 320 W. Center St.",7 - 8 a.m., 
+O,Sat,W. Bridgewater,Let's Give It Away,"24 South Club, 320 West Center St.",9 - 10 a.m., 
+OD,Sat,W. Roxbury, ,"The. Parker Ch., Centre & Corey Sts.",6:30-7:30 a.m.,Handicap Yes
+O,Sat,Wakefield, ,"Congregational, 1 Church Street",7:30 p.m., 
+OD,Sat,Walpole,Sat. Nite Live,"Senior Ctr., 135 School St.",7:30 p.m.,Handicap Yes
+O,Sat,Waltham,Sat. Nite,"Presbyterian Ch., 34 Alder St. @ Beech",7:30 p.m., 
+O,Sat,Wareham, ,"Old Courthouse, 54 Marion Rd, Route 6",11:00 a.m-NOON, 
+OD,Sat,Wayland,Peoples Beg.,"Holy Spirit, 169 Rice Rd.",7-8:15 p.m.,Handicap Yes
+CDW,Sat,Wellesley,Sober Sisters,"St. Andrew's, 73 Denton Rd.",10:30 a.m., 
+O,Sat,West Bridgewater,Listen to Learn,"24 So. Club, 320 W. Center St.",9-10 am, 
+CD,Sat,Westboro,Little Books,"Good Shepard Luth. Ch., 183 W. Main St.",7:30-8:30 p.m., 
+OD,Sat,Westford,Friends Of Dr. Bob,"Fletcher Library, 50 Main St.",10:15 a.m., 
+O,Sat,Westport,Freedom to Live,"St. George Ch.Hall, 12 Highland Ave.",7:30 p.m.,Handicap Yes
+O*,Sat,Weymouth,Sat. A.M.,"Immac .Conc. Sch. Base, 1199 Comm. St.","10:30-11:30 a.m., Beg. 9:15", 
+CD,Sat,Wilmington,As Bill Sees It,"Family Medical Ctr., Rte. 62","10 - 11 a.m., no break", 
+OD,Sat,Winchester,How Sweet It Is,"Unitarian Ch., 478 Main St.",8-9 p.m., 
+CDW,Sat,Winthrop,Women Of Unity,"1st Meth. Church,217 Winthrop St.(enter rear)",10:30 a.m., 
+O*,Sat,Winthrop,By The-Sea,"St. John's Episcopal, 222 Bowdoin St.",7:30 p.m. beg. 6pm, 
+ODYP,Sat,Woburn, ,"St. Charles Sch. Caf., 282 Main St.",NOON,Handicap Yes
+OD,Sat,Worcester,7A Group,107 Lincoln St.,7:00-8:00 a.m.,Handicap Yes
+O,Sat,Worcester, ,"695 Main St., 4th Floor",9:30 a.m., 
+OBB12,Sat,Worcester,Big Book Step Study,"St Stephen's, 357 Grafton St.",10 a.m., 
+O,Sat,Worcester,Rebound,"St. George, 40 Brattle St.",8:30 p.m., 
+OSD,Sat,Wrentham,Saturday Nite 5,"Senior Center, 400 Taunton St",5:30 PM, 
