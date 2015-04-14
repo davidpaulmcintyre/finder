@@ -1,4 +1,5 @@
 //var http = require('http');
+//THIS DOESNT WORK.  USED PYTHON SCRIPT INSTEAD
 var MongoClient = require('mongodb').MongoClient;
 var request = require('request');
 

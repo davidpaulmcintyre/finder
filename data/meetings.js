@@ -11,20 +11,25 @@ function MeetingsDAO(db) {
 
     var meetings = db.collection("meetings");
 
-    if (!(this.getMeetings = function (filters, callback) {
+    if (!(this.getMeetings = function (queryStr, callback) {
             "use strict";
-            console.log('filters = ' + filters);
             var query = {};
-            for (var filter in filters) {
-                if (filters.hasOwnProperty(filter)) {
-                    var _value = filters[filter];
+            for (var item in queryStr) {
+                if (queryStr.hasOwnProperty(item)) {
+                    var _value = queryStr[item];
                     if (_value && _value.length > 0) {
-
-                        query[filter] = _value;
+                        if (item === 'location'){
+                            query['location'] = {
+                                $near: [parseFloat(_value[0]), parseFloat(_value[1])],
+                                $maxDistance: 10000
+                            }
+                        } else {
+                            query[item] = _value;
+                        }
                     }
                 }
             }
-            meetings.find(query).limit(50).toArray(function (err, items) {
+            meetings.find(query).limit(20).toArray(function (err, items) {
                 "use strict";
 
                 if (err) return callback(err, null);

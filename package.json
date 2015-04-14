@@ -5,6 +5,7 @@
   "private": true,
   "dependencies": {
     "body-parser": "^1.12.2",
+    "connect": "^3.3.5",
     "express": "^4.12.3",
     "flux": "^2.0.1",
     "griddle-react": "^0.2.12",
